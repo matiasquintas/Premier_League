@@ -1,0 +1,946 @@
+---
+title: "Predicción Temporada 2019/2020"
+output: html_document
+---
+
+## R Markdown
+
+Importación de Datasets
+
+```{r}
+#setwd('/Users/matiasquintas/Desktop/Curso Data Science/Premier')
+rm(list = ls())
+players14_15 <- read.csv('Player Stats 2014-15.csv', sep = ',', stringsAsFactors = F)
+table14_15 <- read.csv('Tables 2014-15.csv', sep = ',', stringsAsFactors = F)
+players15_16 <- read.csv('Player Stats 2015-16.csv', sep = ',', stringsAsFactors = F)
+table15_16 <- read.csv('Tables 2015-16.csv', sep = ',', stringsAsFactors = F)
+players16_17 <- read.csv('Player Stats 2016-17.csv', sep = ',', stringsAsFactors = F)
+table16_17 <- read.csv('Tables 2016-17.csv', sep = ',', stringsAsFactors = F)
+players17_18 <- read.csv('Player Stats 2017-18.csv', sep = ',', stringsAsFactors = F)
+table17_18 <- read.csv('Tables 2017-18.csv', sep = ',', stringsAsFactors = F)
+players18_19 <- read.csv('Player Stats 2018-19.csv', sep = ',', stringsAsFactors = F)
+table18_19 <- read.csv('Tables 2018-19.csv', sep = ',', stringsAsFactors = F)
+players19_20 <- read.csv('Player Stats 2019-20.csv', sep = ',', stringsAsFactors = F)
+table19_20 <- read.csv('Tables 2019-20.csv', sep = ',', stringsAsFactors = F)
+```
+
+
+
+```{r}
+#install.packages('rsconnect')
+#rsconnect::setAccountInfo(name='matiasquintas', token='3C0FF964EF7024119CD17C19E69732EA', secret='nUSC6+RwR3EKRNQAHh1uwKLxbmXGzKeWQDjhRD9d')
+```
+
+Preparación Dataset Temporada 2014/2015
+```{r}
+#Dejo solo las estadísticas correspondientes a la Premier League
+players14_15 <- players14_15[players14_15$League=='Premier League',]
+tail(players14_15)
+
+summary(players14_15) 
+
+#Me quedo con la tabla general
+table14_15 <- table14_15[(table14_15$League=='Premier League')&(table14_15$Table.Type=='League Table'),]
+tail(table14_15)
+
+table14_15 <- table14_15[,c(2:3, 5:9, 11, 13, 14)]
+```
+
+
+```{r}
+#Dejo solo los registros que tienen jugadores
+players14_15 <- players14_15[players14_15$Player!='',]
+
+library(tidyverse)
+
+#Imputación de nulos
+
+players14_15$Appearances <- replace_na(players14_15$Appearances, 0)
+players14_15$Assists <- replace_na(players14_15$Assists, 0)
+players14_15$CS <- replace_na(players14_15$CS, 0)
+players14_15$Sent.Off <- replace_na(players14_15$Sent.Off, 0)
+
+summary(players14_15) 
+```
+
+```{r}
+#Selecciono las columnas que voy a utilizar de cada dataset y hago un merge
+players14_15 <- players14_15[c('League',  'Team', 'Season', 'KEY', 'Player', 'Position', 'Appearances', 'Goals', 'Assists', 'CS', 'Sent.Off')]
+
+pos_14_15 <- table14_15[,c('KEY', 'Pos')]
+players14_15 <- merge(players14_15,pos_14_15, by='KEY', all.x=TRUE, all.y=FALSE)
+
+```
+
+```{r}
+#Calculo el "capital" de cada jugador
+players14_15$Capital <- 0
+for (i in 1:nrow(players14_15)){
+  players14_15$Capital[i] <- (players14_15$Appearances[i] + players14_15$Goals[i]*8 + players14_15$Assists[i]*2 + players14_15$CS[i] - players14_15$Sent.Off[i]) * (-players14_15$Pos[i]+21)
+}
+sum(players14_15[players14_15$Pos==1, 'Capital'])
+sum(players14_15[players14_15$Pos==2,'Capital'])
+sum(players14_15[players14_15$Pos==20,'Capital'])
+```
+
+
+
+```{r}
+#Calculo el capital total por equipo
+players14_15%>%
+  select (Team, Capital, Pos) %>% 
+    group_by(Team, Pos)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+
+
+```
+
+```{r}
+Capital14_15 <- players14_15%>%
+  select (Capital, KEY) %>% 
+    group_by(KEY)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+```
+
+
+```{r}
+box_14_15 <- ggplot(data = players14_15, aes(x = Team, y = Capital))
+
+box_14_15 <- box_14_15 + geom_boxplot(fill='#3182bd')
+
+box_14_15 <- box_14_15  +
+  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  stat_summary(fun.y = mean, colour = "orange", geom = "point", shape = 18, size = 1, 
+              show.legend = FALSE) +
+  ggtitle(label = 'Distribución Capital por Equipo', subtitle = 'Temporada 2014/2015')
+
+box_14_15 
+```
+
+```{r}
+#Le adjunto a la tabla general el capital total por equipo
+table14_15 <- merge(table14_15, Capital14_15, by='KEY', all.x=TRUE, all.y=FALSE)
+
+
+```
+
+Preparación Dataset Temporada 2015/2016
+```{r}
+#Dejo solo las estadísticas correspondientes a la Premier League
+players15_16 <- players15_16[players15_16$League=='Premier League',]
+tail(players15_16)
+
+summary(players15_16) 
+
+#Me quedo con la tabla general
+table15_16 <- table15_16[(table15_16$League=='Premier League')&(table15_16$Table.Type=='League Table'),]
+tail(table15_16)
+
+table15_16 <- table15_16[,c(2:3, 5:9, 11, 13, 14)]
+```
+
+```{r}
+#Dejo solo los registros que tienen jugadores
+players15_16 <- players15_16[players15_16$Player!='',]
+
+
+#Imputación de nulos
+
+players15_16$Appearances <- replace_na(players15_16$Appearances, 0)
+players15_16$Assists <- replace_na(players15_16$Assists, 0)
+players15_16$CS <- replace_na(players15_16$CS, 0)
+players15_16$Sent.Off <- replace_na(players15_16$Sent.Off, 0)
+
+summary(players15_16) 
+```
+
+```{r}
+#Selecciono las columnas que voy a utilizar de cada dataset y hago un merge
+players15_16 <- players15_16[c('League',  'Team', 'Season', 'KEY', 'Player', 'Position', 'Appearances', 'Goals', 'Assists', 'CS', 'Sent.Off')]
+
+pos_15_16 <- table15_16[,c('KEY', 'Pos')]
+players15_16 <- merge(players15_16,pos_15_16, by='KEY', all.x=TRUE, all.y=FALSE)
+```
+
+```{r}
+#Calculo el "capital" de cada jugador
+players15_16$Capital <- 0
+for (i in 1:nrow(players15_16)){
+  players15_16$Capital[i] <- (players15_16$Appearances[i] + players15_16$Goals[i]*8 + players15_16$Assists[i]*2 + players15_16$CS[i] - players15_16$Sent.Off[i]) * (-players15_16$Pos[i]+21)
+}
+sum(players15_16[players15_16$Pos==1, 'Capital'])
+sum(players15_16[players15_16$Pos==2,'Capital'])
+sum(players15_16[players15_16$Pos==20,'Capital'])
+```
+
+```{r}
+#Calculo el capital total por equipo
+players15_16%>%
+  select (Team, Capital, Pos) %>% 
+    group_by(Team, Pos)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+
+Capital15_16 <- players15_16%>%
+  select (Capital, KEY) %>% 
+    group_by(KEY)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+```
+
+```{r}
+box_15_16 <- ggplot(data = players15_16, aes(x = Team, y = Capital))
+
+box_15_16 <- box_15_16 + geom_boxplot(fill='#3182bd')
+
+box_15_16 <- box_15_16  +
+  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  stat_summary(fun.y = mean, colour = "orange", geom = "point", shape = 18, size = 1, 
+              show.legend = FALSE) +
+  ggtitle(label = 'Distribución Capital por Equipo', subtitle = 'Temporada 2015/2016')
+
+box_15_16 
+```
+
+
+```{r}
+#Le adjunto a la tabla general el capital total por equipo
+table15_16 <- merge(table15_16, Capital15_16, by='KEY', all.x=TRUE, all.y=FALSE)
+
+
+
+```
+
+
+```{r}
+#Agrego los puntos y capital de la temporada a la temporada anterior
+pred_15_16 <- table15_16[,c(2,3,9:11)]
+names(pred_15_16)[3] <- 'Pts_next_season'
+names(pred_15_16)[5] <- 'Capital_next_season'
+names(pred_15_16)[1] <- 'Pos_next_season'
+
+table14_15 <-  merge(table14_15, pred_15_16, by='Team', all.x=TRUE, all.y=FALSE)
+
+#Imputación de nulos
+
+table14_15$Pts_next_season <- replace_na(table14_15$Pts_next_season, 0)
+table14_15$Capital_next_season <- replace_na(table14_15$Capital_next_season, 0)
+table14_15$Pos_next_season <- replace_na(table14_15$Pos_next_season, 20)
+
+names(table14_15)[10] <- 'Season'
+table14_15 <- table14_15[,-14]
+
+set.seed(334)
+trIndexAleatorio14_15  <- sample(nrow(table14_15),0.7*nrow(table14_15),replace=F)
+vaIndexAleatorio14_15  <- seq_len(nrow(table14_15))[!(seq_len(nrow(table14_15)) %in% trIndexAleatorio14_15)]
+training14_15 <- table14_15[trIndexAleatorio14_15,]
+testing14_15 <- table14_15[vaIndexAleatorio14_15,]
+
+```
+
+
+
+Preparación Dataset Temporada 2016/2017
+```{r}
+#Dejo solo las estadísticas correspondientes a la Premier League
+players16_17 <- players16_17[players16_17$League=='Premier League',]
+tail(players16_17)
+
+summary(players16_17) 
+
+#Me quedo con la tabla general
+table16_17 <- table16_17[(table16_17$League=='Premier League')&(table16_17$Table.Type=='League Table'),]
+tail(table16_17)
+
+table16_17 <- table16_17[,c(2:3, 5:9, 11, 13, 14)]
+```
+
+```{r}
+#Dejo solo los registros que tienen jugadores
+players16_17 <- players16_17[players16_17$Player!='',]
+
+
+#Imputación de nulos
+
+players16_17$Appearances <- replace_na(players16_17$Appearances, 0)
+players16_17$Assists <- replace_na(players16_17$Assists, 0)
+players16_17$CS <- replace_na(players16_17$CS, 0)
+players16_17$Sent.Off <- replace_na(players16_17$Sent.Off, 0)
+
+summary(players16_17) 
+```
+
+```{r}
+#Selecciono las columnas que voy a utilizar de cada dataset y hago un merge
+players16_17 <- players16_17[c('League',  'Team', 'Season', 'KEY', 'Player', 'Position', 'Appearances', 'Goals', 'Assists', 'CS', 'Sent.Off')]
+
+pos_16_17 <- table16_17[,c('KEY', 'Pos')]
+players16_17 <- merge(players16_17,pos_16_17, by='KEY', all.x=TRUE, all.y=FALSE)
+```
+
+```{r}
+#Calculo el "capital" de cada jugador
+players16_17$Capital <- 0
+for (i in 1:nrow(players16_17)){
+  players16_17$Capital[i] <- (players16_17$Appearances[i] + players16_17$Goals[i]*8 + players16_17$Assists[i]*2 + players16_17$CS[i] - players16_17$Sent.Off[i]) * (-players16_17$Pos[i]+21)
+}
+sum(players16_17[players16_17$Pos==1, 'Capital'])
+sum(players16_17[players16_17$Pos==2,'Capital'])
+sum(players16_17[players16_17$Pos==20,'Capital'])
+```
+
+```{r}
+#Calculo el capital total por equipo
+players16_17%>%
+  select (Team, Capital, Pos) %>% 
+    group_by(Team, Pos)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+
+Capital16_17 <- players16_17%>%
+  select (Capital, KEY) %>% 
+    group_by(KEY)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+```
+
+```{r}
+box_16_17 <- ggplot(data = players16_17, aes(x = Team, y = Capital))
+
+box_16_17 <- box_16_17 + geom_boxplot(fill='#3182bd')
+
+box_16_17 <- box_16_17  +
+  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  stat_summary(fun.y = mean, colour = "orange", geom = "point", shape = 18, size = 1, 
+              show.legend = FALSE) +
+  ggtitle(label = 'Distribución Capital por Equipo', subtitle = 'Temporada 2016/2017')
+
+box_16_17 
+```
+
+
+```{r}
+#Le adjunto a la tabla general el capital total por equipo
+table16_17 <- merge(table16_17, Capital16_17, by='KEY', all.x=TRUE, all.y=FALSE)
+
+
+```
+
+```{r}
+#Agrego los puntos y capital de la temporada a la temporada anterior
+pred_16_17 <- table16_17[,c(2,3,9:11)]
+names(pred_16_17)[3] <- 'Pts_next_season'
+names(pred_16_17)[5] <- 'Capital_next_season'
+names(pred_16_17)[1] <- 'Pos_next_season'
+
+table15_16 <-  merge(table15_16, pred_16_17, by='Team', all.x=TRUE, all.y=FALSE)
+
+#Imputación de nulos
+
+table15_16$Pts_next_season <- replace_na(table15_16$Pts_next_season, 0)
+table15_16$Capital_next_season <- replace_na(table15_16$Capital_next_season, 0)
+table15_16$Pos_next_season <- replace_na(table15_16$Pos_next_season, 20)
+
+
+names(table15_16)[10] <- 'Season'
+table15_16 <- table15_16[,-14]
+
+set.seed(334)
+trIndexAleatorio15_16  <- sample(nrow(table15_16),0.7*nrow(table15_16),replace=F)
+vaIndexAleatorio15_16  <- seq_len(nrow(table15_16))[!(seq_len(nrow(table15_16)) %in% trIndexAleatorio15_16)]
+training15_16  <- table15_16[trIndexAleatorio15_16 ,]
+testing15_16  <- table15_16[vaIndexAleatorio15_16 ,]
+```
+
+Preparación Dataset Temporada 2017/2018
+```{r}
+#Dejo solo las estadísticas correspondientes a la Premier League
+players17_18 <- players17_18[players17_18$League=='Premier League',]
+tail(players17_18)
+
+summary(players17_18) 
+
+#Me quedo con la tabla general
+table17_18 <- table17_18[(table17_18$League=='Premier League')&(table17_18$Table.Type=='League Table'),]
+tail(table17_18)
+
+table17_18 <- table17_18[,c(2:3, 5:9, 11, 13, 14)]
+```
+
+```{r}
+#Dejo solo los registros que tienen jugadores
+players17_18 <- players17_18[players17_18$Player!='',]
+
+
+#Imputación de nulos
+
+players17_18$Appearances <- replace_na(players17_18$Appearances, 0)
+players17_18$Assists <- replace_na(players17_18$Assists, 0)
+players17_18$CS <- replace_na(players17_18$CS, 0)
+players17_18$Sent.Off <- replace_na(players17_18$Sent.Off, 0)
+
+summary(players17_18) 
+```
+
+```{r}
+#Selecciono las columnas que voy a utilizar de cada dataset y hago un merge
+players17_18 <- players17_18[c('League',  'Team', 'Season', 'KEY', 'Player', 'Position', 'Appearances', 'Goals', 'Assists', 'CS', 'Sent.Off')]
+
+pos_17_18 <- table17_18[,c('KEY', 'Pos')]
+players17_18 <- merge(players17_18,pos_17_18, by='KEY', all.x=TRUE, all.y=FALSE)
+```
+
+```{r}
+#Calculo el "capital" de cada jugador
+players17_18$Capital <- 0
+for (i in 1:nrow(players17_18)){
+  players17_18$Capital[i] <- (players17_18$Appearances[i] + players17_18$Goals[i]*8 + players17_18$Assists[i]*2 + players17_18$CS[i] - players17_18$Sent.Off[i]) * (-players17_18$Pos[i]+21)
+}
+sum(players17_18[players17_18$Pos==1, 'Capital'])
+sum(players17_18[players17_18$Pos==2,'Capital'])
+sum(players17_18[players17_18$Pos==20,'Capital'])
+```
+
+```{r}
+#Calculo el capital total por equipo
+players17_18%>%
+  select (Team, Capital, Pos) %>% 
+    group_by(Team, Pos)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+
+Capital17_18 <- players17_18%>%
+  select (Capital, KEY) %>% 
+    group_by(KEY)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+```
+
+```{r}
+box_17_18 <- ggplot(data = players17_18, aes(x = Team, y = Capital))
+
+box_17_18 <- box_17_18 + geom_boxplot(fill='#3182bd')
+
+box_17_18 <- box_17_18  +
+  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  stat_summary(fun.y = mean, colour = "orange", geom = "point", shape = 18, size = 1, 
+              show.legend = FALSE) +
+  ggtitle(label = 'Distribución Capital por Equipo', subtitle = 'Temporada 2017/2018')
+
+box_17_18 
+```
+
+
+```{r}
+#Le adjunto a la tabla general el capital total por equipo
+table17_18 <- merge(table17_18, Capital17_18, by='KEY', all.x=TRUE, all.y=FALSE)
+
+
+```
+
+```{r}
+#Agrego los puntos y capital de la temporada a la temporada anterior
+pred_17_18 <- table17_18[,c(2,3,9:11)]
+names(pred_17_18)[3] <- 'Pts_next_season'
+names(pred_17_18)[5] <- 'Capital_next_season'
+names(pred_17_18)[1] <- 'Pos_next_season'
+
+table16_17 <-  merge(table16_17, pred_17_18, by='Team', all.x=TRUE, all.y=FALSE)
+
+#Imputación de nulos
+
+table16_17$Pts_next_season <- replace_na(table16_17$Pts_next_season, 0)
+table16_17$Capital_next_season <- replace_na(table16_17$Capital_next_season, 0)
+table16_17$Pos_next_season <- replace_na(table16_17$Pos_next_season, 20)
+
+names(table16_17)[10] <- 'Season'
+table16_17 <- table16_17[,-14]
+
+set.seed(111)
+trIndexAleatorio16_17 <- sample(nrow(table16_17),0.7*nrow(table16_17),replace=F)
+vaIndexAleatorio16_17 <- seq_len(nrow(table16_17))[!(seq_len(nrow(table16_17)) %in% trIndexAleatorio16_17)]
+training16_17 <- table16_17[trIndexAleatorio16_17,]
+testing16_17 <- table16_17[vaIndexAleatorio16_17,]
+```
+
+
+Preparación Dataset Temporada 2018/2019
+```{r}
+#Dejo solo las estadísticas correspondientes a la Premier League
+players18_19 <- players18_19[players18_19$League=='Premier League',]
+tail(players18_19)
+
+summary(players18_19) 
+
+#Me quedo con la tabla general
+table18_19 <- table18_19[(table18_19$League=='Premier League')&(table18_19$Table.Type=='League Table'),]
+tail(table18_19)
+
+table18_19 <- table18_19[,c(2:3, 5:9, 11, 13, 14)]
+```
+
+```{r}
+#Dejo solo los registros que tienen jugadores
+players18_19 <- players18_19[players18_19$Player!='',]
+
+
+#Imputación de nulos
+
+
+players18_19$Assists <- replace_na(players18_19$Assists, 0)
+players18_19$CS <- replace_na(players18_19$CS, 0)
+players18_19$Sent.Off <- replace_na(players18_19$Sent.Off, 0)
+
+summary(players18_19) 
+```
+
+```{r}
+#Selecciono las columnas que voy a utilizar de cada dataset y hago un merge
+players18_19 <- players18_19[c('League',  'Team', 'Season', 'KEY', 'Player', 'Position', 'Appearances', 'Goals', 'Assists', 'CS', 'Sent.Off')]
+
+pos_18_19 <- table18_19[,c('KEY', 'Pos')]
+players18_19 <- merge(players18_19,pos_18_19, by='KEY', all.x=TRUE, all.y=FALSE)
+```
+
+```{r}
+#Calculo el "capital" de cada jugador
+players18_19$Capital <- 0
+for (i in 1:nrow(players18_19)){
+  players18_19$Capital[i] <- (players18_19$Appearances[i] + players18_19$Goals[i]*8 + players18_19$Assists[i]*2 + players18_19$CS[i] - players18_19$Sent.Off[i]) * (-players18_19$Pos[i]+21)
+}
+sum(players18_19[players18_19$Pos==1, 'Capital'])
+sum(players18_19[players18_19$Pos==2,'Capital'])
+sum(players18_19[players18_19$Pos==20,'Capital'])
+```
+
+```{r}
+#Calculo el capital total por equipo
+players18_19%>%
+  select (Team, Capital, Pos) %>% 
+    group_by(Team, Pos)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+
+Capital18_19 <- players18_19%>%
+  select (Capital, KEY) %>% 
+    group_by(KEY)%>%
+      summarize(Capital_total=sum(Capital)) %>%
+      arrange(desc(Capital_total))
+```
+
+```{r}
+box_18_19 <- ggplot(data = players18_19, aes(x = Team, y = Capital))
+
+box_18_19 <- box_18_19 + geom_boxplot(fill='#3182bd')
+
+box_18_19 <- box_18_19  +
+  theme(axis.text.x = element_text(angle = 60, hjust = 1)) +
+  stat_summary(fun.y = mean, colour = "orange", geom = "point", shape = 18, size = 1, 
+              show.legend = FALSE) +
+  ggtitle(label = 'Distribución Capital por Equipo', subtitle = 'Temporada 2018/2019')
+
+box_18_19 
+```
+
+
+```{r}
+#Le adjunto a la tabla general el capital total por equipo
+table18_19 <- merge(table18_19, Capital18_19, by='KEY', all.x=TRUE, all.y=FALSE)
+```
+
+```{r}
+#Agrego los puntos y capital de la temporada a la temporada anterior
+pred_18_19 <- table18_19[,c(2,3,9:11)]
+names(pred_18_19)[3] <- 'Pts_next_season'
+names(pred_18_19)[5] <- 'Capital_next_season'
+names(pred_18_19)[1] <- 'Pos_next_season'
+
+table17_18 <-  merge(table17_18, pred_18_19, by='Team', all.x=TRUE, all.y=FALSE)
+
+#Imputación de nulos
+
+table17_18$Pts_next_season <- replace_na(table17_18$Pts_next_season, 0)
+table17_18$Capital_next_season <- replace_na(table17_18$Capital_next_season, 0)
+table17_18$Pos_next_season <- replace_na(table17_18$Pos_next_season, 20)
+
+names(table17_18)[10] <- 'Season'
+table17_18 <- table17_18[,-14]
+
+set.seed(111)
+trIndexAleatorio17_18 <- sample(nrow(table17_18),0.7*nrow(table17_18),replace=F)
+vaIndexAleatorio17_18 <- seq_len(nrow(table17_18))[!(seq_len(nrow(table17_18)) %in% trIndexAleatorio17_18)]
+training17_18 <- table17_18[trIndexAleatorio17_18,]
+testing17_18 <- table17_18[vaIndexAleatorio17_18,]
+```
+
+
+Construcción del capital promedio por jugador
+
+```{r}
+players <- rbind(players14_15, players15_16, players16_17, players17_18, players18_19)
+
+players <- players%>%
+  select (Player, Capital) %>% 
+    group_by(Player)%>%
+      summarize(Capital_total=round(mean(Capital)))
+
+
+```
+
+
+
+```{r}
+#Agrego el capital promedio de cada jugador al dataset a predecir
+
+players19_20 <- players19_20[players19_20$League=='Premier League',]
+players19_20 <- players19_20[players19_20$Player!='',]
+players19_20 <- players19_20[c('League',  'Team', 'Season', 'KEY', 'Player')]
+
+players19_20 <- merge(players19_20, players, by='Player', all.x=TRUE, all.y=FALSE)
+
+
+library(modeest)
+summary(players19_20$Capital_total)
+
+
+players19_20$Capital_total <- with(players19_20, ave(Capital_total, Team, 
+                                       FUN = function(x) replace(x, is.na(x), round( mean(x, na.rm = TRUE)))))
+
+
+players19_20%>%
+  select (Team, Capital_total) %>% 
+    group_by(Team)%>%
+      summarize(Capital_total=sum(Capital_total)) %>%
+      arrange(desc(Capital_total))
+
+
+
+Capital19_20 <- players19_20%>%
+  select (KEY, Capital_total) %>% 
+    group_by(KEY)%>%
+      summarize(Capital_total=sum(Capital_total)) %>%
+      arrange(desc(Capital_total))
+
+table19_20 <- table19_20[(table19_20$League=='Premier League')&(table19_20$Table.Type=='League Table'),]
+
+
+table19_20 <- table19_20[,c(3, 13, 14)]
+table19_20 <- merge(table19_20, Capital19_20, by='KEY', all.x=TRUE, all.y=FALSE)
+```
+
+```{r}
+#Agrego los puntos y capital de la temporada a la temporada anterior
+pred_19_20 <- table19_20[,c(2,4)]
+names(pred_19_20)[2] <- 'Capital_next_season'
+
+table18_19 <-  merge(table18_19, pred_19_20, by='Team', all.x=TRUE, all.y=FALSE)
+
+
+#Imputación de nulos
+table18_19$Capital_next_season <- replace_na(table18_19$Capital_next_season, 0)
+
+```
+
+```{r}
+
+tabla1 <- table14_15[,-c(2,12:14)]
+tabla2 <- table15_16[,-c(2,12:14)]
+tabla3 <- table16_17[,-c(2,12:14)]
+tabla4 <- table17_18[,-c(2,12:14)]
+tabla5 <- table18_19[,-c(2,12)]
+
+
+
+
+
+```
+
+```{r}
+table <- rbind(tabla1, tabla2, tabla3, tabla4,tabla5)
+table_tot <- table
+
+```
+
+```{r}
+library(ggplot2)
+library(plotly)
+
+q <- ggplot(data = rango, mapping = aes(x = Pos, y = Capital_total))
+q <- q + geom_point(aes(fill=factor(Rango_Posicion), size=15), shape=1, show.legend = FALSE)+
+         scale_x_continuous(name = "Posición")+
+        scale_y_continuous(name = "Capital")+
+      ggtitle(label = 'Posición vs Capital del equipo')
+#q <- ggplotly({q})
+#q <- q %>% layout(showlegend=FALSE)
+q
+
+```
+
+```{r}
+rango <- table_tot
+rango$Rango_Posicion <- ''
+
+for (i in 1:nrow(rango)) {
+  
+  if (rango$Capital_total[i]>=20000){
+    rango$Rango_Posicion[i]='1-4'
+  }
+  else if (rango$Capital_total[i]<20000 & rango$Capital_total[i]>=10000){
+    rango$Rango_Posicion[i]='4-10'
+  }else{
+    rango$Rango_Posicion[i]='10-20'
+  }
+}
+
+```
+
+
+
+Genero dataset único
+```{r}
+
+training <- rbind(training14_15, training15_16, training16_17, training17_18)
+
+
+bx<-ggplot(data=training,aes(x=training$Team))
+bx <- bx+geom_count(aes(y=training$Pts, size=factor(Capital_total)), show.legend = FALSE, shape=1) + theme(axis.text.x=element_text(angle=80, hjust=1))+ xlab("Equipos") + ylab('Puntos')
+bx
+
+```
+
+
+```{r}
+#install.packages('scales')
+library(scales)
+
+
+```
+
+
+
+
+
+```{r}
+tabla2 <- training[,c(3:9,11, 13:ncol(training))]
+tabla2$W <- as.numeric(tabla2$W)
+tabla2$D <- as.numeric(tabla2$D)
+tabla2$L <- as.numeric(tabla2$L)
+tabla2$F <- as.numeric(tabla2$F)
+tabla2$A <- as.numeric(tabla2$A)
+
+
+tabla2$Capital_total <- rescale(tabla2$Capital_total, to=c(1,100))
+tabla2$Capital_next_season <- rescale(tabla2$Capital_next_season, to=c(1,100))
+
+
+y2 <- "Pts_next_season"
+x2 <- c("Pos","W", "D", "L", "F", "A", "Capital_total", 'Pts', 'Capital_next_season')
+
+fmla_lineal2 <- paste(y2, paste(x2, collapse=" + "), sep=" ~ ")
+
+lineal2 <- lm(fmla_lineal2, data = tabla2)
+
+summary(lineal2)
+
+```
+
+
+
+```{r}
+testing <- rbind(testing14_15, testing15_16, testing16_17, testing17_18)
+
+test2 <- testing[,c(3:9,11,14)]
+test2$W <- as.numeric(test2$W)
+test2$D <- as.numeric(test2$D)
+test2$L <- as.numeric(test2$L)
+test2$F <- as.numeric(test2$F)
+test2$A <- as.numeric(test2$A)
+
+#for (i in 1:ncol(test2)){
+#  test2[,i] <- rescale(test2[,i])
+#}
+
+
+test2$Capital_total <- rescale(test2$Capital_total, to=c(1,100))
+test2$Capital_next_season <- rescale(test2$Capital_next_season, to=c(1,100))
+
+testing$Puntos_lineal2 <- predict(lineal2, newdata = test2)
+
+
+
+```
+
+
+
+```{r}
+RMSE <- function(predicho,real){
+  return(sqrt(mean((predicho-real)^2)))
+}
+
+```
+
+```{r}
+RMSE(testing$Puntos_lineal2,testing$Pts_next_season)
+
+testing[,c(1,12,14)]
+```
+
+```{r}
+testing[order(testing$Puntos_lineal2, decreasing=TRUE), ]
+
+
+```
+
+
+```{r}
+### Establecemos el modelo más simple posible...
+
+minimo <- lm(Pts_next_season~1,data=tabla2)
+
+### y el más complejo
+
+maximo <- lm(Pts_next_season~.,data=tabla2)
+
+### Stepwise
+
+stepwise <- step(lm(Pts_next_season~1,data=tabla2), 
+                 scope=list(lower=minimo, upper=maximo),
+                 direction='both')
+```
+
+
+```{r}
+testing$Puntos_step <- predict(stepwise, newdata = test2)
+```
+
+```{r}
+RMSE(testing$Puntos_step,testing$Pts_next_season)
+
+testing[,c(1,11,13,14)]
+```
+
+```{r}
+#install.packages('randomForest')
+library(randomForest)
+             
+rf <- randomForest(Pts_next_season~., data = tabla2, mtry=4, ntree=2001)
+```
+
+```{r}
+testing$Puntos_rf <- predict(rf, newdata = test2)
+```
+
+```{r}
+
+RMSE(testing$Puntos_rf,testing$Pts_next_season)
+
+testing[,c(1,11,13,14,15)]
+```
+
+```{r}
+table18_19$W <- as.numeric(table18_19$W)
+table18_19$D <- as.numeric(table18_19$D)
+table18_19$L <- as.numeric(table18_19$L)
+table18_19$F <- as.numeric(table18_19$F)
+table18_19$A <- as.numeric(table18_19$A)
+
+
+table18_19$Capital_total <- rescale(table18_19$Capital_total, to=c(1,100))
+table18_19$Capital_next_season <- rescale(table18_19$Capital_next_season, to=c(1,100))
+
+table18_19$Pred_prox_season <- round(predict(rf, newdata = table18_19))
+
+table18_19[order(table18_19$Pred_prox_season, decreasing=TRUE), ]
+```
+
+
+```{r}
+table19_20 <- merge(table19_20, table18_19[,c('Team', 'Pred_prox_season')], by='Team', all.x = TRUE, all.y = FALSE)
+
+table19_20$Pred_prox_season[table19_20$Team=='Aston Villa'] <- 42
+table19_20$Pred_prox_season[table19_20$Team=='Norwich City'] <- 20
+table19_20$Pred_prox_season[table19_20$Team=='Sheffield United'] <- 25
+
+table19_20 <- table19_20[order(table19_20$Pred_prox_season, decreasing=TRUE), ]
+
+Posiciones <- seq(1:20)
+
+table19_20 <- cbind(Posiciones,table19_20)
+table19_20 <- table19_20[,-3]
+names(table19_20)[5] <- 'Pts'
+rownames(table19_20) <- NULL
+```
+
+```{r}
+players_shiny <- rbind(players14_15, players15_16, players16_17, players17_18, players18_19)
+
+
+```
+
+```{r}
+campeones_con_pred <- rbind((table_tot%>%filter(Pos==1)%>%select('Team','Season','Capital_total','Pts')),(table19_20%>%filter(Posiciones==1)%>%select('Team', 'Season', 'Capital_total', 'Pts')))
+```
+
+```{r}
+equipos <- sort(unique(table_tot$Team))
+
+escudos <- c("https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4238.png",
+             "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/54.png",
+             "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/55.png",
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4344.png',
+             "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1029.png",
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1402.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/58.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1027.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/61.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/563.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4343.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1441.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/64.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/65.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/66.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/67.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/68.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/69.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1044.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1036.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/70.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1032.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/71.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/2203.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/72.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1140.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1424.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/73.png',
+             'https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1418.png')
+
+data_escudos <- cbind(equipos,escudos)
+
+data_escudos <- data.frame(data_escudos)
+
+names(data_escudos)[1] <- 'Team'
+
+```
+
+```{r}
+campeones_con_pred <- merge(campeones_con_pred,data_escudos,by='Team')
+```
+
+
+
+```{r}
+#players_shiny %>% filter(Season==input$temporadas) %>% select(Player, Team, Capital) %>% arrange(desc(Capital))
+
+#a <- players_shiny %>% filter(Season=='2015/16') %>% select(Player, Goals) %>% filter(Goals==max(Goals)) 
+#paste0(a[1,1],' - ',a[1,2], ' goles')
+
+equipos <- sort(unique(table_tot$Team))
+temporadas <- sort(unique(table_tot$Season), decreasing = TRUE)
+champ <- table_tot[table_tot$Pos==1,]
+
+save.image(file = 'Premier.RData')
+```
+
+
