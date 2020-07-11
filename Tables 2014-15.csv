@@ -1,0 +1,385 @@
+﻿League,Pos,Team,P,W,D,L,F,A,GD,Pts,Table Type,Season,KEY
+Premier League,1,Chelsea,38,26,9,3,73,32,41,87,League Table,2014/15,Premier League|Chelsea|2014/15
+Premier League,2,Manchester City,38,24,7,7,83,38,45,79,League Table,2014/15,Premier League|Manchester City|2014/15
+Premier League,3,Arsenal,38,22,9,7,71,36,35,75,League Table,2014/15,Premier League|Arsenal|2014/15
+Premier League,4,Manchester United,38,20,10,8,62,37,25,70,League Table,2014/15,Premier League|Manchester United|2014/15
+Premier League,5,Tottenham Hotspur,38,19,7,12,58,53,5,64,League Table,2014/15,Premier League|Tottenham Hotspur|2014/15
+Premier League,6,Liverpool,38,18,8,12,52,48,4,62,League Table,2014/15,Premier League|Liverpool|2014/15
+Premier League,7,Southampton,38,18,6,14,54,33,21,60,League Table,2014/15,Premier League|Southampton|2014/15
+Premier League,8,Swansea City,38,16,8,14,46,49,-3,56,League Table,2014/15,Premier League|Swansea City|2014/15
+Premier League,9,Stoke City,38,15,9,14,48,45,3,54,League Table,2014/15,Premier League|Stoke City|2014/15
+Premier League,10,Crystal Palace,38,13,9,16,47,51,-4,48,League Table,2014/15,Premier League|Crystal Palace|2014/15
+Premier League,11,Everton,38,12,11,15,48,50,-2,47,League Table,2014/15,Premier League|Everton|2014/15
+Premier League,12,West Ham United,38,12,11,15,44,47,-3,47,League Table,2014/15,Premier League|West Ham United|2014/15
+Premier League,13,West Bromwich Albion,38,11,11,16,38,51,-13,44,League Table,2014/15,Premier League|West Bromwich Albion|2014/15
+Premier League,14,Leicester City,38,11,8,19,46,55,-9,41,League Table,2014/15,Premier League|Leicester City|2014/15
+Premier League,15,Newcastle United,38,10,9,19,40,63,-23,39,League Table,2014/15,Premier League|Newcastle United|2014/15
+Premier League,16,Sunderland,38,7,17,14,31,53,-22,38,League Table,2014/15,Premier League|Sunderland|2014/15
+Premier League,17,Aston Villa,38,10,8,20,31,57,-26,38,League Table,2014/15,Premier League|Aston Villa|2014/15
+Premier League,18,Hull City,38,8,11,19,33,51,-18,35,League Table,2014/15,Premier League|Hull City|2014/15
+Premier League,19,Burnley,38,7,12,19,28,53,-25,33,League Table,2014/15,Premier League|Burnley|2014/15
+Premier League,20,Queens Park Rangers,38,8,6,24,42,73,-31,30,League Table,2014/15,Premier League|Queens Park Rangers|2014/15
+Premier League,1,Chelsea,19,15,4,-,36,9,27,49,Home League Table,2014/15,Premier League|Chelsea|2014/15
+Premier League,2,Manchester City,19,14,3,2,44,14,30,45,Home League Table,2014/15,Premier League|Manchester City|2014/15
+Premier League,3,Manchester United,19,14,2,3,41,15,26,44,Home League Table,2014/15,Premier League|Manchester United|2014/15
+Premier League,4,Arsenal,19,12,5,2,41,14,27,41,Home League Table,2014/15,Premier League|Arsenal|2014/15
+Premier League,5,Southampton,19,11,4,4,37,13,24,37,Home League Table,2014/15,Premier League|Southampton|2014/15
+Premier League,6,Liverpool,19,10,5,4,30,20,10,35,Home League Table,2014/15,Premier League|Liverpool|2014/15
+Premier League,7,Stoke City,19,10,3,6,32,22,10,33,Home League Table,2014/15,Premier League|Stoke City|2014/15
+Premier League,8,Tottenham Hotspur,19,10,3,6,31,24,7,33,Home League Table,2014/15,Premier League|Tottenham Hotspur|2014/15
+Premier League,9,Swansea City,19,9,5,5,27,22,5,32,Home League Table,2014/15,Premier League|Swansea City|2014/15
+Premier League,10,West Ham United,19,9,4,6,25,18,7,31,Home League Table,2014/15,Premier League|West Ham United|2014/15
+Premier League,11,Everton,19,7,7,5,27,21,6,28,Home League Table,2014/15,Premier League|Everton|2014/15
+Premier League,12,Leicester City,19,7,5,7,28,22,6,26,Home League Table,2014/15,Premier League|Leicester City|2014/15
+Premier League,13,Newcastle United,19,7,5,7,26,27,-1,26,Home League Table,2014/15,Premier League|Newcastle United|2014/15
+Premier League,14,West Bromwich Albion,19,7,4,8,24,26,-2,25,Home League Table,2014/15,Premier League|West Bromwich Albion|2014/15
+Premier League,15,Queens Park Rangers,19,6,5,8,23,24,-1,23,Home League Table,2014/15,Premier League|Queens Park Rangers|2014/15
+Premier League,16,Crystal Palace,19,6,3,10,21,27,-6,21,Home League Table,2014/15,Premier League|Crystal Palace|2014/15
+Premier League,17,Aston Villa,19,5,6,8,18,25,-7,21,Home League Table,2014/15,Premier League|Aston Villa|2014/15
+Premier League,18,Hull City,19,5,5,9,19,24,-5,20,Home League Table,2014/15,Premier League|Hull City|2014/15
+Premier League,19,Sunderland,19,4,8,7,16,27,-11,20,Home League Table,2014/15,Premier League|Sunderland|2014/15
+Premier League,20,Burnley,19,4,7,8,14,21,-7,19,Home League Table,2014/15,Premier League|Burnley|2014/15
+Premier League,1,Chelsea,19,11,5,3,37,23,14,38,Away League Table,2014/15,Premier League|Chelsea|2014/15
+Premier League,2,Manchester City,19,10,4,5,39,24,15,34,Away League Table,2014/15,Premier League|Manchester City|2014/15
+Premier League,3,Arsenal,19,10,4,5,30,22,8,34,Away League Table,2014/15,Premier League|Arsenal|2014/15
+Premier League,4,Tottenham Hotspur,19,9,4,6,27,29,-2,31,Away League Table,2014/15,Premier League|Tottenham Hotspur|2014/15
+Premier League,5,Crystal Palace,19,7,6,6,26,24,2,27,Away League Table,2014/15,Premier League|Crystal Palace|2014/15
+Premier League,6,Liverpool,19,8,3,8,22,28,-6,27,Away League Table,2014/15,Premier League|Liverpool|2014/15
+Premier League,7,Manchester United,19,6,8,5,21,22,-1,26,Away League Table,2014/15,Premier League|Manchester United|2014/15
+Premier League,8,Swansea City,19,7,3,9,19,27,-8,24,Away League Table,2014/15,Premier League|Swansea City|2014/15
+Premier League,9,Southampton,19,7,2,10,17,20,-3,23,Away League Table,2014/15,Premier League|Southampton|2014/15
+Premier League,10,Stoke City,19,5,6,8,16,23,-7,21,Away League Table,2014/15,Premier League|Stoke City|2014/15
+Premier League,11,Everton,19,5,4,10,21,29,-8,19,Away League Table,2014/15,Premier League|Everton|2014/15
+Premier League,12,West Bromwich Albion,19,4,7,8,14,25,-11,19,Away League Table,2014/15,Premier League|West Bromwich Albion|2014/15
+Premier League,13,Sunderland,19,3,9,7,15,26,-11,18,Away League Table,2014/15,Premier League|Sunderland|2014/15
+Premier League,14,Aston Villa,19,5,2,12,13,32,-19,17,Away League Table,2014/15,Premier League|Aston Villa|2014/15
+Premier League,15,West Ham United,19,3,7,9,19,29,-10,16,Away League Table,2014/15,Premier League|West Ham United|2014/15
+Premier League,16,Hull City,19,3,6,10,14,27,-13,15,Away League Table,2014/15,Premier League|Hull City|2014/15
+Premier League,17,Leicester City,19,4,3,12,18,33,-15,15,Away League Table,2014/15,Premier League|Leicester City|2014/15
+Premier League,18,Burnley,19,3,5,11,14,32,-18,14,Away League Table,2014/15,Premier League|Burnley|2014/15
+Premier League,19,Newcastle United,19,3,4,12,14,36,-22,13,Away League Table,2014/15,Premier League|Newcastle United|2014/15
+Premier League,20,Queens Park Rangers,19,2,1,16,19,49,-30,7,Away League Table,2014/15,Premier League|Queens Park Rangers|2014/15
+Bundesliga,1,Bayern Munich,34,25,4,5,80,18,62,79,League Table,2014/15,Bundesliga|Bayern Munich|2014/15
+Bundesliga,2,VfL Wolfsburg,34,20,9,5,72,38,34,69,League Table,2014/15,Bundesliga|VfL Wolfsburg|2014/15
+Bundesliga,3,"Borussia M'gladbach",34,19,9,6,53,26,27,66,League Table,2014/15,"Bundesliga|Borussia M'gladbach|2014/15"
+Bundesliga,4,Bayer Leverkusen,34,18,9,7,62,36,26,63,League Table,2014/15,Bundesliga|Bayer Leverkusen|2014/15
+Bundesliga,5,FC Augsburg,34,15,4,15,43,43,0,49,League Table,2014/15,Bundesliga|FC Augsburg|2014/15
+Bundesliga,6,FC Schalke 04,34,13,9,12,42,40,2,48,League Table,2014/15,Bundesliga|FC Schalke 04|2014/15
+Bundesliga,7,Borussia Dortmund,34,13,7,14,47,42,5,46,League Table,2014/15,Bundesliga|Borussia Dortmund|2014/15
+Bundesliga,8,TSG 1899 Hoffenheim,34,12,8,14,49,55,-6,44,League Table,2014/15,Bundesliga|TSG 1899 Hoffenheim|2014/15
+Bundesliga,9,Eintracht Frankfurt,34,11,10,13,56,62,-6,43,League Table,2014/15,Bundesliga|Eintracht Frankfurt|2014/15
+Bundesliga,10,Werder Bremen,34,11,10,13,50,64,-14,43,League Table,2014/15,Bundesliga|Werder Bremen|2014/15
+Bundesliga,11,1. FSV Mainz 05,34,9,13,12,45,47,-2,40,League Table,2014/15,Bundesliga|1. FSV Mainz 05|2014/15
+Bundesliga,12,1. FC Koln,34,9,12,13,33,40,-7,39,League Table,2014/15,Bundesliga|1. FC Koln|2014/15
+Bundesliga,13,Hannover 96,34,9,10,15,40,55,-15,37,League Table,2014/15,Bundesliga|Hannover 96|2014/15
+Bundesliga,14,VfB Stuttgart,34,9,9,16,42,60,-18,36,League Table,2014/15,Bundesliga|VfB Stuttgart|2014/15
+Bundesliga,15,Hertha BSC,34,9,8,17,36,52,-16,35,League Table,2014/15,Bundesliga|Hertha BSC|2014/15
+Bundesliga,16,Hamburger SV,34,9,8,17,24,50,-26,35,League Table,2014/15,Bundesliga|Hamburger SV|2014/15
+Bundesliga,17,SC Freiburg,34,7,13,14,36,47,-11,34,League Table,2014/15,Bundesliga|SC Freiburg|2014/15
+Bundesliga,18,SC Paderborn 07,34,7,10,17,30,65,-35,31,League Table,2014/15,Bundesliga|SC Paderborn 07|2014/15
+Bundesliga,1,Bayern Munich,17,14,1,2,46,7,39,43,Home League Table,2014/15,Bundesliga|Bayern Munich|2014/15
+Bundesliga,2,VfL Wolfsburg,17,13,4,-,38,13,25,43,Home League Table,2014/15,Bundesliga|VfL Wolfsburg|2014/15
+Bundesliga,3,"Borussia M'gladbach",17,12,3,2,32,14,18,39,Home League Table,2014/15,"Bundesliga|Borussia M'gladbach|2014/15"
+Bundesliga,4,Bayer Leverkusen,17,10,6,1,39,15,24,36,Home League Table,2014/15,Bundesliga|Bayer Leverkusen|2014/15
+Bundesliga,5,FC Schalke 04,17,10,5,2,26,14,12,35,Home League Table,2014/15,Bundesliga|FC Schalke 04|2014/15
+Bundesliga,6,Eintracht Frankfurt,17,9,5,3,36,26,10,32,Home League Table,2014/15,Bundesliga|Eintracht Frankfurt|2014/15
+Bundesliga,7,FC Augsburg,17,9,4,4,28,21,7,31,Home League Table,2014/15,Bundesliga|FC Augsburg|2014/15
+Bundesliga,8,Borussia Dortmund,17,9,3,5,26,15,11,30,Home League Table,2014/15,Bundesliga|Borussia Dortmund|2014/15
+Bundesliga,9,TSG 1899 Hoffenheim,17,9,3,5,31,26,5,30,Home League Table,2014/15,Bundesliga|TSG 1899 Hoffenheim|2014/15
+Bundesliga,10,Werder Bremen,17,8,4,5,25,24,1,28,Home League Table,2014/15,Bundesliga|Werder Bremen|2014/15
+Bundesliga,11,1. FSV Mainz 05,17,6,6,5,27,19,8,24,Home League Table,2014/15,Bundesliga|1. FSV Mainz 05|2014/15
+Bundesliga,12,Hamburger SV,17,6,5,6,15,18,-3,23,Home League Table,2014/15,Bundesliga|Hamburger SV|2014/15
+Bundesliga,13,Hannover 96,17,6,4,7,21,25,-4,22,Home League Table,2014/15,Bundesliga|Hannover 96|2014/15
+Bundesliga,14,Hertha BSC,17,6,4,7,17,22,-5,22,Home League Table,2014/15,Bundesliga|Hertha BSC|2014/15
+Bundesliga,15,SC Freiburg,17,5,6,6,21,22,-1,21,Home League Table,2014/15,Bundesliga|SC Freiburg|2014/15
+Bundesliga,16,1. FC Koln,17,4,8,5,17,17,0,20,Home League Table,2014/15,Bundesliga|1. FC Koln|2014/15
+Bundesliga,17,VfB Stuttgart,17,5,4,8,18,28,-10,19,Home League Table,2014/15,Bundesliga|VfB Stuttgart|2014/15
+Bundesliga,18,SC Paderborn 07,17,4,6,7,20,31,-11,18,Home League Table,2014/15,Bundesliga|SC Paderborn 07|2014/15
+Bundesliga,1,Bayern Munich,17,11,3,3,34,11,23,36,Away League Table,2014/15,Bundesliga|Bayern Munich|2014/15
+Bundesliga,2,"Borussia M'gladbach",17,7,6,4,21,12,9,27,Away League Table,2014/15,"Bundesliga|Borussia M'gladbach|2014/15"
+Bundesliga,3,Bayer Leverkusen,17,8,3,6,23,21,2,27,Away League Table,2014/15,Bundesliga|Bayer Leverkusen|2014/15
+Bundesliga,4,VfL Wolfsburg,17,7,5,5,34,25,9,26,Away League Table,2014/15,Bundesliga|VfL Wolfsburg|2014/15
+Bundesliga,5,1. FC Koln,17,5,4,8,16,23,-7,19,Away League Table,2014/15,Bundesliga|1. FC Koln|2014/15
+Bundesliga,6,FC Augsburg,17,6,-,11,15,22,-7,18,Away League Table,2014/15,Bundesliga|FC Augsburg|2014/15
+Bundesliga,7,VfB Stuttgart,17,4,5,8,24,32,-8,17,Away League Table,2014/15,Bundesliga|VfB Stuttgart|2014/15
+Bundesliga,8,Borussia Dortmund,17,4,4,9,21,27,-6,16,Away League Table,2014/15,Bundesliga|Borussia Dortmund|2014/15
+Bundesliga,9,1. FSV Mainz 05,17,3,7,7,18,28,-10,16,Away League Table,2014/15,Bundesliga|1. FSV Mainz 05|2014/15
+Bundesliga,10,Hannover 96,17,3,6,8,19,30,-11,15,Away League Table,2014/15,Bundesliga|Hannover 96|2014/15
+Bundesliga,11,Werder Bremen,17,3,6,8,25,40,-15,15,Away League Table,2014/15,Bundesliga|Werder Bremen|2014/15
+Bundesliga,12,TSG 1899 Hoffenheim,17,3,5,9,18,29,-11,14,Away League Table,2014/15,Bundesliga|TSG 1899 Hoffenheim|2014/15
+Bundesliga,13,FC Schalke 04,17,3,4,10,16,26,-10,13,Away League Table,2014/15,Bundesliga|FC Schalke 04|2014/15
+Bundesliga,14,SC Freiburg,17,2,7,8,15,25,-10,13,Away League Table,2014/15,Bundesliga|SC Freiburg|2014/15
+Bundesliga,15,Hertha BSC,17,3,4,10,19,30,-11,13,Away League Table,2014/15,Bundesliga|Hertha BSC|2014/15
+Bundesliga,16,SC Paderborn 07,17,3,4,10,10,34,-24,13,Away League Table,2014/15,Bundesliga|SC Paderborn 07|2014/15
+Bundesliga,17,Hamburger SV,17,3,3,11,9,32,-23,12,Away League Table,2014/15,Bundesliga|Hamburger SV|2014/15
+Bundesliga,18,Eintracht Frankfurt,17,2,5,10,20,36,-16,11,Away League Table,2014/15,Bundesliga|Eintracht Frankfurt|2014/15
+La Liga,1,Barcelona,38,30,4,4,110,21,89,94,League Table,2014/15,La Liga|Barcelona|2014/15
+La Liga,2,Real Madrid,38,30,2,6,118,38,80,92,League Table,2014/15,La Liga|Real Madrid|2014/15
+La Liga,3,Atletico Madrid,38,23,9,6,67,29,38,78,League Table,2014/15,La Liga|Atletico Madrid|2014/15
+La Liga,4,Valencia,38,22,11,5,70,32,38,77,League Table,2014/15,La Liga|Valencia|2014/15
+La Liga,5,Sevilla,38,23,7,8,71,45,26,76,League Table,2014/15,La Liga|Sevilla|2014/15
+La Liga,6,Villarreal,38,16,12,10,48,37,11,60,League Table,2014/15,La Liga|Villarreal|2014/15
+La Liga,7,Athletic Bilbao,38,15,10,13,42,41,1,55,League Table,2014/15,La Liga|Athletic Bilbao|2014/15
+La Liga,8,Celta Vigo,38,13,12,13,47,44,3,51,League Table,2014/15,La Liga|Celta Vigo|2014/15
+La Liga,9,Malaga,38,14,8,16,42,48,-6,50,League Table,2014/15,La Liga|Malaga|2014/15
+La Liga,10,Espanyol,38,13,10,15,47,51,-4,49,League Table,2014/15,La Liga|Espanyol|2014/15
+La Liga,11,Rayo Vallecano,38,15,4,19,46,68,-22,49,League Table,2014/15,La Liga|Rayo Vallecano|2014/15
+La Liga,12,Real Sociedad,38,11,13,14,44,51,-7,46,League Table,2014/15,La Liga|Real Sociedad|2014/15
+La Liga,13,Elche CF,38,11,8,19,35,62,-27,41,League Table,2014/15,La Liga|Elche CF|2014/15
+La Liga,14,Getafe,38,10,7,21,33,64,-31,37,League Table,2014/15,La Liga|Getafe|2014/15
+La Liga,15,Levante,38,9,10,19,34,67,-33,37,League Table,2014/15,La Liga|Levante|2014/15
+La Liga,16,Eibar,38,9,8,21,34,55,-21,35,League Table,2014/15,La Liga|Eibar|2014/15
+La Liga,17,Deportivo La Coruna,38,7,14,17,35,60,-25,35,League Table,2014/15,La Liga|Deportivo La Coruna|2014/15
+La Liga,18,Granada CF,38,7,14,17,29,64,-35,35,League Table,2014/15,La Liga|Granada CF|2014/15
+La Liga,19,UD Almeria,38,8,8,22,35,64,-29,32,League Table,2014/15,La Liga|UD Almeria|2014/15
+La Liga,20,Cordoba,38,3,11,24,22,68,-46,20,League Table,2014/15,La Liga|Cordoba|2014/15
+La Liga,1,Real Madrid,19,16,2,1,65,15,50,50,Home League Table,2014/15,La Liga|Real Madrid|2014/15
+La Liga,2,Barcelona,19,16,1,2,64,11,53,49,Home League Table,2014/15,La Liga|Barcelona|2014/15
+La Liga,3,Valencia,19,15,3,1,42,10,32,48,Home League Table,2014/15,La Liga|Valencia|2014/15
+La Liga,4,Atletico Madrid,19,14,3,2,42,11,31,45,Home League Table,2014/15,La Liga|Atletico Madrid|2014/15
+La Liga,5,Sevilla,19,13,5,1,38,13,25,44,Home League Table,2014/15,La Liga|Sevilla|2014/15
+La Liga,6,Villarreal,19,12,1,6,29,17,12,37,Home League Table,2014/15,La Liga|Villarreal|2014/15
+La Liga,7,Real Sociedad,19,9,5,5,29,21,8,32,Home League Table,2014/15,La Liga|Real Sociedad|2014/15
+La Liga,8,Athletic Bilbao,19,8,6,5,28,20,8,30,Home League Table,2014/15,La Liga|Athletic Bilbao|2014/15
+La Liga,9,Malaga,19,8,6,5,26,20,6,30,Home League Table,2014/15,La Liga|Malaga|2014/15
+La Liga,10,Espanyol,19,8,6,5,23,19,4,30,Home League Table,2014/15,La Liga|Espanyol|2014/15
+La Liga,11,Celta Vigo,19,8,5,6,30,22,8,29,Home League Table,2014/15,La Liga|Celta Vigo|2014/15
+La Liga,12,Rayo Vallecano,19,8,2,9,26,26,0,26,Home League Table,2014/15,La Liga|Rayo Vallecano|2014/15
+La Liga,13,Levante,19,6,6,7,20,30,-10,24,Home League Table,2014/15,La Liga|Levante|2014/15
+La Liga,14,Getafe,19,6,5,8,16,22,-6,23,Home League Table,2014/15,La Liga|Getafe|2014/15
+La Liga,15,Granada CF,19,4,10,5,13,17,-4,22,Home League Table,2014/15,La Liga|Granada CF|2014/15
+La Liga,16,Deportivo La Coruna,19,5,6,8,22,30,-8,21,Home League Table,2014/15,La Liga|Deportivo La Coruna|2014/15
+La Liga,17,Elche CF,19,6,3,10,19,31,-12,21,Home League Table,2014/15,La Liga|Elche CF|2014/15
+La Liga,18,Eibar,19,5,3,11,20,29,-9,18,Home League Table,2014/15,La Liga|Eibar|2014/15
+La Liga,19,UD Almeria,19,3,7,9,20,28,-8,16,Home League Table,2014/15,La Liga|UD Almeria|2014/15
+La Liga,20,Cordoba,19,1,6,12,12,33,-21,9,Home League Table,2014/15,La Liga|Cordoba|2014/15
+La Liga,1,Barcelona,19,14,3,2,46,10,36,45,Away League Table,2014/15,La Liga|Barcelona|2014/15
+La Liga,2,Real Madrid,19,14,-,5,53,23,30,42,Away League Table,2014/15,La Liga|Real Madrid|2014/15
+La Liga,3,Atletico Madrid,19,9,6,4,25,18,7,33,Away League Table,2014/15,La Liga|Atletico Madrid|2014/15
+La Liga,4,Sevilla,19,10,2,7,33,32,1,32,Away League Table,2014/15,La Liga|Sevilla|2014/15
+La Liga,5,Valencia,19,7,8,4,28,22,6,29,Away League Table,2014/15,La Liga|Valencia|2014/15
+La Liga,6,Athletic Bilbao,19,7,4,8,14,21,-7,25,Away League Table,2014/15,La Liga|Athletic Bilbao|2014/15
+La Liga,7,Villarreal,19,4,11,4,19,20,-1,23,Away League Table,2014/15,La Liga|Villarreal|2014/15
+La Liga,8,Rayo Vallecano,19,7,2,10,20,42,-22,23,Away League Table,2014/15,La Liga|Rayo Vallecano|2014/15
+La Liga,9,Celta Vigo,19,5,7,7,17,22,-5,22,Away League Table,2014/15,La Liga|Celta Vigo|2014/15
+La Liga,10,Malaga,19,6,2,11,16,28,-12,20,Away League Table,2014/15,La Liga|Malaga|2014/15
+La Liga,11,Elche CF,19,5,5,9,16,31,-15,20,Away League Table,2014/15,La Liga|Elche CF|2014/15
+La Liga,12,Espanyol,19,5,4,10,24,32,-8,19,Away League Table,2014/15,La Liga|Espanyol|2014/15
+La Liga,13,Eibar,19,4,5,10,14,26,-12,17,Away League Table,2014/15,La Liga|Eibar|2014/15
+La Liga,14,UD Almeria,19,5,1,13,15,36,-21,16,Away League Table,2014/15,La Liga|UD Almeria|2014/15
+La Liga,15,Real Sociedad,19,2,8,9,15,30,-15,14,Away League Table,2014/15,La Liga|Real Sociedad|2014/15
+La Liga,16,Deportivo La Coruna,19,2,8,9,13,30,-17,14,Away League Table,2014/15,La Liga|Deportivo La Coruna|2014/15
+La Liga,17,Getafe,19,4,2,13,17,42,-25,14,Away League Table,2014/15,La Liga|Getafe|2014/15
+La Liga,18,Levante,19,3,4,12,14,37,-23,13,Away League Table,2014/15,La Liga|Levante|2014/15
+La Liga,19,Granada CF,19,3,4,12,16,47,-31,13,Away League Table,2014/15,La Liga|Granada CF|2014/15
+La Liga,20,Cordoba,19,2,5,12,10,35,-25,11,Away League Table,2014/15,La Liga|Cordoba|2014/15
+French Ligue 1,1,Paris Saint-Germain,38,24,11,3,83,36,47,83,League Table,2014/15,French Ligue 1|Paris Saint-Germain|2014/15
+French Ligue 1,2,Olympique Lyonnais,38,22,9,7,72,33,39,75,League Table,2014/15,French Ligue 1|Olympique Lyonnais|2014/15
+French Ligue 1,3,AS Monaco,38,20,11,7,51,26,25,71,League Table,2014/15,French Ligue 1|AS Monaco|2014/15
+French Ligue 1,4,Olympique Marseille,38,21,6,11,76,42,34,69,League Table,2014/15,French Ligue 1|Olympique Marseille|2014/15
+French Ligue 1,5,AS Saint-Etienne,38,18,12,8,50,31,19,66,League Table,2014/15,French Ligue 1|AS Saint-Etienne|2014/15
+French Ligue 1,6,Girondins De Bordeaux,38,17,12,9,47,44,3,63,League Table,2014/15,French Ligue 1|Girondins De Bordeaux|2014/15
+French Ligue 1,7,Montpellier HSC,38,16,8,14,46,39,7,56,League Table,2014/15,French Ligue 1|Montpellier HSC|2014/15
+French Ligue 1,8,Lille OSC,38,16,8,14,43,42,1,56,League Table,2014/15,French Ligue 1|Lille OSC|2014/15
+French Ligue 1,9,Stade Rennes,38,13,11,14,35,42,-7,50,League Table,2014/15,French Ligue 1|Stade Rennes|2014/15
+French Ligue 1,10,En Avant Guingamp,38,15,4,19,41,55,-14,49,League Table,2014/15,French Ligue 1|En Avant Guingamp|2014/15
+French Ligue 1,11,OGC Nice,38,13,9,16,44,53,-9,48,League Table,2014/15,French Ligue 1|OGC Nice|2014/15
+French Ligue 1,12,SC Bastia,38,12,11,15,37,46,-9,47,League Table,2014/15,French Ligue 1|SC Bastia|2014/15
+French Ligue 1,13,Caen,38,12,10,16,54,55,-1,46,League Table,2014/15,French Ligue 1|Caen|2014/15
+French Ligue 1,14,FC Nantes,38,11,12,15,29,40,-11,45,League Table,2014/15,French Ligue 1|FC Nantes|2014/15
+French Ligue 1,15,Stade Reims,38,12,8,18,47,66,-19,44,League Table,2014/15,French Ligue 1|Stade Reims|2014/15
+French Ligue 1,16,Lorient,38,12,7,19,44,50,-6,43,League Table,2014/15,French Ligue 1|Lorient|2014/15
+French Ligue 1,17,Toulouse,38,12,6,20,43,64,-21,42,League Table,2014/15,French Ligue 1|Toulouse|2014/15
+French Ligue 1,18,Evian Thonon Gaillard,38,11,4,23,41,62,-21,37,League Table,2014/15,French Ligue 1|Evian Thonon Gaillard|2014/15
+French Ligue 1,19,RC Lens,38,8,8,22,33,60,-27,32,League Table,2014/15,French Ligue 1|RC Lens|2014/15
+French Ligue 1,20,FC Metz,38,7,9,22,31,61,-30,30,League Table,2014/15,French Ligue 1|FC Metz|2014/15
+French Ligue 1,1,Paris Saint-Germain,19,15,4,-,52,14,38,49,Home League Table,2014/15,French Ligue 1|Paris Saint-Germain|2014/15
+French Ligue 1,2,Olympique Lyonnais,19,14,3,2,40,11,29,45,Home League Table,2014/15,French Ligue 1|Olympique Lyonnais|2014/15
+French Ligue 1,3,AS Saint-Etienne,19,12,5,2,32,11,21,41,Home League Table,2014/15,French Ligue 1|AS Saint-Etienne|2014/15
+French Ligue 1,4,Olympique Marseille,19,13,2,4,40,22,18,41,Home League Table,2014/15,French Ligue 1|Olympique Marseille|2014/15
+French Ligue 1,5,Girondins De Bordeaux,19,12,5,2,31,23,8,41,Home League Table,2014/15,French Ligue 1|Girondins De Bordeaux|2014/15
+French Ligue 1,6,Lille OSC,19,11,5,3,26,12,14,38,Home League Table,2014/15,French Ligue 1|Lille OSC|2014/15
+French Ligue 1,7,Montpellier HSC,19,11,2,6,30,21,9,35,Home League Table,2014/15,French Ligue 1|Montpellier HSC|2014/15
+French Ligue 1,8,AS Monaco,19,8,9,2,23,10,13,33,Home League Table,2014/15,French Ligue 1|AS Monaco|2014/15
+French Ligue 1,9,SC Bastia,19,8,7,4,24,18,6,31,Home League Table,2014/15,French Ligue 1|SC Bastia|2014/15
+French Ligue 1,10,Toulouse,19,8,6,5,28,29,-1,30,Home League Table,2014/15,French Ligue 1|Toulouse|2014/15
+French Ligue 1,11,Stade Rennes,19,8,5,6,22,22,0,29,Home League Table,2014/15,French Ligue 1|Stade Rennes|2014/15
+French Ligue 1,12,FC Nantes,19,7,7,5,17,17,0,28,Home League Table,2014/15,French Ligue 1|FC Nantes|2014/15
+French Ligue 1,13,En Avant Guingamp,19,9,1,9,23,25,-2,28,Home League Table,2014/15,French Ligue 1|En Avant Guingamp|2014/15
+French Ligue 1,14,Stade Reims,19,8,3,8,24,29,-5,27,Home League Table,2014/15,French Ligue 1|Stade Reims|2014/15
+French Ligue 1,15,Caen,19,7,3,9,26,25,1,24,Home League Table,2014/15,French Ligue 1|Caen|2014/15
+French Ligue 1,16,OGC Nice,19,6,6,7,21,24,-3,24,Home League Table,2014/15,French Ligue 1|OGC Nice|2014/15
+French Ligue 1,17,Lorient,19,6,5,8,17,17,0,23,Home League Table,2014/15,French Ligue 1|Lorient|2014/15
+French Ligue 1,18,Evian Thonon Gaillard,19,7,2,10,20,25,-5,23,Home League Table,2014/15,French Ligue 1|Evian Thonon Gaillard|2014/15
+French Ligue 1,19,FC Metz,19,6,4,9,26,32,-6,22,Home League Table,2014/15,French Ligue 1|FC Metz|2014/15
+French Ligue 1,20,RC Lens,19,6,4,9,15,23,-8,22,Home League Table,2014/15,French Ligue 1|RC Lens|2014/15
+French Ligue 1,1,AS Monaco,19,12,2,5,28,16,12,38,Away League Table,2014/15,French Ligue 1|AS Monaco|2014/15
+French Ligue 1,2,Paris Saint-Germain,19,9,7,3,31,22,9,34,Away League Table,2014/15,French Ligue 1|Paris Saint-Germain|2014/15
+French Ligue 1,3,Olympique Lyonnais,19,8,6,5,32,22,10,30,Away League Table,2014/15,French Ligue 1|Olympique Lyonnais|2014/15
+French Ligue 1,4,Olympique Marseille,19,8,4,7,36,20,16,28,Away League Table,2014/15,French Ligue 1|Olympique Marseille|2014/15
+French Ligue 1,5,AS Saint-Etienne,19,6,7,6,18,20,-2,25,Away League Table,2014/15,French Ligue 1|AS Saint-Etienne|2014/15
+French Ligue 1,6,OGC Nice,19,7,3,9,23,29,-6,24,Away League Table,2014/15,French Ligue 1|OGC Nice|2014/15
+French Ligue 1,7,Caen,19,5,7,7,28,30,-2,22,Away League Table,2014/15,French Ligue 1|Caen|2014/15
+French Ligue 1,8,Girondins De Bordeaux,19,5,7,7,16,21,-5,22,Away League Table,2014/15,French Ligue 1|Girondins De Bordeaux|2014/15
+French Ligue 1,9,Montpellier HSC,19,5,6,8,16,18,-2,21,Away League Table,2014/15,French Ligue 1|Montpellier HSC|2014/15
+French Ligue 1,10,Stade Rennes,19,5,6,8,13,20,-7,21,Away League Table,2014/15,French Ligue 1|Stade Rennes|2014/15
+French Ligue 1,11,En Avant Guingamp,19,6,3,10,18,30,-12,21,Away League Table,2014/15,French Ligue 1|En Avant Guingamp|2014/15
+French Ligue 1,12,Lorient,19,6,2,11,27,33,-6,20,Away League Table,2014/15,French Ligue 1|Lorient|2014/15
+French Ligue 1,13,Lille OSC,19,5,3,11,17,30,-13,18,Away League Table,2014/15,French Ligue 1|Lille OSC|2014/15
+French Ligue 1,14,FC Nantes,19,4,5,10,12,23,-11,17,Away League Table,2014/15,French Ligue 1|FC Nantes|2014/15
+French Ligue 1,15,Stade Reims,19,4,5,10,23,37,-14,17,Away League Table,2014/15,French Ligue 1|Stade Reims|2014/15
+French Ligue 1,16,SC Bastia,19,4,4,11,13,28,-15,16,Away League Table,2014/15,French Ligue 1|SC Bastia|2014/15
+French Ligue 1,17,Evian Thonon Gaillard,19,4,2,13,21,37,-16,14,Away League Table,2014/15,French Ligue 1|Evian Thonon Gaillard|2014/15
+French Ligue 1,18,Toulouse,19,4,-,15,15,35,-20,12,Away League Table,2014/15,French Ligue 1|Toulouse|2014/15
+French Ligue 1,19,RC Lens,19,2,4,13,18,37,-19,10,Away League Table,2014/15,French Ligue 1|RC Lens|2014/15
+French Ligue 1,20,FC Metz,19,1,5,13,5,29,-24,8,Away League Table,2014/15,French Ligue 1|FC Metz|2014/15
+Eredivisie,1,PSV Eindhoven,34,29,1,4,92,31,61,88,League Table,2014/15,Eredivisie|PSV Eindhoven|2014/15
+Eredivisie,2,AFC Ajax,34,21,8,5,69,29,40,71,League Table,2014/15,Eredivisie|AFC Ajax|2014/15
+Eredivisie,3,AZ Alkmaar,34,19,5,10,62,56,6,62,League Table,2014/15,Eredivisie|AZ Alkmaar|2014/15
+Eredivisie,4,Feyenoord,34,17,8,9,56,39,17,59,League Table,2014/15,Eredivisie|Feyenoord|2014/15
+Eredivisie,5,Vitesse Arnhem,34,16,10,8,66,42,24,58,League Table,2014/15,Eredivisie|Vitesse Arnhem|2014/15
+Eredivisie,6,PEC Zwolle,34,16,5,13,59,43,16,53,League Table,2014/15,Eredivisie|PEC Zwolle|2014/15
+Eredivisie,7,SC Heerenveen,34,13,11,10,53,46,7,50,League Table,2014/15,Eredivisie|SC Heerenveen|2014/15
+Eredivisie,8,FC Groningen,34,11,13,10,49,53,-4,46,League Table,2014/15,Eredivisie|FC Groningen|2014/15
+Eredivisie,9,Willem II Tilburg,34,13,7,14,46,50,-4,46,League Table,2014/15,Eredivisie|Willem II Tilburg|2014/15
+Eredivisie,10,FC Twente,34,13,10,11,56,51,5,43,League Table,2014/15,Eredivisie|FC Twente|2014/15
+Eredivisie,11,FC Utrecht,34,11,8,15,60,62,-2,41,League Table,2014/15,Eredivisie|FC Utrecht|2014/15
+Eredivisie,12,SC Cambuur,34,11,8,15,46,56,-10,41,League Table,2014/15,Eredivisie|SC Cambuur|2014/15
+Eredivisie,13,ADO Den Haag,34,9,10,15,44,53,-9,37,League Table,2014/15,Eredivisie|ADO Den Haag|2014/15
+Eredivisie,14,Heracles Almelo,34,11,4,19,47,64,-17,37,League Table,2014/15,Eredivisie|Heracles Almelo|2014/15
+Eredivisie,15,SBV Excelsior,34,6,14,14,47,63,-16,32,League Table,2014/15,Eredivisie|SBV Excelsior|2014/15
+Eredivisie,16,NAC Breda,34,6,10,18,36,68,-32,28,League Table,2014/15,Eredivisie|NAC Breda|2014/15
+Eredivisie,17,Go Ahead Eagles,34,7,6,21,29,59,-30,27,League Table,2014/15,Eredivisie|Go Ahead Eagles|2014/15
+Eredivisie,18,FC Dordrecht,34,4,8,22,24,76,-52,20,League Table,2014/15,Eredivisie|FC Dordrecht|2014/15
+Eredivisie,1,PSV Eindhoven,17,16,-,1,50,12,38,48,Home League Table,2014/15,Eredivisie|PSV Eindhoven|2014/15
+Eredivisie,2,AFC Ajax,17,12,3,2,37,11,26,39,Home League Table,2014/15,Eredivisie|AFC Ajax|2014/15
+Eredivisie,3,PEC Zwolle,17,11,4,2,40,15,25,37,Home League Table,2014/15,Eredivisie|PEC Zwolle|2014/15
+Eredivisie,4,Vitesse Arnhem,17,8,8,1,36,17,19,32,Home League Table,2014/15,Eredivisie|Vitesse Arnhem|2014/15
+Eredivisie,5,Feyenoord,17,10,2,5,31,20,11,32,Home League Table,2014/15,Eredivisie|Feyenoord|2014/15
+Eredivisie,6,AZ Alkmaar,17,9,3,5,30,27,3,30,Home League Table,2014/15,Eredivisie|AZ Alkmaar|2014/15
+Eredivisie,7,SC Heerenveen,17,8,5,4,33,21,12,29,Home League Table,2014/15,Eredivisie|SC Heerenveen|2014/15
+Eredivisie,8,FC Groningen,17,7,8,2,26,18,8,29,Home League Table,2014/15,Eredivisie|FC Groningen|2014/15
+Eredivisie,9,Willem II Tilburg,17,8,5,4,25,22,3,29,Home League Table,2014/15,Eredivisie|Willem II Tilburg|2014/15
+Eredivisie,10,ADO Den Haag,17,8,4,5,30,23,7,28,Home League Table,2014/15,Eredivisie|ADO Den Haag|2014/15
+Eredivisie,11,FC Twente,17,8,4,5,26,23,3,28,Home League Table,2014/15,Eredivisie|FC Twente|2014/15
+Eredivisie,12,SC Cambuur,17,8,2,7,25,22,3,26,Home League Table,2014/15,Eredivisie|SC Cambuur|2014/15
+Eredivisie,13,FC Utrecht,17,6,4,7,32,31,1,22,Home League Table,2014/15,Eredivisie|FC Utrecht|2014/15
+Eredivisie,14,Heracles Almelo,17,5,4,8,23,29,-6,19,Home League Table,2014/15,Eredivisie|Heracles Almelo|2014/15
+Eredivisie,15,SBV Excelsior,17,4,5,8,26,37,-11,17,Home League Table,2014/15,Eredivisie|SBV Excelsior|2014/15
+Eredivisie,16,Go Ahead Eagles,17,4,3,10,14,29,-15,15,Home League Table,2014/15,Eredivisie|Go Ahead Eagles|2014/15
+Eredivisie,17,NAC Breda,17,3,5,9,19,32,-13,14,Home League Table,2014/15,Eredivisie|NAC Breda|2014/15
+Eredivisie,18,FC Dordrecht,17,3,4,10,15,34,-19,13,Home League Table,2014/15,Eredivisie|FC Dordrecht|2014/15
+Eredivisie,1,PSV Eindhoven,17,13,1,3,42,19,23,40,Away League Table,2014/15,Eredivisie|PSV Eindhoven|2014/15
+Eredivisie,2,AFC Ajax,17,9,5,3,32,18,14,32,Away League Table,2014/15,Eredivisie|AFC Ajax|2014/15
+Eredivisie,3,AZ Alkmaar,17,10,2,5,32,29,3,32,Away League Table,2014/15,Eredivisie|AZ Alkmaar|2014/15
+Eredivisie,4,Feyenoord,17,7,6,4,25,19,6,27,Away League Table,2014/15,Eredivisie|Feyenoord|2014/15
+Eredivisie,5,Vitesse Arnhem,17,8,2,7,30,25,5,26,Away League Table,2014/15,Eredivisie|Vitesse Arnhem|2014/15
+Eredivisie,6,FC Twente,17,5,6,6,30,28,2,21,Away League Table,2014/15,Eredivisie|FC Twente|2014/15
+Eredivisie,7,SC Heerenveen,17,5,6,6,20,25,-5,21,Away League Table,2014/15,Eredivisie|SC Heerenveen|2014/15
+Eredivisie,8,FC Utrecht,17,5,4,8,28,31,-3,19,Away League Table,2014/15,Eredivisie|FC Utrecht|2014/15
+Eredivisie,9,Heracles Almelo,17,6,-,11,24,35,-11,18,Away League Table,2014/15,Eredivisie|Heracles Almelo|2014/15
+Eredivisie,10,Willem II Tilburg,17,5,2,10,21,28,-7,17,Away League Table,2014/15,Eredivisie|Willem II Tilburg|2014/15
+Eredivisie,11,FC Groningen,17,4,5,8,23,35,-12,17,Away League Table,2014/15,Eredivisie|FC Groningen|2014/15
+Eredivisie,12,PEC Zwolle,17,5,1,11,19,28,-9,16,Away League Table,2014/15,Eredivisie|PEC Zwolle|2014/15
+Eredivisie,13,SBV Excelsior,17,2,9,6,21,26,-5,15,Away League Table,2014/15,Eredivisie|SBV Excelsior|2014/15
+Eredivisie,14,SC Cambuur,17,3,6,8,21,34,-13,15,Away League Table,2014/15,Eredivisie|SC Cambuur|2014/15
+Eredivisie,15,NAC Breda,17,3,5,9,17,36,-19,14,Away League Table,2014/15,Eredivisie|NAC Breda|2014/15
+Eredivisie,16,Go Ahead Eagles,17,3,3,11,15,30,-15,12,Away League Table,2014/15,Eredivisie|Go Ahead Eagles|2014/15
+Eredivisie,17,ADO Den Haag,17,1,6,10,14,30,-16,9,Away League Table,2014/15,Eredivisie|ADO Den Haag|2014/15
+Eredivisie,18,FC Dordrecht,17,1,4,12,9,42,-33,7,Away League Table,2014/15,Eredivisie|FC Dordrecht|2014/15
+Serie A,1,Juventus,38,26,9,3,72,24,48,87,League Table,2014/15,Serie A|Juventus|2014/15
+Serie A,2,AS Roma,38,19,14,5,54,30,24,71,League Table,2014/15,Serie A|AS Roma|2014/15
+Serie A,3,SS Lazio,38,21,6,11,71,38,33,69,League Table,2014/15,Serie A|SS Lazio|2014/15
+Serie A,4,Fiorentina,38,18,10,10,61,46,15,64,League Table,2014/15,Serie A|Fiorentina|2014/15
+Serie A,5,Napoli,38,18,9,11,70,54,16,63,League Table,2014/15,Serie A|Napoli|2014/15
+Serie A,6,Genoa,38,15,12,11,61,47,14,57,League Table,2014/15,Serie A|Genoa|2014/15
+Serie A,7,Sampdoria,38,13,17,8,47,42,5,56,League Table,2014/15,Serie A|Sampdoria|2014/15
+Serie A,8,Internazionale,38,14,13,11,59,48,11,55,League Table,2014/15,Serie A|Internazionale|2014/15
+Serie A,9,Torino,38,14,12,12,48,44,4,54,League Table,2014/15,Serie A|Torino|2014/15
+Serie A,10,AC Milan,38,12,14,12,55,50,5,50,League Table,2014/15,Serie A|AC Milan|2014/15
+Serie A,11,Palermo,38,12,13,13,53,55,-2,49,League Table,2014/15,Serie A|Palermo|2014/15
+Serie A,12,Sassuolo,38,12,13,13,49,57,-8,49,League Table,2014/15,Serie A|Sassuolo|2014/15
+Serie A,13,Hellas Verona,38,11,13,14,49,65,-16,46,League Table,2014/15,Serie A|Hellas Verona|2014/15
+Serie A,14,Chievo,38,10,14,14,28,40,-12,44,League Table,2014/15,Serie A|Chievo|2014/15
+Serie A,15,Empoli,38,8,18,12,46,52,-6,42,League Table,2014/15,Serie A|Empoli|2014/15
+Serie A,16,Udinese,38,10,11,17,43,56,-13,41,League Table,2014/15,Serie A|Udinese|2014/15
+Serie A,17,Atalanta,38,7,16,15,38,57,-19,37,League Table,2014/15,Serie A|Atalanta|2014/15
+Serie A,18,Cagliari,38,8,10,20,48,68,-20,34,League Table,2014/15,Serie A|Cagliari|2014/15
+Serie A,19,AC Cesena,38,4,12,22,36,73,-37,24,League Table,2014/15,Serie A|AC Cesena|2014/15
+Serie A,20,Parma,38,6,8,24,33,75,-42,19,League Table,2014/15,Serie A|Parma|2014/15
+Serie A,1,Juventus,19,16,3,-,45,11,34,51,Home League Table,2014/15,Serie A|Juventus|2014/15
+Serie A,2,Napoli,19,11,5,3,46,28,18,38,Home League Table,2014/15,Serie A|Napoli|2014/15
+Serie A,3,SS Lazio,19,12,1,6,40,18,22,37,Home League Table,2014/15,Serie A|SS Lazio|2014/15
+Serie A,4,AS Roma,19,10,7,2,31,14,17,37,Home League Table,2014/15,Serie A|AS Roma|2014/15
+Serie A,5,Fiorentina,19,9,6,4,30,17,13,33,Home League Table,2014/15,Serie A|Fiorentina|2014/15
+Serie A,6,Genoa,19,9,6,4,33,21,12,33,Home League Table,2014/15,Serie A|Genoa|2014/15
+Serie A,7,Torino,19,8,7,4,25,14,11,31,Home League Table,2014/15,Serie A|Torino|2014/15
+Serie A,8,Sampdoria,19,7,10,2,22,15,7,31,Home League Table,2014/15,Serie A|Sampdoria|2014/15
+Serie A,9,AC Milan,19,8,6,5,29,19,10,30,Home League Table,2014/15,Serie A|AC Milan|2014/15
+Serie A,10,Palermo,19,8,6,5,30,25,5,30,Home League Table,2014/15,Serie A|Palermo|2014/15
+Serie A,11,Sassuolo,19,7,8,4,25,22,3,29,Home League Table,2014/15,Serie A|Sassuolo|2014/15
+Serie A,12,Internazionale,19,7,7,5,33,23,10,28,Home League Table,2014/15,Serie A|Internazionale|2014/15
+Serie A,13,Empoli,19,6,8,5,26,22,4,26,Home League Table,2014/15,Serie A|Empoli|2014/15
+Serie A,14,Hellas Verona,19,7,5,7,27,30,-3,26,Home League Table,2014/15,Serie A|Hellas Verona|2014/15
+Serie A,15,Udinese,19,6,5,8,26,29,-3,23,Home League Table,2014/15,Serie A|Udinese|2014/15
+Serie A,16,Chievo,19,4,10,5,16,18,-2,22,Home League Table,2014/15,Serie A|Chievo|2014/15
+Serie A,17,Parma,19,5,4,10,19,27,-8,19,Home League Table,2014/15,Serie A|Parma|2014/15
+Serie A,18,Atalanta,19,4,7,8,22,33,-11,19,Home League Table,2014/15,Serie A|Atalanta|2014/15
+Serie A,19,Cagliari,19,4,4,11,24,36,-12,16,Home League Table,2014/15,Serie A|Cagliari|2014/15
+Serie A,20,AC Cesena,19,3,7,9,19,31,-12,16,Home League Table,2014/15,Serie A|AC Cesena|2014/15
+Serie A,1,Juventus,19,10,6,3,27,13,14,36,Away League Table,2014/15,Serie A|Juventus|2014/15
+Serie A,2,AS Roma,19,9,7,3,23,16,7,34,Away League Table,2014/15,Serie A|AS Roma|2014/15
+Serie A,3,SS Lazio,19,9,5,5,31,20,11,32,Away League Table,2014/15,Serie A|SS Lazio|2014/15
+Serie A,4,Fiorentina,19,9,4,6,31,29,2,31,Away League Table,2014/15,Serie A|Fiorentina|2014/15
+Serie A,5,Internazionale,19,7,6,6,26,25,1,27,Away League Table,2014/15,Serie A|Internazionale|2014/15
+Serie A,6,Sampdoria,19,6,7,6,25,27,-2,25,Away League Table,2014/15,Serie A|Sampdoria|2014/15
+Serie A,7,Napoli,19,7,4,8,24,26,-2,25,Away League Table,2014/15,Serie A|Napoli|2014/15
+Serie A,8,Genoa,19,6,6,7,28,26,2,24,Away League Table,2014/15,Serie A|Genoa|2014/15
+Serie A,9,Torino,19,6,5,8,23,30,-7,23,Away League Table,2014/15,Serie A|Torino|2014/15
+Serie A,10,Chievo,19,6,4,9,12,22,-10,22,Away League Table,2014/15,Serie A|Chievo|2014/15
+Serie A,11,AC Milan,19,4,8,7,26,31,-5,20,Away League Table,2014/15,Serie A|AC Milan|2014/15
+Serie A,12,Sassuolo,19,5,5,9,24,35,-11,20,Away League Table,2014/15,Serie A|Sassuolo|2014/15
+Serie A,13,Hellas Verona,19,4,8,7,22,35,-13,20,Away League Table,2014/15,Serie A|Hellas Verona|2014/15
+Serie A,14,Palermo,19,4,7,8,23,30,-7,19,Away League Table,2014/15,Serie A|Palermo|2014/15
+Serie A,15,Cagliari,19,4,6,9,24,32,-8,18,Away League Table,2014/15,Serie A|Cagliari|2014/15
+Serie A,16,Atalanta,19,3,9,7,16,24,-8,18,Away League Table,2014/15,Serie A|Atalanta|2014/15
+Serie A,17,Udinese,19,4,6,9,17,27,-10,18,Away League Table,2014/15,Serie A|Udinese|2014/15
+Serie A,18,Empoli,19,2,10,7,20,30,-10,16,Away League Table,2014/15,Serie A|Empoli|2014/15
+Serie A,19,AC Cesena,19,1,5,13,17,42,-25,8,Away League Table,2014/15,Serie A|AC Cesena|2014/15
+Serie A,20,Parma,19,1,4,14,14,48,-34,7,Away League Table,2014/15,Serie A|Parma|2014/15
+Scottish Premiership,1,Celtic,38,29,5,4,84,17,67,92,League Table,2014/15,Scottish Premiership|Celtic|2014/15
+Scottish Premiership,2,Aberdeen,38,23,6,9,57,33,24,75,League Table,2014/15,Scottish Premiership|Aberdeen|2014/15
+Scottish Premiership,3,Inverness Cali,38,19,8,11,52,42,10,65,League Table,2014/15,Scottish Premiership|Inverness Cali|2014/15
+Scottish Premiership,4,St Johnstone,38,16,9,13,34,34,0,57,League Table,2014/15,Scottish Premiership|St Johnstone|2014/15
+Scottish Premiership,5,Dundee United,38,17,5,16,58,56,2,56,League Table,2014/15,Scottish Premiership|Dundee United|2014/15
+Scottish Premiership,6,Hamilton Academical,38,15,8,15,50,53,-3,53,League Table,2014/15,Scottish Premiership|Hamilton Academical|2014/15
+Scottish Premiership,7,Partick Thistle,38,12,10,16,48,44,4,46,League Table,2014/15,Scottish Premiership|Partick Thistle|2014/15
+Scottish Premiership,8,Dundee,38,11,12,15,46,57,-11,45,League Table,2014/15,Scottish Premiership|Dundee|2014/15
+Scottish Premiership,9,Ross County,38,12,8,18,46,63,-17,44,League Table,2014/15,Scottish Premiership|Ross County|2014/15
+Scottish Premiership,10,Kilmarnock,38,11,8,19,44,59,-15,41,League Table,2014/15,Scottish Premiership|Kilmarnock|2014/15
+Scottish Premiership,11,Motherwell,38,10,6,22,38,63,-25,36,League Table,2014/15,Scottish Premiership|Motherwell|2014/15
+Scottish Premiership,12,St Mirren,38,9,3,26,30,66,-36,30,League Table,2014/15,Scottish Premiership|St Mirren|2014/15
+Scottish Premiership,1,Celtic,19,15,2,2,50,8,42,47,Home League Table,2014/15,Scottish Premiership|Celtic|2014/15
+Scottish Premiership,2,Aberdeen,19,12,3,4,32,15,17,39,Home League Table,2014/15,Scottish Premiership|Aberdeen|2014/15
+Scottish Premiership,3,Dundee United,19,12,2,5,32,20,12,38,Home League Table,2014/15,Scottish Premiership|Dundee United|2014/15
+Scottish Premiership,4,Inverness Cali,19,10,6,3,29,19,10,36,Home League Table,2014/15,Scottish Premiership|Inverness Cali|2014/15
+Scottish Premiership,5,Hamilton Academical,19,8,6,5,30,20,10,30,Home League Table,2014/15,Scottish Premiership|Hamilton Academical|2014/15
+Scottish Premiership,6,St Johnstone,19,8,5,6,19,17,2,29,Home League Table,2014/15,Scottish Premiership|St Johnstone|2014/15
+Scottish Premiership,7,Partick Thistle,19,8,4,7,32,22,10,28,Home League Table,2014/15,Scottish Premiership|Partick Thistle|2014/15
+Scottish Premiership,8,Motherwell,19,7,5,7,23,21,2,26,Home League Table,2014/15,Scottish Premiership|Motherwell|2014/15
+Scottish Premiership,9,Dundee,20,5,8,7,25,27,-2,23,Home League Table,2014/15,Scottish Premiership|Dundee|2014/15
+Scottish Premiership,10,Kilmarnock,18,7,1,10,23,27,-4,22,Home League Table,2014/15,Scottish Premiership|Kilmarnock|2014/15
+Scottish Premiership,11,Ross County,19,7,-,12,21,31,-10,21,Home League Table,2014/15,Scottish Premiership|Ross County|2014/15
+Scottish Premiership,12,St Mirren,19,3,2,14,14,30,-16,11,Home League Table,2014/15,Scottish Premiership|St Mirren|2014/15
+Scottish Premiership,1,Celtic,19,14,3,2,34,9,25,45,Away League Table,2014/15,Scottish Premiership|Celtic|2014/15
+Scottish Premiership,2,Aberdeen,19,11,3,5,25,18,7,36,Away League Table,2014/15,Scottish Premiership|Aberdeen|2014/15
+Scottish Premiership,3,Inverness Cali,19,9,2,8,23,23,0,29,Away League Table,2014/15,Scottish Premiership|Inverness Cali|2014/15
+Scottish Premiership,4,St Johnstone,19,8,4,7,15,17,-2,28,Away League Table,2014/15,Scottish Premiership|St Johnstone|2014/15
+Scottish Premiership,5,Ross County,19,5,8,6,25,32,-7,23,Away League Table,2014/15,Scottish Premiership|Ross County|2014/15
+Scottish Premiership,6,Hamilton Academical,19,7,2,10,20,33,-13,23,Away League Table,2014/15,Scottish Premiership|Hamilton Academical|2014/15
+Scottish Premiership,7,Dundee,18,6,4,8,21,30,-9,22,Away League Table,2014/15,Scottish Premiership|Dundee|2014/15
+Scottish Premiership,8,Kilmarnock,20,4,7,9,21,32,-11,19,Away League Table,2014/15,Scottish Premiership|Kilmarnock|2014/15
+Scottish Premiership,9,St Mirren,19,6,1,12,16,36,-20,19,Away League Table,2014/15,Scottish Premiership|St Mirren|2014/15
+Scottish Premiership,10,Partick Thistle,19,4,6,9,16,22,-6,18,Away League Table,2014/15,Scottish Premiership|Partick Thistle|2014/15
+Scottish Premiership,11,Dundee United,19,5,3,11,26,36,-10,18,Away League Table,2014/15,Scottish Premiership|Dundee United|2014/15
+Scottish Premiership,12,Motherwell,19,3,1,15,15,42,-27,10,Away League Table,2014/15,Scottish Premiership|Motherwell|2014/15

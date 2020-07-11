@@ -1,0 +1,385 @@
+﻿League,Pos,Team,P,W,D,L,F,A,GD,Pts,Table Type,Season,KEY
+Premier League,1,Leicester City,38,23,12,3,68,36,32,81,League Table,2015/16,Premier League|Leicester City|2015/16
+Premier League,2,Arsenal,38,20,11,7,65,36,29,71,League Table,2015/16,Premier League|Arsenal|2015/16
+Premier League,3,Tottenham Hotspur,38,19,13,6,69,35,34,70,League Table,2015/16,Premier League|Tottenham Hotspur|2015/16
+Premier League,4,Manchester City,38,19,9,10,71,41,30,66,League Table,2015/16,Premier League|Manchester City|2015/16
+Premier League,5,Manchester United,38,19,9,10,49,35,14,66,League Table,2015/16,Premier League|Manchester United|2015/16
+Premier League,6,Southampton,38,18,9,11,59,41,18,63,League Table,2015/16,Premier League|Southampton|2015/16
+Premier League,7,West Ham United,38,16,14,8,65,51,14,62,League Table,2015/16,Premier League|West Ham United|2015/16
+Premier League,8,Liverpool,38,16,12,10,63,50,13,60,League Table,2015/16,Premier League|Liverpool|2015/16
+Premier League,9,Stoke City,38,14,9,15,41,55,-14,51,League Table,2015/16,Premier League|Stoke City|2015/16
+Premier League,10,Chelsea,38,12,14,12,59,53,6,50,League Table,2015/16,Premier League|Chelsea|2015/16
+Premier League,11,Everton,38,11,14,13,59,55,4,47,League Table,2015/16,Premier League|Everton|2015/16
+Premier League,12,Swansea City,38,12,11,15,42,52,-10,47,League Table,2015/16,Premier League|Swansea City|2015/16
+Premier League,13,Watford,38,12,9,17,40,50,-10,45,League Table,2015/16,Premier League|Watford|2015/16
+Premier League,14,West Bromwich Albion,38,10,13,15,34,48,-14,43,League Table,2015/16,Premier League|West Bromwich Albion|2015/16
+Premier League,15,Crystal Palace,38,11,9,18,39,51,-12,42,League Table,2015/16,Premier League|Crystal Palace|2015/16
+Premier League,16,AFC Bournemouth,38,11,9,18,45,67,-22,42,League Table,2015/16,Premier League|AFC Bournemouth|2015/16
+Premier League,17,Sunderland,38,9,12,17,48,62,-14,39,League Table,2015/16,Premier League|Sunderland|2015/16
+Premier League,18,Newcastle United,38,9,10,19,44,65,-21,37,League Table,2015/16,Premier League|Newcastle United|2015/16
+Premier League,19,Norwich City,38,9,7,22,39,67,-28,34,League Table,2015/16,Premier League|Norwich City|2015/16
+Premier League,20,Aston Villa,38,3,8,27,27,76,-49,17,League Table,2015/16,Premier League|Aston Villa|2015/16
+Premier League,1,Leicester City,19,12,6,1,35,18,17,42,Home League Table,2015/16,Premier League|Leicester City|2015/16
+Premier League,2,Manchester United,19,12,5,2,27,9,18,41,Home League Table,2015/16,Premier League|Manchester United|2015/16
+Premier League,3,Arsenal,19,12,4,3,31,11,20,40,Home League Table,2015/16,Premier League|Arsenal|2015/16
+Premier League,4,Manchester City,19,12,2,5,47,21,26,38,Home League Table,2015/16,Premier League|Manchester City|2015/16
+Premier League,5,Tottenham Hotspur,19,10,6,3,35,15,20,36,Home League Table,2015/16,Premier League|Tottenham Hotspur|2015/16
+Premier League,6,Southampton,19,11,3,5,39,22,17,36,Home League Table,2015/16,Premier League|Southampton|2015/16
+Premier League,7,West Ham United,19,9,7,3,34,26,8,34,Home League Table,2015/16,Premier League|West Ham United|2015/16
+Premier League,8,Liverpool,19,8,8,3,33,22,11,32,Home League Table,2015/16,Premier League|Liverpool|2015/16
+Premier League,9,Swansea City,19,8,6,5,20,20,0,30,Home League Table,2015/16,Premier League|Swansea City|2015/16
+Premier League,10,Newcastle United,19,7,7,5,32,24,8,28,Home League Table,2015/16,Premier League|Newcastle United|2015/16
+Premier League,11,Stoke City,19,8,4,7,22,24,-2,28,Home League Table,2015/16,Premier League|Stoke City|2015/16
+Premier League,12,Sunderland,19,6,6,7,23,20,3,24,Home League Table,2015/16,Premier League|Sunderland|2015/16
+Premier League,13,Chelsea,19,5,9,5,32,30,2,24,Home League Table,2015/16,Premier League|Chelsea|2015/16
+Premier League,14,Watford,19,6,6,7,20,19,1,24,Home League Table,2015/16,Premier League|Watford|2015/16
+Premier League,15,Everton,19,6,5,8,35,30,5,23,Home League Table,2015/16,Premier League|Everton|2015/16
+Premier League,16,Norwich City,19,6,5,8,26,30,-4,23,Home League Table,2015/16,Premier League|Norwich City|2015/16
+Premier League,17,West Bromwich Albion,19,6,5,8,20,26,-6,23,Home League Table,2015/16,Premier League|West Bromwich Albion|2015/16
+Premier League,18,Crystal Palace,19,6,3,10,19,23,-4,21,Home League Table,2015/16,Premier League|Crystal Palace|2015/16
+Premier League,19,AFC Bournemouth,19,5,5,9,23,34,-11,20,Home League Table,2015/16,Premier League|AFC Bournemouth|2015/16
+Premier League,20,Aston Villa,19,2,5,12,14,35,-21,11,Home League Table,2015/16,Premier League|Aston Villa|2015/16
+Premier League,1,Leicester City,19,11,6,2,33,18,15,39,Away League Table,2015/16,Premier League|Leicester City|2015/16
+Premier League,2,Tottenham Hotspur,19,9,7,3,34,20,14,34,Away League Table,2015/16,Premier League|Tottenham Hotspur|2015/16
+Premier League,3,Arsenal,19,8,7,4,34,25,9,31,Away League Table,2015/16,Premier League|Arsenal|2015/16
+Premier League,4,West Ham United,19,7,7,5,31,25,6,28,Away League Table,2015/16,Premier League|West Ham United|2015/16
+Premier League,5,Manchester City,19,7,7,5,24,20,4,28,Away League Table,2015/16,Premier League|Manchester City|2015/16
+Premier League,6,Liverpool,19,8,4,7,30,28,2,28,Away League Table,2015/16,Premier League|Liverpool|2015/16
+Premier League,7,Southampton,19,7,6,6,20,19,1,27,Away League Table,2015/16,Premier League|Southampton|2015/16
+Premier League,8,Chelsea,19,7,5,7,27,23,4,26,Away League Table,2015/16,Premier League|Chelsea|2015/16
+Premier League,9,Manchester United,19,7,4,8,22,26,-4,25,Away League Table,2015/16,Premier League|Manchester United|2015/16
+Premier League,10,Everton,19,5,9,5,24,25,-1,24,Away League Table,2015/16,Premier League|Everton|2015/16
+Premier League,11,Stoke City,19,6,5,8,19,31,-12,23,Away League Table,2015/16,Premier League|Stoke City|2015/16
+Premier League,12,AFC Bournemouth,19,6,4,9,22,33,-11,22,Away League Table,2015/16,Premier League|AFC Bournemouth|2015/16
+Premier League,13,Crystal Palace,19,5,6,8,20,28,-8,21,Away League Table,2015/16,Premier League|Crystal Palace|2015/16
+Premier League,14,Watford,19,6,3,10,20,31,-11,21,Away League Table,2015/16,Premier League|Watford|2015/16
+Premier League,15,West Bromwich Albion,19,4,8,7,14,22,-8,20,Away League Table,2015/16,Premier League|West Bromwich Albion|2015/16
+Premier League,16,Swansea City,19,4,5,10,22,32,-10,17,Away League Table,2015/16,Premier League|Swansea City|2015/16
+Premier League,17,Sunderland,19,3,6,10,25,42,-17,15,Away League Table,2015/16,Premier League|Sunderland|2015/16
+Premier League,18,Norwich City,19,3,2,14,13,37,-24,11,Away League Table,2015/16,Premier League|Norwich City|2015/16
+Premier League,19,Newcastle United,19,2,3,14,12,41,-29,9,Away League Table,2015/16,Premier League|Newcastle United|2015/16
+Premier League,20,Aston Villa,19,1,3,15,13,41,-28,6,Away League Table,2015/16,Premier League|Aston Villa|2015/16
+Bundesliga,1,Bayern Munich,34,28,4,2,80,17,63,88,League Table,2015/16,Bundesliga|Bayern Munich|2015/16
+Bundesliga,2,Borussia Dortmund,34,24,6,4,82,34,48,78,League Table,2015/16,Bundesliga|Borussia Dortmund|2015/16
+Bundesliga,3,Bayer Leverkusen,34,18,6,10,56,40,16,60,League Table,2015/16,Bundesliga|Bayer Leverkusen|2015/16
+Bundesliga,4,"Borussia M'gladbach",34,17,4,13,67,50,17,55,League Table,2015/16,"Bundesliga|Borussia M'gladbach|2015/16"
+Bundesliga,5,FC Schalke 04,34,15,7,12,51,49,2,52,League Table,2015/16,Bundesliga|FC Schalke 04|2015/16
+Bundesliga,6,1. FSV Mainz 05,34,14,8,12,46,42,4,50,League Table,2015/16,Bundesliga|1. FSV Mainz 05|2015/16
+Bundesliga,7,Hertha BSC,34,14,8,12,42,42,0,50,League Table,2015/16,Bundesliga|Hertha BSC|2015/16
+Bundesliga,8,VfL Wolfsburg,34,12,9,13,47,49,-2,45,League Table,2015/16,Bundesliga|VfL Wolfsburg|2015/16
+Bundesliga,9,1. FC Koln,34,10,13,11,38,42,-4,43,League Table,2015/16,Bundesliga|1. FC Koln|2015/16
+Bundesliga,10,Hamburger SV,34,11,8,15,40,46,-6,41,League Table,2015/16,Bundesliga|Hamburger SV|2015/16
+Bundesliga,11,FC Ingolstadt 04,34,10,10,14,33,42,-9,40,League Table,2015/16,Bundesliga|FC Ingolstadt 04|2015/16
+Bundesliga,12,FC Augsburg,34,9,11,14,42,52,-10,38,League Table,2015/16,Bundesliga|FC Augsburg|2015/16
+Bundesliga,13,Werder Bremen,34,10,8,16,50,65,-15,38,League Table,2015/16,Bundesliga|Werder Bremen|2015/16
+Bundesliga,14,SV Darmstadt 98,34,9,11,14,38,53,-15,38,League Table,2015/16,Bundesliga|SV Darmstadt 98|2015/16
+Bundesliga,15,TSG 1899 Hoffenheim,34,9,10,15,39,54,-15,37,League Table,2015/16,Bundesliga|TSG 1899 Hoffenheim|2015/16
+Bundesliga,16,Eintracht Frankfurt,34,9,9,16,34,52,-18,36,League Table,2015/16,Bundesliga|Eintracht Frankfurt|2015/16
+Bundesliga,17,VfB Stuttgart,34,9,6,19,50,75,-25,33,League Table,2015/16,Bundesliga|VfB Stuttgart|2015/16
+Bundesliga,18,Hannover 96,34,7,4,23,31,62,-31,25,League Table,2015/16,Bundesliga|Hannover 96|2015/16
+Bundesliga,1,Bayern Munich,17,15,1,1,51,8,43,46,Home League Table,2015/16,Bundesliga|Bayern Munich|2015/16
+Bundesliga,2,Borussia Dortmund,17,14,3,-,49,14,35,45,Home League Table,2015/16,Bundesliga|Borussia Dortmund|2015/16
+Bundesliga,3,"Borussia M'gladbach",17,13,1,3,42,18,24,40,Home League Table,2015/16,"Bundesliga|Borussia M'gladbach|2015/16"
+Bundesliga,4,Bayer Leverkusen,17,10,3,4,31,17,14,33,Home League Table,2015/16,Bundesliga|Bayer Leverkusen|2015/16
+Bundesliga,5,VfL Wolfsburg,17,9,5,3,32,17,15,32,Home League Table,2015/16,Bundesliga|VfL Wolfsburg|2015/16
+Bundesliga,6,Hertha BSC,17,9,5,3,24,15,9,32,Home League Table,2015/16,Bundesliga|Hertha BSC|2015/16
+Bundesliga,7,FC Schalke 04,17,8,5,4,28,24,4,29,Home League Table,2015/16,Bundesliga|FC Schalke 04|2015/16
+Bundesliga,8,1. FSV Mainz 05,17,8,4,5,23,18,5,28,Home League Table,2015/16,Bundesliga|1. FSV Mainz 05|2015/16
+Bundesliga,9,FC Ingolstadt 04,17,7,5,5,22,18,4,26,Home League Table,2015/16,Bundesliga|FC Ingolstadt 04|2015/16
+Bundesliga,10,Eintracht Frankfurt,17,6,6,5,22,24,-2,24,Home League Table,2015/16,Bundesliga|Eintracht Frankfurt|2015/16
+Bundesliga,11,TSG 1899 Hoffenheim,17,6,6,5,22,25,-3,24,Home League Table,2015/16,Bundesliga|TSG 1899 Hoffenheim|2015/16
+Bundesliga,12,1. FC Koln,17,5,5,7,16,18,-2,20,Home League Table,2015/16,Bundesliga|1. FC Koln|2015/16
+Bundesliga,13,Werder Bremen,17,5,5,7,27,30,-3,20,Home League Table,2015/16,Bundesliga|Werder Bremen|2015/16
+Bundesliga,14,Hamburger SV,17,5,4,8,20,23,-3,19,Home League Table,2015/16,Bundesliga|Hamburger SV|2015/16
+Bundesliga,15,VfB Stuttgart,17,6,1,10,22,32,-10,19,Home League Table,2015/16,Bundesliga|VfB Stuttgart|2015/16
+Bundesliga,16,FC Augsburg,17,3,6,8,18,27,-9,15,Home League Table,2015/16,Bundesliga|FC Augsburg|2015/16
+Bundesliga,17,SV Darmstadt 98,17,2,6,9,15,29,-14,12,Home League Table,2015/16,Bundesliga|SV Darmstadt 98|2015/16
+Bundesliga,18,Hannover 96,17,4,-,13,15,30,-15,12,Home League Table,2015/16,Bundesliga|Hannover 96|2015/16
+Bundesliga,1,Bayern Munich,17,13,3,1,29,9,20,42,Away League Table,2015/16,Bundesliga|Bayern Munich|2015/16
+Bundesliga,2,Borussia Dortmund,17,10,3,4,33,20,13,33,Away League Table,2015/16,Bundesliga|Borussia Dortmund|2015/16
+Bundesliga,3,Bayer Leverkusen,17,8,3,6,25,23,2,27,Away League Table,2015/16,Bundesliga|Bayer Leverkusen|2015/16
+Bundesliga,4,SV Darmstadt 98,17,7,5,5,23,24,-1,26,Away League Table,2015/16,Bundesliga|SV Darmstadt 98|2015/16
+Bundesliga,5,FC Augsburg,17,6,5,6,24,25,-1,23,Away League Table,2015/16,Bundesliga|FC Augsburg|2015/16
+Bundesliga,6,FC Schalke 04,17,7,2,8,23,25,-2,23,Away League Table,2015/16,Bundesliga|FC Schalke 04|2015/16
+Bundesliga,7,1. FC Koln,17,5,8,4,22,24,-2,23,Away League Table,2015/16,Bundesliga|1. FC Koln|2015/16
+Bundesliga,8,1. FSV Mainz 05,17,6,4,7,23,24,-1,22,Away League Table,2015/16,Bundesliga|1. FSV Mainz 05|2015/16
+Bundesliga,9,Hamburger SV,17,6,4,7,20,23,-3,22,Away League Table,2015/16,Bundesliga|Hamburger SV|2015/16
+Bundesliga,10,Hertha BSC,17,5,3,9,18,27,-9,18,Away League Table,2015/16,Bundesliga|Hertha BSC|2015/16
+Bundesliga,11,Werder Bremen,17,5,3,9,23,35,-12,18,Away League Table,2015/16,Bundesliga|Werder Bremen|2015/16
+Bundesliga,12,"Borussia M'gladbach",17,4,3,10,25,32,-7,15,Away League Table,2015/16,"Bundesliga|Borussia M'gladbach|2015/16"
+Bundesliga,13,FC Ingolstadt 04,17,3,5,9,11,24,-13,14,Away League Table,2015/16,Bundesliga|FC Ingolstadt 04|2015/16
+Bundesliga,14,VfB Stuttgart,17,3,5,9,28,43,-15,14,Away League Table,2015/16,Bundesliga|VfB Stuttgart|2015/16
+Bundesliga,15,TSG 1899 Hoffenheim,17,3,4,10,17,29,-12,13,Away League Table,2015/16,Bundesliga|TSG 1899 Hoffenheim|2015/16
+Bundesliga,16,Hannover 96,17,3,4,10,16,32,-16,13,Away League Table,2015/16,Bundesliga|Hannover 96|2015/16
+Bundesliga,17,VfL Wolfsburg,17,3,4,10,15,32,-17,13,Away League Table,2015/16,Bundesliga|VfL Wolfsburg|2015/16
+Bundesliga,18,Eintracht Frankfurt,17,3,3,11,12,28,-16,12,Away League Table,2015/16,Bundesliga|Eintracht Frankfurt|2015/16
+La Liga,1,Barcelona,38,29,4,5,112,29,83,91,League Table,2015/16,La Liga|Barcelona|2015/16
+La Liga,2,Real Madrid,38,28,6,4,110,34,76,90,League Table,2015/16,La Liga|Real Madrid|2015/16
+La Liga,3,Atletico Madrid,38,28,4,6,63,18,45,88,League Table,2015/16,La Liga|Atletico Madrid|2015/16
+La Liga,4,Villarreal,38,18,10,10,44,35,9,64,League Table,2015/16,La Liga|Villarreal|2015/16
+La Liga,5,Athletic Bilbao,38,18,8,12,58,45,13,62,League Table,2015/16,La Liga|Athletic Bilbao|2015/16
+La Liga,6,Celta Vigo,38,17,9,12,51,59,-8,60,League Table,2015/16,La Liga|Celta Vigo|2015/16
+La Liga,7,Sevilla,38,14,10,14,51,50,1,52,League Table,2015/16,La Liga|Sevilla|2015/16
+La Liga,8,Malaga,38,12,12,14,38,35,3,48,League Table,2015/16,La Liga|Malaga|2015/16
+La Liga,9,Real Sociedad,38,13,9,16,45,48,-3,48,League Table,2015/16,La Liga|Real Sociedad|2015/16
+La Liga,10,Real Betis,38,11,12,15,34,52,-18,45,League Table,2015/16,La Liga|Real Betis|2015/16
+La Liga,11,Valencia,38,11,11,16,46,48,-2,44,League Table,2015/16,La Liga|Valencia|2015/16
+La Liga,12,Las Palmas,38,12,8,18,45,53,-8,44,League Table,2015/16,La Liga|Las Palmas|2015/16
+La Liga,13,Eibar,38,11,10,17,49,61,-12,43,League Table,2015/16,La Liga|Eibar|2015/16
+La Liga,14,Espanyol,38,12,7,19,39,74,-35,43,League Table,2015/16,La Liga|Espanyol|2015/16
+La Liga,15,Deportivo La Coruna,38,8,18,12,45,61,-16,42,League Table,2015/16,La Liga|Deportivo La Coruna|2015/16
+La Liga,16,Sporting Gijon,38,10,9,19,40,61,-21,39,League Table,2015/16,La Liga|Sporting Gijon|2015/16
+La Liga,17,Granada CF,38,10,9,19,46,69,-23,39,League Table,2015/16,La Liga|Granada CF|2015/16
+La Liga,18,Rayo Vallecano,38,9,11,18,52,73,-21,38,League Table,2015/16,La Liga|Rayo Vallecano|2015/16
+La Liga,19,Getafe,38,9,9,20,37,67,-30,36,League Table,2015/16,La Liga|Getafe|2015/16
+La Liga,20,Levante,38,8,8,22,37,70,-33,32,League Table,2015/16,La Liga|Levante|2015/16
+La Liga,1,Real Madrid,19,16,1,2,70,16,54,49,Home League Table,2015/16,La Liga|Real Madrid|2015/16
+La Liga,2,Barcelona,19,16,1,2,67,14,53,49,Home League Table,2015/16,La Liga|Barcelona|2015/16
+La Liga,3,Atletico Madrid,19,15,3,1,33,7,26,48,Home League Table,2015/16,La Liga|Atletico Madrid|2015/16
+La Liga,4,Sevilla,19,14,1,4,38,21,17,43,Home League Table,2015/16,La Liga|Sevilla|2015/16
+La Liga,5,Villarreal,19,12,4,3,26,12,14,40,Home League Table,2015/16,La Liga|Villarreal|2015/16
+La Liga,6,Athletic Bilbao,19,11,4,4,35,17,18,37,Home League Table,2015/16,La Liga|Athletic Bilbao|2015/16
+La Liga,7,Celta Vigo,19,9,6,4,29,25,4,33,Home League Table,2015/16,La Liga|Celta Vigo|2015/16
+La Liga,8,Espanyol,19,9,5,5,22,28,-6,32,Home League Table,2015/16,La Liga|Espanyol|2015/16
+La Liga,9,Malaga,19,8,6,5,26,15,11,30,Home League Table,2015/16,La Liga|Malaga|2015/16
+La Liga,10,Las Palmas,19,8,5,6,25,17,8,29,Home League Table,2015/16,La Liga|Las Palmas|2015/16
+La Liga,11,Eibar,19,8,5,6,26,22,4,29,Home League Table,2015/16,La Liga|Eibar|2015/16
+La Liga,12,Rayo Vallecano,19,8,4,7,29,29,0,28,Home League Table,2015/16,La Liga|Rayo Vallecano|2015/16
+La Liga,13,Real Sociedad,19,7,5,7,22,20,2,26,Home League Table,2015/16,La Liga|Real Sociedad|2015/16
+La Liga,14,Levante,19,7,5,7,23,26,-3,26,Home League Table,2015/16,La Liga|Levante|2015/16
+La Liga,15,Getafe,19,6,7,6,23,20,3,25,Home League Table,2015/16,La Liga|Getafe|2015/16
+La Liga,16,Valencia,19,6,7,6,25,23,2,25,Home League Table,2015/16,La Liga|Valencia|2015/16
+La Liga,17,Sporting Gijon,19,7,4,8,28,27,1,25,Home League Table,2015/16,La Liga|Sporting Gijon|2015/16
+La Liga,18,Real Betis,19,6,6,7,17,23,-6,24,Home League Table,2015/16,La Liga|Real Betis|2015/16
+La Liga,19,Granada CF,19,6,5,8,26,31,-5,23,Home League Table,2015/16,La Liga|Granada CF|2015/16
+La Liga,20,Deportivo La Coruna,19,4,8,7,25,34,-9,20,Home League Table,2015/16,La Liga|Deportivo La Coruna|2015/16
+La Liga,1,Barcelona,19,13,3,3,45,15,30,42,Away League Table,2015/16,La Liga|Barcelona|2015/16
+La Liga,2,Real Madrid,19,12,5,2,40,18,22,41,Away League Table,2015/16,La Liga|Real Madrid|2015/16
+La Liga,3,Atletico Madrid,19,13,1,5,30,11,19,40,Away League Table,2015/16,La Liga|Atletico Madrid|2015/16
+La Liga,4,Celta Vigo,19,8,3,8,22,34,-12,27,Away League Table,2015/16,La Liga|Celta Vigo|2015/16
+La Liga,5,Athletic Bilbao,19,7,4,8,23,28,-5,25,Away League Table,2015/16,La Liga|Athletic Bilbao|2015/16
+La Liga,6,Villarreal,19,6,6,7,18,23,-5,24,Away League Table,2015/16,La Liga|Villarreal|2015/16
+La Liga,7,Real Sociedad,19,6,4,9,23,28,-5,22,Away League Table,2015/16,La Liga|Real Sociedad|2015/16
+La Liga,8,Deportivo La Coruna,19,4,10,5,20,27,-7,22,Away League Table,2015/16,La Liga|Deportivo La Coruna|2015/16
+La Liga,9,Real Betis,19,5,6,8,17,29,-12,21,Away League Table,2015/16,La Liga|Real Betis|2015/16
+La Liga,10,Valencia,19,5,4,10,21,25,-4,19,Away League Table,2015/16,La Liga|Valencia|2015/16
+La Liga,11,Malaga,19,4,6,9,12,20,-8,18,Away League Table,2015/16,La Liga|Malaga|2015/16
+La Liga,12,Granada CF,19,4,4,11,20,38,-18,16,Away League Table,2015/16,La Liga|Granada CF|2015/16
+La Liga,13,Las Palmas,19,4,3,12,20,36,-16,15,Away League Table,2015/16,La Liga|Las Palmas|2015/16
+La Liga,14,Eibar,19,3,5,11,23,39,-16,14,Away League Table,2015/16,La Liga|Eibar|2015/16
+La Liga,15,Sporting Gijon,19,3,5,11,12,34,-22,14,Away League Table,2015/16,La Liga|Sporting Gijon|2015/16
+La Liga,16,Espanyol,19,3,2,14,17,46,-29,11,Away League Table,2015/16,La Liga|Espanyol|2015/16
+La Liga,17,Getafe,19,3,2,14,14,47,-33,11,Away League Table,2015/16,La Liga|Getafe|2015/16
+La Liga,18,Rayo Vallecano,19,1,7,11,23,44,-21,10,Away League Table,2015/16,La Liga|Rayo Vallecano|2015/16
+La Liga,19,Sevilla,19,-,9,10,13,29,-16,9,Away League Table,2015/16,La Liga|Sevilla|2015/16
+La Liga,20,Levante,19,1,3,15,14,44,-30,6,Away League Table,2015/16,La Liga|Levante|2015/16
+French Ligue 1,1,Paris Saint-Germain,38,30,6,2,102,19,83,96,League Table,2015/16,French Ligue 1|Paris Saint-Germain|2015/16
+French Ligue 1,2,Olympique Lyonnais,38,19,8,11,67,43,24,65,League Table,2015/16,French Ligue 1|Olympique Lyonnais|2015/16
+French Ligue 1,3,AS Monaco,38,17,14,7,57,50,7,65,League Table,2015/16,French Ligue 1|AS Monaco|2015/16
+French Ligue 1,4,OGC Nice,38,18,9,11,58,41,17,63,League Table,2015/16,French Ligue 1|OGC Nice|2015/16
+French Ligue 1,5,Lille OSC,38,15,15,8,39,27,12,60,League Table,2015/16,French Ligue 1|Lille OSC|2015/16
+French Ligue 1,6,AS Saint-Etienne,38,17,7,14,42,37,5,58,League Table,2015/16,French Ligue 1|AS Saint-Etienne|2015/16
+French Ligue 1,7,Caen,38,16,6,16,39,52,-13,54,League Table,2015/16,French Ligue 1|Caen|2015/16
+French Ligue 1,8,Stade Rennes,38,13,13,12,52,54,-2,52,League Table,2015/16,French Ligue 1|Stade Rennes|2015/16
+French Ligue 1,9,Angers SCO,38,13,11,14,40,38,2,50,League Table,2015/16,French Ligue 1|Angers SCO|2015/16
+French Ligue 1,10,SC Bastia,38,14,8,16,36,42,-6,50,League Table,2015/16,French Ligue 1|SC Bastia|2015/16
+French Ligue 1,11,Girondins De Bordeaux,38,12,14,12,50,57,-7,50,League Table,2015/16,French Ligue 1|Girondins De Bordeaux|2015/16
+French Ligue 1,12,Montpellier HSC,38,14,7,17,49,47,2,49,League Table,2015/16,French Ligue 1|Montpellier HSC|2015/16
+French Ligue 1,13,Olympique Marseille,38,10,18,10,48,42,6,48,League Table,2015/16,French Ligue 1|Olympique Marseille|2015/16
+French Ligue 1,14,FC Nantes,38,12,12,14,33,44,-11,48,League Table,2015/16,French Ligue 1|FC Nantes|2015/16
+French Ligue 1,15,Lorient,38,11,13,14,47,58,-11,46,League Table,2015/16,French Ligue 1|Lorient|2015/16
+French Ligue 1,16,En Avant Guingamp,38,11,11,16,47,56,-9,44,League Table,2015/16,French Ligue 1|En Avant Guingamp|2015/16
+French Ligue 1,17,Toulouse,38,9,13,16,45,55,-10,40,League Table,2015/16,French Ligue 1|Toulouse|2015/16
+French Ligue 1,18,Stade Reims,38,10,9,19,44,57,-13,39,League Table,2015/16,French Ligue 1|Stade Reims|2015/16
+French Ligue 1,19,Gazelec Ajaccio,38,8,13,17,37,58,-21,37,League Table,2015/16,French Ligue 1|Gazelec Ajaccio|2015/16
+French Ligue 1,20,Troyes AC,38,3,9,26,28,83,-55,18,League Table,2015/16,French Ligue 1|Troyes AC|2015/16
+French Ligue 1,1,Paris Saint-Germain,19,15,3,1,59,12,47,48,Home League Table,2015/16,French Ligue 1|Paris Saint-Germain|2015/16
+French Ligue 1,2,Olympique Lyonnais,19,12,4,3,42,16,26,40,Home League Table,2015/16,French Ligue 1|Olympique Lyonnais|2015/16
+French Ligue 1,3,OGC Nice,19,12,2,5,32,16,16,38,Home League Table,2015/16,French Ligue 1|OGC Nice|2015/16
+French Ligue 1,4,AS Monaco,19,10,6,3,30,19,11,36,Home League Table,2015/16,French Ligue 1|AS Monaco|2015/16
+French Ligue 1,5,SC Bastia,19,11,2,6,23,14,9,35,Home League Table,2015/16,French Ligue 1|SC Bastia|2015/16
+French Ligue 1,6,AS Saint-Etienne,19,10,4,5,25,15,10,34,Home League Table,2015/16,French Ligue 1|AS Saint-Etienne|2015/16
+French Ligue 1,7,Lille OSC,19,9,6,4,21,11,10,33,Home League Table,2015/16,French Ligue 1|Lille OSC|2015/16
+French Ligue 1,8,Girondins De Bordeaux,19,8,7,4,27,20,7,31,Home League Table,2015/16,French Ligue 1|Girondins De Bordeaux|2015/16
+French Ligue 1,9,Caen,19,9,3,7,19,23,-4,30,Home League Table,2015/16,French Ligue 1|Caen|2015/16
+French Ligue 1,10,FC Nantes,19,8,5,6,20,20,0,29,Home League Table,2015/16,French Ligue 1|FC Nantes|2015/16
+French Ligue 1,11,Lorient,19,7,7,5,26,21,5,28,Home League Table,2015/16,French Ligue 1|Lorient|2015/16
+French Ligue 1,12,Montpellier HSC,19,9,-,10,26,23,3,27,Home League Table,2015/16,French Ligue 1|Montpellier HSC|2015/16
+French Ligue 1,13,Stade Reims,19,7,5,7,28,23,5,26,Home League Table,2015/16,French Ligue 1|Stade Reims|2015/16
+French Ligue 1,14,Angers SCO,19,6,8,5,20,15,5,26,Home League Table,2015/16,French Ligue 1|Angers SCO|2015/16
+French Ligue 1,15,Toulouse,19,6,7,6,29,21,8,25,Home League Table,2015/16,French Ligue 1|Toulouse|2015/16
+French Ligue 1,16,En Avant Guingamp,19,6,7,6,31,28,3,25,Home League Table,2015/16,French Ligue 1|En Avant Guingamp|2015/16
+French Ligue 1,17,Stade Rennes,19,6,7,6,25,25,0,25,Home League Table,2015/16,French Ligue 1|Stade Rennes|2015/16
+French Ligue 1,18,Gazelec Ajaccio,19,5,7,7,23,32,-9,22,Home League Table,2015/16,French Ligue 1|Gazelec Ajaccio|2015/16
+French Ligue 1,19,Olympique Marseille,19,3,11,5,27,24,3,20,Home League Table,2015/16,French Ligue 1|Olympique Marseille|2015/16
+French Ligue 1,20,Troyes AC,19,1,7,11,13,36,-23,10,Home League Table,2015/16,French Ligue 1|Troyes AC|2015/16
+French Ligue 1,1,Paris Saint-Germain,19,15,3,1,43,7,36,48,Away League Table,2015/16,French Ligue 1|Paris Saint-Germain|2015/16
+French Ligue 1,2,AS Monaco,19,7,8,4,27,31,-4,29,Away League Table,2015/16,French Ligue 1|AS Monaco|2015/16
+French Ligue 1,3,Olympique Marseille,19,7,7,5,21,18,3,28,Away League Table,2015/16,French Ligue 1|Olympique Marseille|2015/16
+French Ligue 1,4,Lille OSC,19,6,9,4,18,16,2,27,Away League Table,2015/16,French Ligue 1|Lille OSC|2015/16
+French Ligue 1,5,Stade Rennes,19,7,6,6,27,29,-2,27,Away League Table,2015/16,French Ligue 1|Stade Rennes|2015/16
+French Ligue 1,6,OGC Nice,19,6,7,6,26,25,1,25,Away League Table,2015/16,French Ligue 1|OGC Nice|2015/16
+French Ligue 1,7,Olympique Lyonnais,19,7,4,8,25,27,-2,25,Away League Table,2015/16,French Ligue 1|Olympique Lyonnais|2015/16
+French Ligue 1,8,Angers SCO,19,7,3,9,20,23,-3,24,Away League Table,2015/16,French Ligue 1|Angers SCO|2015/16
+French Ligue 1,9,AS Saint-Etienne,19,7,3,9,17,22,-5,24,Away League Table,2015/16,French Ligue 1|AS Saint-Etienne|2015/16
+French Ligue 1,10,Caen,19,7,3,9,20,29,-9,24,Away League Table,2015/16,French Ligue 1|Caen|2015/16
+French Ligue 1,11,Montpellier HSC,19,5,7,7,23,24,-1,22,Away League Table,2015/16,French Ligue 1|Montpellier HSC|2015/16
+French Ligue 1,12,FC Nantes,19,4,7,8,13,24,-11,19,Away League Table,2015/16,French Ligue 1|FC Nantes|2015/16
+French Ligue 1,13,En Avant Guingamp,19,5,4,10,16,28,-12,19,Away League Table,2015/16,French Ligue 1|En Avant Guingamp|2015/16
+French Ligue 1,14,Girondins De Bordeaux,19,4,7,8,23,37,-14,19,Away League Table,2015/16,French Ligue 1|Girondins De Bordeaux|2015/16
+French Ligue 1,15,Lorient,19,4,6,9,21,37,-16,18,Away League Table,2015/16,French Ligue 1|Lorient|2015/16
+French Ligue 1,16,Gazelec Ajaccio,19,3,6,10,14,26,-12,15,Away League Table,2015/16,French Ligue 1|Gazelec Ajaccio|2015/16
+French Ligue 1,17,SC Bastia,19,3,6,10,13,28,-15,15,Away League Table,2015/16,French Ligue 1|SC Bastia|2015/16
+French Ligue 1,18,Toulouse,19,3,6,10,16,34,-18,15,Away League Table,2015/16,French Ligue 1|Toulouse|2015/16
+French Ligue 1,19,Stade Reims,19,3,4,12,16,34,-18,13,Away League Table,2015/16,French Ligue 1|Stade Reims|2015/16
+French Ligue 1,20,Troyes AC,19,2,2,15,15,47,-32,8,Away League Table,2015/16,French Ligue 1|Troyes AC|2015/16
+Eredivisie,1,PSV Eindhoven,34,26,6,2,88,32,56,84,League Table,2015/16,Eredivisie|PSV Eindhoven|2015/16
+Eredivisie,2,AFC Ajax,34,25,7,2,81,21,60,82,League Table,2015/16,Eredivisie|AFC Ajax|2015/16
+Eredivisie,3,Feyenoord,34,19,6,9,62,40,22,63,League Table,2015/16,Eredivisie|Feyenoord|2015/16
+Eredivisie,4,AZ Alkmaar,34,18,5,11,70,53,17,59,League Table,2015/16,Eredivisie|AZ Alkmaar|2015/16
+Eredivisie,5,FC Utrecht,34,15,8,11,57,48,9,53,League Table,2015/16,Eredivisie|FC Utrecht|2015/16
+Eredivisie,6,Heracles Almelo,34,14,9,11,47,49,-2,51,League Table,2015/16,Eredivisie|Heracles Almelo|2015/16
+Eredivisie,7,FC Groningen,34,14,8,12,41,48,-7,50,League Table,2015/16,Eredivisie|FC Groningen|2015/16
+Eredivisie,8,PEC Zwolle,34,14,6,14,56,54,2,48,League Table,2015/16,Eredivisie|PEC Zwolle|2015/16
+Eredivisie,9,Vitesse Arnhem,34,12,10,12,55,38,17,46,League Table,2015/16,Eredivisie|Vitesse Arnhem|2015/16
+Eredivisie,10,NEC Nijmegen,34,12,8,14,35,42,-7,44,League Table,2015/16,Eredivisie|NEC Nijmegen|2015/16
+Eredivisie,11,ADO Den Haag,34,10,13,11,47,49,-2,43,League Table,2015/16,Eredivisie|ADO Den Haag|2015/16
+Eredivisie,12,SC Heerenveen,34,11,9,14,46,61,-15,42,League Table,2015/16,Eredivisie|SC Heerenveen|2015/16
+Eredivisie,13,FC Twente,34,12,7,15,49,64,-15,40,League Table,2015/16,Eredivisie|FC Twente|2015/16
+Eredivisie,14,Roda JC Kerkrade,34,8,10,16,34,55,-21,34,League Table,2015/16,Eredivisie|Roda JC Kerkrade|2015/16
+Eredivisie,15,SBV Excelsior,34,7,10,17,34,59,-25,31,League Table,2015/16,Eredivisie|SBV Excelsior|2015/16
+Eredivisie,16,Willem II Tilburg,34,6,11,17,35,52,-17,29,League Table,2015/16,Eredivisie|Willem II Tilburg|2015/16
+Eredivisie,17,De Graafschap,34,5,8,21,39,65,-26,23,League Table,2015/16,Eredivisie|De Graafschap|2015/16
+Eredivisie,18,SC Cambuur,34,3,9,22,33,79,-46,18,League Table,2015/16,Eredivisie|SC Cambuur|2015/16
+Eredivisie,1,AFC Ajax,17,13,3,1,49,12,37,42,Home League Table,2015/16,Eredivisie|AFC Ajax|2015/16
+Eredivisie,2,PSV Eindhoven,17,13,3,1,41,16,25,42,Home League Table,2015/16,Eredivisie|PSV Eindhoven|2015/16
+Eredivisie,3,Feyenoord,17,11,3,3,33,14,19,36,Home League Table,2015/16,Eredivisie|Feyenoord|2015/16
+Eredivisie,4,FC Groningen,17,10,3,4,25,19,6,33,Home League Table,2015/16,Eredivisie|FC Groningen|2015/16
+Eredivisie,5,NEC Nijmegen,17,10,3,4,23,17,6,33,Home League Table,2015/16,Eredivisie|NEC Nijmegen|2015/16
+Eredivisie,6,AZ Alkmaar,17,10,2,5,38,24,14,32,Home League Table,2015/16,Eredivisie|AZ Alkmaar|2015/16
+Eredivisie,7,PEC Zwolle,17,10,2,5,35,27,8,32,Home League Table,2015/16,Eredivisie|PEC Zwolle|2015/16
+Eredivisie,8,Heracles Almelo,17,9,5,3,28,23,5,32,Home League Table,2015/16,Eredivisie|Heracles Almelo|2015/16
+Eredivisie,9,FC Utrecht,17,9,4,4,30,24,6,31,Home League Table,2015/16,Eredivisie|FC Utrecht|2015/16
+Eredivisie,10,FC Twente,17,9,3,5,31,25,6,30,Home League Table,2015/16,Eredivisie|FC Twente|2015/16
+Eredivisie,11,Vitesse Arnhem,17,7,4,6,30,18,12,25,Home League Table,2015/16,Eredivisie|Vitesse Arnhem|2015/16
+Eredivisie,12,SC Heerenveen,17,6,4,7,24,29,-5,22,Home League Table,2015/16,Eredivisie|SC Heerenveen|2015/16
+Eredivisie,13,ADO Den Haag,17,4,8,5,20,22,-2,20,Home League Table,2015/16,Eredivisie|ADO Den Haag|2015/16
+Eredivisie,14,SBV Excelsior,17,4,5,8,21,31,-10,17,Home League Table,2015/16,Eredivisie|SBV Excelsior|2015/16
+Eredivisie,15,De Graafschap,17,3,6,8,23,29,-6,15,Home League Table,2015/16,Eredivisie|De Graafschap|2015/16
+Eredivisie,16,Willem II Tilburg,17,3,6,8,19,25,-6,15,Home League Table,2015/16,Eredivisie|Willem II Tilburg|2015/16
+Eredivisie,17,Roda JC Kerkrade,17,3,6,8,15,25,-10,15,Home League Table,2015/16,Eredivisie|Roda JC Kerkrade|2015/16
+Eredivisie,18,SC Cambuur,17,2,5,10,12,32,-20,11,Home League Table,2015/16,Eredivisie|SC Cambuur|2015/16
+Eredivisie,1,PSV Eindhoven,17,13,3,1,47,16,31,42,Away League Table,2015/16,Eredivisie|PSV Eindhoven|2015/16
+Eredivisie,2,AFC Ajax,17,12,4,1,32,9,23,40,Away League Table,2015/16,Eredivisie|AFC Ajax|2015/16
+Eredivisie,3,AZ Alkmaar,17,8,3,6,32,29,3,27,Away League Table,2015/16,Eredivisie|AZ Alkmaar|2015/16
+Eredivisie,4,Feyenoord,17,8,3,6,29,26,3,27,Away League Table,2015/16,Eredivisie|Feyenoord|2015/16
+Eredivisie,5,ADO Den Haag,17,6,5,6,27,27,0,23,Away League Table,2015/16,Eredivisie|ADO Den Haag|2015/16
+Eredivisie,6,FC Utrecht,17,6,4,7,27,24,3,22,Away League Table,2015/16,Eredivisie|FC Utrecht|2015/16
+Eredivisie,7,Vitesse Arnhem,17,5,6,6,25,20,5,21,Away League Table,2015/16,Eredivisie|Vitesse Arnhem|2015/16
+Eredivisie,8,SC Heerenveen,17,5,5,7,22,32,-10,20,Away League Table,2015/16,Eredivisie|SC Heerenveen|2015/16
+Eredivisie,9,Heracles Almelo,17,5,4,8,19,26,-7,19,Away League Table,2015/16,Eredivisie|Heracles Almelo|2015/16
+Eredivisie,10,Roda JC Kerkrade,17,5,4,8,19,30,-11,19,Away League Table,2015/16,Eredivisie|Roda JC Kerkrade|2015/16
+Eredivisie,11,FC Groningen,17,4,5,8,16,29,-13,17,Away League Table,2015/16,Eredivisie|FC Groningen|2015/16
+Eredivisie,12,PEC Zwolle,17,4,4,9,21,27,-6,16,Away League Table,2015/16,Eredivisie|PEC Zwolle|2015/16
+Eredivisie,13,Willem II Tilburg,17,3,5,9,16,27,-11,14,Away League Table,2015/16,Eredivisie|Willem II Tilburg|2015/16
+Eredivisie,14,SBV Excelsior,17,3,5,9,13,28,-15,14,Away League Table,2015/16,Eredivisie|SBV Excelsior|2015/16
+Eredivisie,15,FC Twente,17,3,4,10,18,39,-21,13,Away League Table,2015/16,Eredivisie|FC Twente|2015/16
+Eredivisie,16,NEC Nijmegen,17,2,5,10,12,25,-13,11,Away League Table,2015/16,Eredivisie|NEC Nijmegen|2015/16
+Eredivisie,17,De Graafschap,17,2,2,13,16,36,-20,8,Away League Table,2015/16,Eredivisie|De Graafschap|2015/16
+Eredivisie,18,SC Cambuur,17,1,4,12,21,47,-26,7,Away League Table,2015/16,Eredivisie|SC Cambuur|2015/16
+Serie A,1,Juventus,38,29,4,5,75,20,55,91,League Table,2015/16,Serie A|Juventus|2015/16
+Serie A,2,Napoli,38,25,7,6,80,32,48,82,League Table,2015/16,Serie A|Napoli|2015/16
+Serie A,3,AS Roma,38,23,11,4,83,41,42,80,League Table,2015/16,Serie A|AS Roma|2015/16
+Serie A,4,Internazionale,38,20,7,11,50,38,12,67,League Table,2015/16,Serie A|Internazionale|2015/16
+Serie A,5,Fiorentina,38,18,10,10,60,42,18,64,League Table,2015/16,Serie A|Fiorentina|2015/16
+Serie A,6,Sassuolo,38,16,13,9,49,40,9,61,League Table,2015/16,Serie A|Sassuolo|2015/16
+Serie A,7,AC Milan,38,15,12,11,49,43,6,57,League Table,2015/16,Serie A|AC Milan|2015/16
+Serie A,8,SS Lazio,38,15,9,14,52,52,0,54,League Table,2015/16,Serie A|SS Lazio|2015/16
+Serie A,9,Chievo,38,13,11,14,43,45,-2,50,League Table,2015/16,Serie A|Chievo|2015/16
+Serie A,10,Genoa,38,13,7,18,45,48,-3,46,League Table,2015/16,Serie A|Genoa|2015/16
+Serie A,11,Empoli,38,12,10,16,40,49,-9,46,League Table,2015/16,Serie A|Empoli|2015/16
+Serie A,12,Torino,38,12,9,17,52,55,-3,45,League Table,2015/16,Serie A|Torino|2015/16
+Serie A,13,Atalanta,38,11,12,15,41,47,-6,45,League Table,2015/16,Serie A|Atalanta|2015/16
+Serie A,14,Bologna,38,11,9,18,33,45,-12,42,League Table,2015/16,Serie A|Bologna|2015/16
+Serie A,15,Sampdoria,38,10,10,18,48,61,-13,40,League Table,2015/16,Serie A|Sampdoria|2015/16
+Serie A,16,Udinese,38,10,9,19,35,60,-25,39,League Table,2015/16,Serie A|Udinese|2015/16
+Serie A,17,Palermo,38,10,9,19,38,65,-27,39,League Table,2015/16,Serie A|Palermo|2015/16
+Serie A,18,Carpi,38,9,11,18,37,57,-20,38,League Table,2015/16,Serie A|Carpi|2015/16
+Serie A,19,Frosinone,38,8,7,23,35,76,-41,31,League Table,2015/16,Serie A|Frosinone|2015/16
+Serie A,20,Hellas Verona,38,5,13,20,34,63,-29,28,League Table,2015/16,Serie A|Hellas Verona|2015/16
+Serie A,1,Napoli,19,16,3,-,49,12,37,51,Home League Table,2015/16,Serie A|Napoli|2015/16
+Serie A,2,Juventus,19,16,2,1,37,6,31,50,Home League Table,2015/16,Serie A|Juventus|2015/16
+Serie A,3,AS Roma,19,13,5,1,44,17,27,44,Home League Table,2015/16,Serie A|AS Roma|2015/16
+Serie A,4,Internazionale,19,13,2,4,29,15,14,41,Home League Table,2015/16,Serie A|Internazionale|2015/16
+Serie A,5,Fiorentina,19,11,5,3,34,16,18,38,Home League Table,2015/16,Serie A|Fiorentina|2015/16
+Serie A,6,Genoa,19,10,3,6,29,19,10,33,Home League Table,2015/16,Serie A|Genoa|2015/16
+Serie A,7,SS Lazio,19,10,3,6,32,23,9,33,Home League Table,2015/16,Serie A|SS Lazio|2015/16
+Serie A,8,AC Milan,19,9,6,4,28,22,6,33,Home League Table,2015/16,Serie A|AC Milan|2015/16
+Serie A,9,Sassuolo,19,8,8,3,25,20,5,32,Home League Table,2015/16,Serie A|Sassuolo|2015/16
+Serie A,10,Atalanta,19,8,6,5,27,21,6,30,Home League Table,2015/16,Serie A|Atalanta|2015/16
+Serie A,11,Chievo,19,7,8,4,25,18,7,29,Home League Table,2015/16,Serie A|Chievo|2015/16
+Serie A,12,Sampdoria,19,8,4,7,29,25,4,28,Home League Table,2015/16,Serie A|Sampdoria|2015/16
+Serie A,13,Empoli,19,7,6,6,22,20,2,27,Home League Table,2015/16,Serie A|Empoli|2015/16
+Serie A,14,Torino,19,6,6,7,25,25,0,24,Home League Table,2015/16,Serie A|Torino|2015/16
+Serie A,15,Carpi,19,6,5,8,23,26,-3,23,Home League Table,2015/16,Serie A|Carpi|2015/16
+Serie A,16,Palermo,19,6,4,9,24,30,-6,22,Home League Table,2015/16,Serie A|Palermo|2015/16
+Serie A,17,Frosinone,19,6,4,9,18,26,-8,22,Home League Table,2015/16,Serie A|Frosinone|2015/16
+Serie A,18,Udinese,19,6,4,9,18,28,-10,22,Home League Table,2015/16,Serie A|Udinese|2015/16
+Serie A,19,Bologna,19,5,5,9,20,21,-1,20,Home League Table,2015/16,Serie A|Bologna|2015/16
+Serie A,20,Hellas Verona,19,4,6,9,21,30,-9,18,Home League Table,2015/16,Serie A|Hellas Verona|2015/16
+Serie A,1,Juventus,19,13,2,4,38,14,24,41,Away League Table,2015/16,Serie A|Juventus|2015/16
+Serie A,2,AS Roma,19,10,6,3,39,24,15,36,Away League Table,2015/16,Serie A|AS Roma|2015/16
+Serie A,3,Napoli,19,9,4,6,31,20,11,31,Away League Table,2015/16,Serie A|Napoli|2015/16
+Serie A,4,Sassuolo,19,8,5,6,24,20,4,29,Away League Table,2015/16,Serie A|Sassuolo|2015/16
+Serie A,5,Fiorentina,19,7,5,7,26,26,0,26,Away League Table,2015/16,Serie A|Fiorentina|2015/16
+Serie A,6,Internazionale,19,7,5,7,21,23,-2,26,Away League Table,2015/16,Serie A|Internazionale|2015/16
+Serie A,7,AC Milan,19,6,6,7,21,21,0,24,Away League Table,2015/16,Serie A|AC Milan|2015/16
+Serie A,8,Bologna,19,6,4,9,13,24,-11,22,Away League Table,2015/16,Serie A|Bologna|2015/16
+Serie A,9,Torino,19,6,3,10,27,30,-3,21,Away League Table,2015/16,Serie A|Torino|2015/16
+Serie A,10,SS Lazio,19,5,6,8,20,29,-9,21,Away League Table,2015/16,Serie A|SS Lazio|2015/16
+Serie A,11,Chievo,19,6,3,10,18,27,-9,21,Away League Table,2015/16,Serie A|Chievo|2015/16
+Serie A,12,Empoli,19,5,4,10,18,29,-11,19,Away League Table,2015/16,Serie A|Empoli|2015/16
+Serie A,13,Udinese,19,4,5,10,17,32,-15,17,Away League Table,2015/16,Serie A|Udinese|2015/16
+Serie A,14,Palermo,19,4,5,10,14,35,-21,17,Away League Table,2015/16,Serie A|Palermo|2015/16
+Serie A,15,Atalanta,19,3,6,10,14,26,-12,15,Away League Table,2015/16,Serie A|Atalanta|2015/16
+Serie A,16,Carpi,19,3,6,10,14,31,-17,15,Away League Table,2015/16,Serie A|Carpi|2015/16
+Serie A,17,Genoa,19,3,4,12,16,29,-13,13,Away League Table,2015/16,Serie A|Genoa|2015/16
+Serie A,18,Sampdoria,19,2,6,11,19,36,-17,12,Away League Table,2015/16,Serie A|Sampdoria|2015/16
+Serie A,19,Hellas Verona,19,1,7,11,13,33,-20,10,Away League Table,2015/16,Serie A|Hellas Verona|2015/16
+Serie A,20,Frosinone,19,2,3,14,17,50,-33,9,Away League Table,2015/16,Serie A|Frosinone|2015/16
+Scottish Premiership,1,Celtic,38,26,8,4,93,31,62,86,League Table,2015/16,Scottish Premiership|Celtic|2015/16
+Scottish Premiership,2,Aberdeen,38,22,5,11,62,48,14,71,League Table,2015/16,Scottish Premiership|Aberdeen|2015/16
+Scottish Premiership,3,Heart of Midlothian,38,18,11,9,59,40,19,65,League Table,2015/16,Scottish Premiership|Heart of Midlothian|2015/16
+Scottish Premiership,4,St Johnstone,38,16,8,14,58,55,3,56,League Table,2015/16,Scottish Premiership|St Johnstone|2015/16
+Scottish Premiership,5,Inverness Cali,38,14,10,14,54,48,6,52,League Table,2015/16,Scottish Premiership|Inverness Cali|2015/16
+Scottish Premiership,6,Motherwell,38,15,5,18,47,63,-16,50,League Table,2015/16,Scottish Premiership|Motherwell|2015/16
+Scottish Premiership,7,Dundee,38,11,15,12,53,57,-4,48,League Table,2015/16,Scottish Premiership|Dundee|2015/16
+Scottish Premiership,8,Ross County,38,14,6,18,55,61,-6,48,League Table,2015/16,Scottish Premiership|Ross County|2015/16
+Scottish Premiership,9,Partick Thistle,38,12,10,16,41,50,-9,46,League Table,2015/16,Scottish Premiership|Partick Thistle|2015/16
+Scottish Premiership,10,Hamilton Academical,38,11,10,17,42,63,-21,43,League Table,2015/16,Scottish Premiership|Hamilton Academical|2015/16
+Scottish Premiership,11,Kilmarnock,38,9,9,20,41,64,-23,36,League Table,2015/16,Scottish Premiership|Kilmarnock|2015/16
+Scottish Premiership,12,Dundee United,38,8,7,23,45,70,-25,31,League Table,2015/16,Scottish Premiership|Dundee United|2015/16
+Scottish Premiership,1,Celtic,19,14,4,1,55,12,43,46,Home League Table,2015/16,Scottish Premiership|Celtic|2015/16
+Scottish Premiership,2,Aberdeen,19,12,4,3,30,19,11,40,Home League Table,2015/16,Scottish Premiership|Aberdeen|2015/16
+Scottish Premiership,3,Heart of Midlothian,19,11,5,3,37,22,15,38,Home League Table,2015/16,Scottish Premiership|Heart of Midlothian|2015/16
+Scottish Premiership,4,St Johnstone,19,8,6,5,27,22,5,30,Home League Table,2015/16,Scottish Premiership|St Johnstone|2015/16
+Scottish Premiership,5,Dundee,19,7,7,5,30,23,7,28,Home League Table,2015/16,Scottish Premiership|Dundee|2015/16
+Scottish Premiership,6,Motherwell,19,8,3,8,27,27,0,27,Home League Table,2015/16,Scottish Premiership|Motherwell|2015/16
+Scottish Premiership,7,Ross County,19,9,-,10,29,33,-4,27,Home League Table,2015/16,Scottish Premiership|Ross County|2015/16
+Scottish Premiership,8,Inverness Cali,19,7,5,7,25,20,5,26,Home League Table,2015/16,Scottish Premiership|Inverness Cali|2015/16
+Scottish Premiership,9,Partick Thistle,19,6,4,9,21,29,-8,22,Home League Table,2015/16,Scottish Premiership|Partick Thistle|2015/16
+Scottish Premiership,10,Hamilton Academical,19,4,6,9,21,28,-7,18,Home League Table,2015/16,Scottish Premiership|Hamilton Academical|2015/16
+Scottish Premiership,11,Kilmarnock,19,4,4,11,19,37,-18,16,Home League Table,2015/16,Scottish Premiership|Kilmarnock|2015/16
+Scottish Premiership,12,Dundee United,19,3,4,12,22,35,-13,13,Home League Table,2015/16,Scottish Premiership|Dundee United|2015/16
+Scottish Premiership,1,Celtic,19,12,4,3,38,19,19,40,Away League Table,2015/16,Scottish Premiership|Celtic|2015/16
+Scottish Premiership,2,Aberdeen,19,10,1,8,32,29,3,31,Away League Table,2015/16,Scottish Premiership|Aberdeen|2015/16
+Scottish Premiership,3,Heart of Midlothian,19,7,6,6,22,18,4,27,Away League Table,2015/16,Scottish Premiership|Heart of Midlothian|2015/16
+Scottish Premiership,4,Inverness Cali,19,7,5,7,29,28,1,26,Away League Table,2015/16,Scottish Premiership|Inverness Cali|2015/16
+Scottish Premiership,5,St Johnstone,19,8,2,9,31,33,-2,26,Away League Table,2015/16,Scottish Premiership|St Johnstone|2015/16
+Scottish Premiership,6,Hamilton Academical,19,7,4,8,21,35,-14,25,Away League Table,2015/16,Scottish Premiership|Hamilton Academical|2015/16
+Scottish Premiership,7,Partick Thistle,19,6,6,7,20,21,-1,24,Away League Table,2015/16,Scottish Premiership|Partick Thistle|2015/16
+Scottish Premiership,8,Motherwell,19,7,2,10,20,36,-16,23,Away League Table,2015/16,Scottish Premiership|Motherwell|2015/16
+Scottish Premiership,9,Ross County,19,5,6,8,26,28,-2,21,Away League Table,2015/16,Scottish Premiership|Ross County|2015/16
+Scottish Premiership,10,Kilmarnock,19,5,5,9,22,27,-5,20,Away League Table,2015/16,Scottish Premiership|Kilmarnock|2015/16
+Scottish Premiership,11,Dundee,19,4,8,7,23,34,-11,20,Away League Table,2015/16,Scottish Premiership|Dundee|2015/16
+Scottish Premiership,12,Dundee United,19,5,3,11,23,35,-12,18,Away League Table,2015/16,Scottish Premiership|Dundee United|2015/16

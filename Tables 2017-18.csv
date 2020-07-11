@@ -1,0 +1,385 @@
+﻿League,Pos,Team,P,W,D,L,F,A,GD,Pts,Table Type,Season,KEY
+Premier League,1,Manchester City,38,32,4,2,106,27,79,100,League Table,2017/18,Premier League|Manchester City|2017/18
+Premier League,2,Manchester United,38,25,6,7,68,28,40,81,League Table,2017/18,Premier League|Manchester United|2017/18
+Premier League,3,Tottenham Hotspur,38,23,8,7,74,36,38,77,League Table,2017/18,Premier League|Tottenham Hotspur|2017/18
+Premier League,4,Liverpool,38,21,12,5,84,38,46,75,League Table,2017/18,Premier League|Liverpool|2017/18
+Premier League,5,Chelsea,38,21,7,10,62,38,24,70,League Table,2017/18,Premier League|Chelsea|2017/18
+Premier League,6,Arsenal,38,19,6,13,74,51,23,63,League Table,2017/18,Premier League|Arsenal|2017/18
+Premier League,7,Burnley,38,14,12,12,36,39,-3,54,League Table,2017/18,Premier League|Burnley|2017/18
+Premier League,8,Everton,38,13,10,15,44,58,-14,49,League Table,2017/18,Premier League|Everton|2017/18
+Premier League,9,Leicester City,38,12,11,15,56,60,-4,47,League Table,2017/18,Premier League|Leicester City|2017/18
+Premier League,10,Newcastle United,38,12,8,18,39,47,-8,44,League Table,2017/18,Premier League|Newcastle United|2017/18
+Premier League,11,Crystal Palace,38,11,11,16,45,55,-10,44,League Table,2017/18,Premier League|Crystal Palace|2017/18
+Premier League,12,AFC Bournemouth,38,11,11,16,45,61,-16,44,League Table,2017/18,Premier League|AFC Bournemouth|2017/18
+Premier League,13,West Ham United,38,10,12,16,48,68,-20,42,League Table,2017/18,Premier League|West Ham United|2017/18
+Premier League,14,Watford,38,11,8,19,44,64,-20,41,League Table,2017/18,Premier League|Watford|2017/18
+Premier League,15,Brighton & Hove Albion,38,9,13,16,34,54,-20,40,League Table,2017/18,Premier League|Brighton & Hove Albion|2017/18
+Premier League,16,Huddersfield Town,38,9,10,19,28,58,-30,37,League Table,2017/18,Premier League|Huddersfield Town|2017/18
+Premier League,17,Southampton,38,7,15,16,37,56,-19,36,League Table,2017/18,Premier League|Southampton|2017/18
+Premier League,18,Swansea City,38,8,9,21,28,56,-28,33,League Table,2017/18,Premier League|Swansea City|2017/18
+Premier League,19,Stoke City,38,7,12,19,35,68,-33,33,League Table,2017/18,Premier League|Stoke City|2017/18
+Premier League,20,West Bromwich Albion,38,6,13,19,31,56,-25,31,League Table,2017/18,Premier League|West Bromwich Albion|2017/18
+Premier League,1,Manchester City,19,16,2,1,61,14,47,50,Home League Table,2017/18,Premier League|Manchester City|2017/18
+Premier League,2,Arsenal,19,15,2,2,54,20,34,47,Home League Table,2017/18,Premier League|Arsenal|2017/18
+Premier League,3,Manchester United,19,15,2,2,38,9,29,47,Home League Table,2017/18,Premier League|Manchester United|2017/18
+Premier League,4,Liverpool,19,12,7,-,45,10,35,43,Home League Table,2017/18,Premier League|Liverpool|2017/18
+Premier League,5,Tottenham Hotspur,19,13,4,2,40,16,24,43,Home League Table,2017/18,Premier League|Tottenham Hotspur|2017/18
+Premier League,6,Chelsea,19,11,4,4,30,16,14,37,Home League Table,2017/18,Premier League|Chelsea|2017/18
+Premier League,7,Everton,19,10,4,5,28,22,6,34,Home League Table,2017/18,Premier League|Everton|2017/18
+Premier League,8,Brighton & Hove Albion,19,7,8,4,24,25,-1,29,Home League Table,2017/18,Premier League|Brighton & Hove Albion|2017/18
+Premier League,9,Newcastle United,19,8,4,7,21,17,4,28,Home League Table,2017/18,Premier League|Newcastle United|2017/18
+Premier League,10,Leicester City,19,7,6,6,25,22,3,27,Home League Table,2017/18,Premier League|Leicester City|2017/18
+Premier League,11,West Ham United,19,7,6,6,24,26,-2,27,Home League Table,2017/18,Premier League|West Ham United|2017/18
+Premier League,12,Watford,19,7,6,6,27,31,-4,27,Home League Table,2017/18,Premier League|Watford|2017/18
+Premier League,13,Crystal Palace,19,7,5,7,29,27,2,26,Home League Table,2017/18,Premier League|Crystal Palace|2017/18
+Premier League,14,Burnley,19,7,5,7,16,17,-1,26,Home League Table,2017/18,Premier League|Burnley|2017/18
+Premier League,15,AFC Bournemouth,19,7,5,7,26,30,-4,26,Home League Table,2017/18,Premier League|AFC Bournemouth|2017/18
+Premier League,16,Huddersfield Town,19,6,5,8,16,25,-9,23,Home League Table,2017/18,Premier League|Huddersfield Town|2017/18
+Premier League,17,Swansea City,19,6,3,10,17,24,-7,21,Home League Table,2017/18,Premier League|Swansea City|2017/18
+Premier League,18,Stoke City,19,5,5,9,20,30,-10,20,Home League Table,2017/18,Premier League|Stoke City|2017/18
+Premier League,19,Southampton,19,4,7,8,20,26,-6,19,Home League Table,2017/18,Premier League|Southampton|2017/18
+Premier League,20,West Bromwich Albion,19,3,9,7,21,29,-8,18,Home League Table,2017/18,Premier League|West Bromwich Albion|2017/18
+Premier League,1,Manchester City,19,16,2,1,45,13,32,50,Away League Table,2017/18,Premier League|Manchester City|2017/18
+Premier League,2,Tottenham Hotspur,19,10,4,5,34,20,14,34,Away League Table,2017/18,Premier League|Tottenham Hotspur|2017/18
+Premier League,3,Manchester United,19,10,4,5,30,19,11,34,Away League Table,2017/18,Premier League|Manchester United|2017/18
+Premier League,4,Chelsea,19,10,3,6,32,22,10,33,Away League Table,2017/18,Premier League|Chelsea|2017/18
+Premier League,5,Liverpool,19,9,5,5,39,28,11,32,Away League Table,2017/18,Premier League|Liverpool|2017/18
+Premier League,6,Burnley,19,7,7,5,20,22,-2,28,Away League Table,2017/18,Premier League|Burnley|2017/18
+Premier League,7,Leicester City,19,5,5,9,31,38,-7,20,Away League Table,2017/18,Premier League|Leicester City|2017/18
+Premier League,8,AFC Bournemouth,19,4,6,9,19,31,-12,18,Away League Table,2017/18,Premier League|AFC Bournemouth|2017/18
+Premier League,9,Crystal Palace,19,4,6,9,16,28,-12,18,Away League Table,2017/18,Premier League|Crystal Palace|2017/18
+Premier League,10,Southampton,19,3,8,8,17,30,-13,17,Away League Table,2017/18,Premier League|Southampton|2017/18
+Premier League,11,Arsenal,19,4,4,11,20,31,-11,16,Away League Table,2017/18,Premier League|Arsenal|2017/18
+Premier League,12,Newcastle United,19,4,4,11,18,30,-12,16,Away League Table,2017/18,Premier League|Newcastle United|2017/18
+Premier League,13,West Ham United,19,3,6,10,24,42,-18,15,Away League Table,2017/18,Premier League|West Ham United|2017/18
+Premier League,14,Everton,19,3,6,10,16,36,-20,15,Away League Table,2017/18,Premier League|Everton|2017/18
+Premier League,15,Watford,19,4,2,13,17,33,-16,14,Away League Table,2017/18,Premier League|Watford|2017/18
+Premier League,16,Huddersfield Town,19,3,5,11,12,33,-21,14,Away League Table,2017/18,Premier League|Huddersfield Town|2017/18
+Premier League,17,West Bromwich Albion,19,3,4,12,10,27,-17,13,Away League Table,2017/18,Premier League|West Bromwich Albion|2017/18
+Premier League,18,Stoke City,19,2,7,10,15,38,-23,13,Away League Table,2017/18,Premier League|Stoke City|2017/18
+Premier League,19,Swansea City,19,2,6,11,11,32,-21,12,Away League Table,2017/18,Premier League|Swansea City|2017/18
+Premier League,20,Brighton & Hove Albion,19,2,5,12,10,29,-19,11,Away League Table,2017/18,Premier League|Brighton & Hove Albion|2017/18
+Bundesliga,1,Bayern Munich,34,27,3,4,92,28,64,84,League Table,2017/18,Bundesliga|Bayern Munich|2017/18
+Bundesliga,2,FC Schalke 04,34,18,9,7,53,37,16,63,League Table,2017/18,Bundesliga|FC Schalke 04|2017/18
+Bundesliga,3,TSG 1899 Hoffenheim,34,15,10,9,66,48,18,55,League Table,2017/18,Bundesliga|TSG 1899 Hoffenheim|2017/18
+Bundesliga,4,Borussia Dortmund,34,15,10,9,64,47,17,55,League Table,2017/18,Bundesliga|Borussia Dortmund|2017/18
+Bundesliga,5,Bayer Leverkusen,34,15,10,9,58,44,14,55,League Table,2017/18,Bundesliga|Bayer Leverkusen|2017/18
+Bundesliga,6,RB Leipzig,34,15,8,11,57,53,4,53,League Table,2017/18,Bundesliga|RB Leipzig|2017/18
+Bundesliga,7,VfB Stuttgart,34,15,6,13,36,36,0,51,League Table,2017/18,Bundesliga|VfB Stuttgart|2017/18
+Bundesliga,8,Eintracht Frankfurt,34,14,7,13,45,45,0,49,League Table,2017/18,Bundesliga|Eintracht Frankfurt|2017/18
+Bundesliga,9,"Borussia M'gladbach",34,13,8,13,47,52,-5,47,League Table,2017/18,"Bundesliga|Borussia M'gladbach|2017/18"
+Bundesliga,10,Hertha BSC,34,10,13,11,43,46,-3,43,League Table,2017/18,Bundesliga|Hertha BSC|2017/18
+Bundesliga,11,Werder Bremen,34,10,12,12,37,40,-3,42,League Table,2017/18,Bundesliga|Werder Bremen|2017/18
+Bundesliga,12,FC Augsburg,34,10,11,13,43,46,-3,41,League Table,2017/18,Bundesliga|FC Augsburg|2017/18
+Bundesliga,13,Hannover 96,34,10,9,15,44,54,-10,39,League Table,2017/18,Bundesliga|Hannover 96|2017/18
+Bundesliga,14,1. FSV Mainz 05,34,9,9,16,38,52,-14,36,League Table,2017/18,Bundesliga|1. FSV Mainz 05|2017/18
+Bundesliga,15,SC Freiburg,34,8,12,14,32,56,-24,36,League Table,2017/18,Bundesliga|SC Freiburg|2017/18
+Bundesliga,16,VfL Wolfsburg,34,6,15,13,36,48,-12,33,League Table,2017/18,Bundesliga|VfL Wolfsburg|2017/18
+Bundesliga,17,Hamburger SV,34,8,7,19,29,53,-24,31,League Table,2017/18,Bundesliga|Hamburger SV|2017/18
+Bundesliga,18,1. FC Koln,34,5,7,22,35,70,-35,22,League Table,2017/18,Bundesliga|1. FC Koln|2017/18
+Bundesliga,1,Bayern Munich,17,14,2,1,56,15,41,44,Home League Table,2017/18,Bundesliga|Bayern Munich|2017/18
+Bundesliga,2,TSG 1899 Hoffenheim,17,11,4,2,38,16,22,37,Home League Table,2017/18,Bundesliga|TSG 1899 Hoffenheim|2017/18
+Bundesliga,3,FC Schalke 04,17,10,5,2,27,15,12,35,Home League Table,2017/18,Bundesliga|FC Schalke 04|2017/18
+Bundesliga,4,VfB Stuttgart,17,10,4,3,18,9,9,34,Home League Table,2017/18,Bundesliga|VfB Stuttgart|2017/18
+Bundesliga,5,Borussia Dortmund,17,9,4,4,40,21,19,31,Home League Table,2017/18,Bundesliga|Borussia Dortmund|2017/18
+Bundesliga,6,RB Leipzig,17,9,4,4,34,26,8,31,Home League Table,2017/18,Bundesliga|RB Leipzig|2017/18
+Bundesliga,7,"Borussia M'gladbach",17,9,4,4,28,20,8,31,Home League Table,2017/18,"Bundesliga|Borussia M'gladbach|2017/18"
+Bundesliga,8,Bayer Leverkusen,17,8,5,4,29,19,10,29,Home League Table,2017/18,Bundesliga|Bayer Leverkusen|2017/18
+Bundesliga,9,Eintracht Frankfurt,17,8,4,5,26,19,7,28,Home League Table,2017/18,Bundesliga|Eintracht Frankfurt|2017/18
+Bundesliga,10,Hannover 96,17,8,3,6,28,25,3,27,Home League Table,2017/18,Bundesliga|Hannover 96|2017/18
+Bundesliga,11,SC Freiburg,17,7,6,4,17,17,0,27,Home League Table,2017/18,Bundesliga|SC Freiburg|2017/18
+Bundesliga,12,Werder Bremen,17,6,7,4,20,17,3,25,Home League Table,2017/18,Bundesliga|Werder Bremen|2017/18
+Bundesliga,13,1. FSV Mainz 05,17,7,3,7,22,21,1,24,Home League Table,2017/18,Bundesliga|1. FSV Mainz 05|2017/18
+Bundesliga,14,FC Augsburg,17,6,4,7,24,24,0,22,Home League Table,2017/18,Bundesliga|FC Augsburg|2017/18
+Bundesliga,15,Hamburger SV,17,6,4,7,17,19,-2,22,Home League Table,2017/18,Bundesliga|Hamburger SV|2017/18
+Bundesliga,16,Hertha BSC,17,5,7,5,23,27,-4,22,Home League Table,2017/18,Bundesliga|Hertha BSC|2017/18
+Bundesliga,17,VfL Wolfsburg,17,3,8,6,23,25,-2,17,Home League Table,2017/18,Bundesliga|VfL Wolfsburg|2017/18
+Bundesliga,18,1. FC Koln,17,3,5,9,20,30,-10,14,Home League Table,2017/18,Bundesliga|1. FC Koln|2017/18
+Bundesliga,1,Bayern Munich,17,13,1,3,36,13,23,40,Away League Table,2017/18,Bundesliga|Bayern Munich|2017/18
+Bundesliga,2,FC Schalke 04,17,8,4,5,26,22,4,28,Away League Table,2017/18,Bundesliga|FC Schalke 04|2017/18
+Bundesliga,3,Bayer Leverkusen,17,7,5,5,29,25,4,26,Away League Table,2017/18,Bundesliga|Bayer Leverkusen|2017/18
+Bundesliga,4,Borussia Dortmund,17,6,6,5,24,26,-2,24,Away League Table,2017/18,Bundesliga|Borussia Dortmund|2017/18
+Bundesliga,5,RB Leipzig,17,6,4,7,23,27,-4,22,Away League Table,2017/18,Bundesliga|RB Leipzig|2017/18
+Bundesliga,6,Hertha BSC,17,5,6,6,20,19,1,21,Away League Table,2017/18,Bundesliga|Hertha BSC|2017/18
+Bundesliga,7,Eintracht Frankfurt,17,6,3,8,19,26,-7,21,Away League Table,2017/18,Bundesliga|Eintracht Frankfurt|2017/18
+Bundesliga,8,FC Augsburg,17,4,7,6,19,22,-3,19,Away League Table,2017/18,Bundesliga|FC Augsburg|2017/18
+Bundesliga,9,TSG 1899 Hoffenheim,17,4,6,7,28,32,-4,18,Away League Table,2017/18,Bundesliga|TSG 1899 Hoffenheim|2017/18
+Bundesliga,10,Werder Bremen,17,4,5,8,17,23,-6,17,Away League Table,2017/18,Bundesliga|Werder Bremen|2017/18
+Bundesliga,11,VfB Stuttgart,17,5,2,10,18,27,-9,17,Away League Table,2017/18,Bundesliga|VfB Stuttgart|2017/18
+Bundesliga,12,VfL Wolfsburg,17,3,7,7,13,23,-10,16,Away League Table,2017/18,Bundesliga|VfL Wolfsburg|2017/18
+Bundesliga,13,"Borussia M'gladbach",17,4,4,9,19,32,-13,16,Away League Table,2017/18,"Bundesliga|Borussia M'gladbach|2017/18"
+Bundesliga,14,Hannover 96,17,2,6,9,16,29,-13,12,Away League Table,2017/18,Bundesliga|Hannover 96|2017/18
+Bundesliga,15,1. FSV Mainz 05,17,2,6,9,16,31,-15,12,Away League Table,2017/18,Bundesliga|1. FSV Mainz 05|2017/18
+Bundesliga,16,Hamburger SV,17,2,3,12,12,34,-22,9,Away League Table,2017/18,Bundesliga|Hamburger SV|2017/18
+Bundesliga,17,SC Freiburg,17,1,6,10,15,39,-24,9,Away League Table,2017/18,Bundesliga|SC Freiburg|2017/18
+Bundesliga,18,1. FC Koln,17,2,2,13,15,40,-25,8,Away League Table,2017/18,Bundesliga|1. FC Koln|2017/18
+La Liga,1,Barcelona,38,28,9,1,99,29,70,93,League Table,2017/18,La Liga|Barcelona|2017/18
+La Liga,2,Atletico Madrid,38,23,10,5,58,22,36,79,League Table,2017/18,La Liga|Atletico Madrid|2017/18
+La Liga,3,Real Madrid,38,22,10,6,94,44,50,76,League Table,2017/18,La Liga|Real Madrid|2017/18
+La Liga,4,Valencia,38,22,7,9,65,38,27,73,League Table,2017/18,La Liga|Valencia|2017/18
+La Liga,5,Villarreal,38,18,7,13,57,50,7,61,League Table,2017/18,La Liga|Villarreal|2017/18
+La Liga,6,Real Betis,38,18,6,14,60,61,-1,60,League Table,2017/18,La Liga|Real Betis|2017/18
+La Liga,7,Sevilla,38,17,7,14,49,58,-9,58,League Table,2017/18,La Liga|Sevilla|2017/18
+La Liga,8,Getafe,38,15,10,13,42,33,9,55,League Table,2017/18,La Liga|Getafe|2017/18
+La Liga,9,Eibar,38,14,9,15,44,50,-6,51,League Table,2017/18,La Liga|Eibar|2017/18
+La Liga,10,Girona FC,38,14,9,15,50,59,-9,51,League Table,2017/18,La Liga|Girona FC|2017/18
+La Liga,11,Real Sociedad,38,14,7,17,66,59,7,49,League Table,2017/18,La Liga|Real Sociedad|2017/18
+La Liga,12,Celta Vigo,38,13,10,15,59,60,-1,49,League Table,2017/18,La Liga|Celta Vigo|2017/18
+La Liga,13,Espanyol,38,12,13,13,36,42,-6,49,League Table,2017/18,La Liga|Espanyol|2017/18
+La Liga,14,CD Alaves,38,15,2,21,40,50,-10,47,League Table,2017/18,La Liga|CD Alaves|2017/18
+La Liga,15,Levante,38,11,13,14,44,58,-14,46,League Table,2017/18,La Liga|Levante|2017/18
+La Liga,16,Athletic Bilbao,38,10,13,15,41,49,-8,43,League Table,2017/18,La Liga|Athletic Bilbao|2017/18
+La Liga,17,CD Leganes,38,12,7,19,34,51,-17,43,League Table,2017/18,La Liga|CD Leganes|2017/18
+La Liga,18,Deportivo La Coruna,38,6,11,21,38,76,-38,29,League Table,2017/18,La Liga|Deportivo La Coruna|2017/18
+La Liga,19,Las Palmas,38,5,7,26,24,74,-50,22,League Table,2017/18,La Liga|Las Palmas|2017/18
+La Liga,20,Malaga,38,5,5,28,24,61,-37,20,League Table,2017/18,La Liga|Malaga|2017/18
+La Liga,1,Barcelona,19,16,3,-,53,11,42,51,Home League Table,2017/18,La Liga|Barcelona|2017/18
+La Liga,2,Atletico Madrid,19,12,6,1,30,8,22,42,Home League Table,2017/18,La Liga|Atletico Madrid|2017/18
+La Liga,3,Valencia,19,13,3,3,36,16,20,42,Home League Table,2017/18,La Liga|Valencia|2017/18
+La Liga,4,Real Madrid,19,12,4,3,54,20,34,40,Home League Table,2017/18,La Liga|Real Madrid|2017/18
+La Liga,5,Sevilla,19,11,5,3,31,22,9,38,Home League Table,2017/18,La Liga|Sevilla|2017/18
+La Liga,6,Villarreal,19,11,3,5,35,22,13,36,Home League Table,2017/18,La Liga|Villarreal|2017/18
+La Liga,7,Real Betis,19,10,4,5,35,31,4,34,Home League Table,2017/18,La Liga|Real Betis|2017/18
+La Liga,8,Real Sociedad,19,10,3,6,47,29,18,33,Home League Table,2017/18,La Liga|Real Sociedad|2017/18
+La Liga,9,Celta Vigo,19,8,8,3,34,23,11,32,Home League Table,2017/18,La Liga|Celta Vigo|2017/18
+La Liga,10,Getafe,19,9,4,6,26,13,13,31,Home League Table,2017/18,La Liga|Getafe|2017/18
+La Liga,11,CD Leganes,19,9,4,6,19,19,0,31,Home League Table,2017/18,La Liga|CD Leganes|2017/18
+La Liga,12,Espanyol,19,8,6,5,20,16,4,30,Home League Table,2017/18,La Liga|Espanyol|2017/18
+La Liga,13,Eibar,19,8,4,7,26,19,7,28,Home League Table,2017/18,La Liga|Eibar|2017/18
+La Liga,14,CD Alaves,19,9,1,9,21,23,-2,28,Home League Table,2017/18,La Liga|CD Alaves|2017/18
+La Liga,15,Girona FC,19,8,3,8,26,22,4,27,Home League Table,2017/18,La Liga|Girona FC|2017/18
+La Liga,16,Levante,19,7,6,6,25,28,-3,27,Home League Table,2017/18,La Liga|Levante|2017/18
+La Liga,17,Athletic Bilbao,19,6,8,5,19,16,3,26,Home League Table,2017/18,La Liga|Athletic Bilbao|2017/18
+La Liga,18,Deportivo La Coruna,19,4,6,9,22,33,-11,18,Home League Table,2017/18,La Liga|Deportivo La Coruna|2017/18
+La Liga,19,Malaga,19,4,3,12,14,27,-13,15,Home League Table,2017/18,La Liga|Malaga|2017/18
+La Liga,20,Las Palmas,19,4,2,13,15,38,-23,14,Home League Table,2017/18,La Liga|Las Palmas|2017/18
+La Liga,1,Barcelona,19,12,6,1,46,18,28,42,Away League Table,2017/18,La Liga|Barcelona|2017/18
+La Liga,2,Atletico Madrid,19,11,4,4,28,14,14,37,Away League Table,2017/18,La Liga|Atletico Madrid|2017/18
+La Liga,3,Real Madrid,19,10,6,3,40,24,16,36,Away League Table,2017/18,La Liga|Real Madrid|2017/18
+La Liga,4,Valencia,19,9,4,6,29,22,7,31,Away League Table,2017/18,La Liga|Valencia|2017/18
+La Liga,5,Real Betis,19,8,2,9,25,30,-5,26,Away League Table,2017/18,La Liga|Real Betis|2017/18
+La Liga,6,Villarreal,19,7,4,8,22,28,-6,25,Away League Table,2017/18,La Liga|Villarreal|2017/18
+La Liga,7,Getafe,19,6,6,7,16,20,-4,24,Away League Table,2017/18,La Liga|Getafe|2017/18
+La Liga,8,Girona FC,19,6,6,7,24,37,-13,24,Away League Table,2017/18,La Liga|Girona FC|2017/18
+La Liga,9,Eibar,19,6,5,8,18,31,-13,23,Away League Table,2017/18,La Liga|Eibar|2017/18
+La Liga,10,Sevilla,19,6,2,11,18,36,-18,20,Away League Table,2017/18,La Liga|Sevilla|2017/18
+La Liga,11,CD Alaves,19,6,1,12,19,27,-8,19,Away League Table,2017/18,La Liga|CD Alaves|2017/18
+La Liga,12,Espanyol,19,4,7,8,16,26,-10,19,Away League Table,2017/18,La Liga|Espanyol|2017/18
+La Liga,13,Levante,19,4,7,8,19,30,-11,19,Away League Table,2017/18,La Liga|Levante|2017/18
+La Liga,14,Athletic Bilbao,19,4,5,10,22,33,-11,17,Away League Table,2017/18,La Liga|Athletic Bilbao|2017/18
+La Liga,15,Celta Vigo,19,5,2,12,25,37,-12,17,Away League Table,2017/18,La Liga|Celta Vigo|2017/18
+La Liga,16,Real Sociedad,19,4,4,11,19,30,-11,16,Away League Table,2017/18,La Liga|Real Sociedad|2017/18
+La Liga,17,CD Leganes,19,3,3,13,15,32,-17,12,Away League Table,2017/18,La Liga|CD Leganes|2017/18
+La Liga,18,Deportivo La Coruna,19,2,5,12,16,43,-27,11,Away League Table,2017/18,La Liga|Deportivo La Coruna|2017/18
+La Liga,19,Las Palmas,19,1,5,13,9,36,-27,8,Away League Table,2017/18,La Liga|Las Palmas|2017/18
+La Liga,20,Malaga,19,1,2,16,10,34,-24,5,Away League Table,2017/18,La Liga|Malaga|2017/18
+French Ligue 1,1,Paris Saint-Germain,38,29,6,3,108,29,79,93,League Table,2017/18,French Ligue 1|Paris Saint-Germain|2017/18
+French Ligue 1,2,AS Monaco,38,24,8,6,85,45,40,80,League Table,2017/18,French Ligue 1|AS Monaco|2017/18
+French Ligue 1,3,Olympique Lyonnais,38,23,9,6,87,43,44,78,League Table,2017/18,French Ligue 1|Olympique Lyonnais|2017/18
+French Ligue 1,4,Olympique Marseille,38,22,11,5,80,47,33,77,League Table,2017/18,French Ligue 1|Olympique Marseille|2017/18
+French Ligue 1,5,Stade Rennes,38,16,10,12,50,44,6,58,League Table,2017/18,French Ligue 1|Stade Rennes|2017/18
+French Ligue 1,6,Girondins De Bordeaux,38,16,7,15,53,48,5,55,League Table,2017/18,French Ligue 1|Girondins De Bordeaux|2017/18
+French Ligue 1,7,AS Saint-Etienne,38,15,10,13,47,50,-3,55,League Table,2017/18,French Ligue 1|AS Saint-Etienne|2017/18
+French Ligue 1,8,OGC Nice,38,15,9,14,53,52,1,54,League Table,2017/18,French Ligue 1|OGC Nice|2017/18
+French Ligue 1,9,FC Nantes,38,14,10,14,36,41,-5,52,League Table,2017/18,French Ligue 1|FC Nantes|2017/18
+French Ligue 1,10,Montpellier HSC,38,11,18,9,36,33,3,51,League Table,2017/18,French Ligue 1|Montpellier HSC|2017/18
+French Ligue 1,11,Dijon FCO,38,13,9,16,55,73,-18,48,League Table,2017/18,French Ligue 1|Dijon FCO|2017/18
+French Ligue 1,12,En Avant Guingamp,38,12,11,15,48,59,-11,47,League Table,2017/18,French Ligue 1|En Avant Guingamp|2017/18
+French Ligue 1,13,SC Amiens,38,12,9,17,37,42,-5,45,League Table,2017/18,French Ligue 1|SC Amiens|2017/18
+French Ligue 1,14,Angers SCO,38,9,14,15,42,52,-10,41,League Table,2017/18,French Ligue 1|Angers SCO|2017/18
+French Ligue 1,15,RC Strasbourg,38,9,11,18,44,67,-23,38,League Table,2017/18,French Ligue 1|RC Strasbourg|2017/18
+French Ligue 1,16,Caen,38,10,8,20,27,52,-25,38,League Table,2017/18,French Ligue 1|Caen|2017/18
+French Ligue 1,17,Lille OSC,38,10,8,20,41,67,-26,38,League Table,2017/18,French Ligue 1|Lille OSC|2017/18
+French Ligue 1,18,Toulouse,38,9,10,19,38,54,-16,37,League Table,2017/18,French Ligue 1|Toulouse|2017/18
+French Ligue 1,19,Troyes AC,38,9,6,23,32,59,-27,33,League Table,2017/18,French Ligue 1|Troyes AC|2017/18
+French Ligue 1,20,FC Metz,38,6,8,24,34,76,-42,26,League Table,2017/18,French Ligue 1|FC Metz|2017/18
+French Ligue 1,1,Paris Saint-Germain,19,17,1,1,70,15,55,52,Home League Table,2017/18,French Ligue 1|Paris Saint-Germain|2017/18
+French Ligue 1,2,AS Monaco,19,15,3,1,47,17,30,48,Home League Table,2017/18,French Ligue 1|AS Monaco|2017/18
+French Ligue 1,3,Olympique Marseille,19,12,5,2,44,19,25,41,Home League Table,2017/18,French Ligue 1|Olympique Marseille|2017/18
+French Ligue 1,4,Olympique Lyonnais,19,12,5,2,38,18,20,41,Home League Table,2017/18,French Ligue 1|Olympique Lyonnais|2017/18
+French Ligue 1,5,Dijon FCO,19,11,3,5,35,28,7,36,Home League Table,2017/18,French Ligue 1|Dijon FCO|2017/18
+French Ligue 1,6,OGC Nice,19,10,3,6,29,23,6,33,Home League Table,2017/18,French Ligue 1|OGC Nice|2017/18
+French Ligue 1,7,En Avant Guingamp,19,8,7,4,30,24,6,31,Home League Table,2017/18,French Ligue 1|En Avant Guingamp|2017/18
+French Ligue 1,8,AS Saint-Etienne,19,8,7,4,32,27,5,31,Home League Table,2017/18,French Ligue 1|AS Saint-Etienne|2017/18
+French Ligue 1,9,Girondins De Bordeaux,19,9,4,6,27,23,4,31,Home League Table,2017/18,French Ligue 1|Girondins De Bordeaux|2017/18
+French Ligue 1,10,SC Amiens,19,8,5,6,26,19,7,29,Home League Table,2017/18,French Ligue 1|SC Amiens|2017/18
+French Ligue 1,11,Stade Rennes,19,8,4,7,21,22,-1,28,Home League Table,2017/18,French Ligue 1|Stade Rennes|2017/18
+French Ligue 1,12,FC Nantes,19,8,4,7,15,17,-2,28,Home League Table,2017/18,French Ligue 1|FC Nantes|2017/18
+French Ligue 1,13,RC Strasbourg,19,7,6,6,27,27,0,27,Home League Table,2017/18,French Ligue 1|RC Strasbourg|2017/18
+French Ligue 1,14,Toulouse,19,7,5,7,23,21,2,26,Home League Table,2017/18,French Ligue 1|Toulouse|2017/18
+French Ligue 1,15,Caen,19,7,5,7,17,19,-2,26,Home League Table,2017/18,French Ligue 1|Caen|2017/18
+French Ligue 1,16,Montpellier HSC,19,5,9,5,20,19,1,24,Home League Table,2017/18,French Ligue 1|Montpellier HSC|2017/18
+French Ligue 1,17,Lille OSC,19,6,6,7,24,27,-3,24,Home League Table,2017/18,French Ligue 1|Lille OSC|2017/18
+French Ligue 1,18,Troyes AC,19,7,3,9,17,22,-5,24,Home League Table,2017/18,French Ligue 1|Troyes AC|2017/18
+French Ligue 1,19,Angers SCO,19,5,7,7,23,28,-5,22,Home League Table,2017/18,French Ligue 1|Angers SCO|2017/18
+French Ligue 1,20,FC Metz,19,3,4,12,16,37,-21,13,Home League Table,2017/18,French Ligue 1|FC Metz|2017/18
+French Ligue 1,1,Paris Saint-Germain,19,12,5,2,38,14,24,41,Away League Table,2017/18,French Ligue 1|Paris Saint-Germain|2017/18
+French Ligue 1,2,Olympique Lyonnais,19,11,4,4,49,25,24,37,Away League Table,2017/18,French Ligue 1|Olympique Lyonnais|2017/18
+French Ligue 1,3,Olympique Marseille,19,10,6,3,36,28,8,36,Away League Table,2017/18,French Ligue 1|Olympique Marseille|2017/18
+French Ligue 1,4,AS Monaco,19,9,5,5,38,28,10,32,Away League Table,2017/18,French Ligue 1|AS Monaco|2017/18
+French Ligue 1,5,Stade Rennes,19,8,6,5,29,22,7,30,Away League Table,2017/18,French Ligue 1|Stade Rennes|2017/18
+French Ligue 1,6,Montpellier HSC,19,6,9,4,16,14,2,27,Away League Table,2017/18,French Ligue 1|Montpellier HSC|2017/18
+French Ligue 1,7,Girondins De Bordeaux,19,7,3,9,26,25,1,24,Away League Table,2017/18,French Ligue 1|Girondins De Bordeaux|2017/18
+French Ligue 1,8,FC Nantes,19,6,6,7,21,24,-3,24,Away League Table,2017/18,French Ligue 1|FC Nantes|2017/18
+French Ligue 1,9,AS Saint-Etienne,19,7,3,9,15,23,-8,24,Away League Table,2017/18,French Ligue 1|AS Saint-Etienne|2017/18
+French Ligue 1,10,OGC Nice,19,5,6,8,24,29,-5,21,Away League Table,2017/18,French Ligue 1|OGC Nice|2017/18
+French Ligue 1,11,Angers SCO,19,4,7,8,19,24,-5,19,Away League Table,2017/18,French Ligue 1|Angers SCO|2017/18
+French Ligue 1,12,SC Amiens,19,4,4,11,11,23,-12,16,Away League Table,2017/18,French Ligue 1|SC Amiens|2017/18
+French Ligue 1,13,En Avant Guingamp,19,4,4,11,18,35,-17,16,Away League Table,2017/18,French Ligue 1|En Avant Guingamp|2017/18
+French Ligue 1,14,Lille OSC,19,4,2,13,17,40,-23,14,Away League Table,2017/18,French Ligue 1|Lille OSC|2017/18
+French Ligue 1,15,FC Metz,19,3,4,12,18,39,-21,13,Away League Table,2017/18,French Ligue 1|FC Metz|2017/18
+French Ligue 1,16,Caen,19,3,3,13,10,33,-23,12,Away League Table,2017/18,French Ligue 1|Caen|2017/18
+French Ligue 1,17,Dijon FCO,19,2,6,11,20,45,-25,12,Away League Table,2017/18,French Ligue 1|Dijon FCO|2017/18
+French Ligue 1,18,Toulouse,19,2,5,12,15,33,-18,11,Away League Table,2017/18,French Ligue 1|Toulouse|2017/18
+French Ligue 1,19,RC Strasbourg,19,2,5,12,17,40,-23,11,Away League Table,2017/18,French Ligue 1|RC Strasbourg|2017/18
+French Ligue 1,20,Troyes AC,19,2,3,14,15,37,-22,9,Away League Table,2017/18,French Ligue 1|Troyes AC|2017/18
+Eredivisie,1,PSV Eindhoven,34,26,5,3,87,39,48,83,League Table,2017/18,Eredivisie|PSV Eindhoven|2017/18
+Eredivisie,2,AFC Ajax,34,25,4,5,89,33,56,79,League Table,2017/18,Eredivisie|AFC Ajax|2017/18
+Eredivisie,3,AZ Alkmaar,34,22,5,7,72,38,34,71,League Table,2017/18,Eredivisie|AZ Alkmaar|2017/18
+Eredivisie,4,Feyenoord,34,20,6,8,76,39,37,66,League Table,2017/18,Eredivisie|Feyenoord|2017/18
+Eredivisie,5,FC Utrecht,34,14,12,8,58,53,5,54,League Table,2017/18,Eredivisie|FC Utrecht|2017/18
+Eredivisie,6,Vitesse Arnhem,34,13,10,11,63,47,16,49,League Table,2017/18,Eredivisie|Vitesse Arnhem|2017/18
+Eredivisie,7,ADO Den Haag,34,13,8,13,45,53,-8,47,League Table,2017/18,Eredivisie|ADO Den Haag|2017/18
+Eredivisie,8,SC Heerenveen,34,12,10,12,48,53,-5,46,League Table,2017/18,Eredivisie|SC Heerenveen|2017/18
+Eredivisie,9,PEC Zwolle,34,12,8,14,42,54,-12,44,League Table,2017/18,Eredivisie|PEC Zwolle|2017/18
+Eredivisie,10,Heracles Almelo,34,11,9,14,50,64,-14,42,League Table,2017/18,Eredivisie|Heracles Almelo|2017/18
+Eredivisie,11,SBV Excelsior,34,11,7,16,41,56,-15,40,League Table,2017/18,Eredivisie|SBV Excelsior|2017/18
+Eredivisie,12,FC Groningen,34,8,14,12,50,50,0,38,League Table,2017/18,Eredivisie|FC Groningen|2017/18
+Eredivisie,13,Willem II Tilburg,34,10,7,17,50,63,-13,37,League Table,2017/18,Eredivisie|Willem II Tilburg|2017/18
+Eredivisie,14,NAC Breda,34,9,7,18,41,57,-16,34,League Table,2017/18,Eredivisie|NAC Breda|2017/18
+Eredivisie,15,VVV Venlo,34,7,13,14,35,54,-19,34,League Table,2017/18,Eredivisie|VVV Venlo|2017/18
+Eredivisie,16,Roda JC Kerkrade,34,8,6,20,42,69,-27,30,League Table,2017/18,Eredivisie|Roda JC Kerkrade|2017/18
+Eredivisie,17,Sparta Rotterdam,34,7,6,21,34,75,-41,27,League Table,2017/18,Eredivisie|Sparta Rotterdam|2017/18
+Eredivisie,18,FC Twente,34,5,9,20,37,63,-26,24,League Table,2017/18,Eredivisie|FC Twente|2017/18
+Eredivisie,1,PSV Eindhoven,17,15,2,-,44,9,35,47,Home League Table,2017/18,Eredivisie|PSV Eindhoven|2017/18
+Eredivisie,2,AFC Ajax,17,14,1,2,45,12,33,43,Home League Table,2017/18,Eredivisie|AFC Ajax|2017/18
+Eredivisie,3,Feyenoord,17,11,3,3,37,17,20,36,Home League Table,2017/18,Eredivisie|Feyenoord|2017/18
+Eredivisie,4,AZ Alkmaar,17,11,2,4,40,23,17,35,Home League Table,2017/18,Eredivisie|AZ Alkmaar|2017/18
+Eredivisie,5,FC Utrecht,17,9,7,1,32,21,11,34,Home League Table,2017/18,Eredivisie|FC Utrecht|2017/18
+Eredivisie,6,Heracles Almelo,17,9,4,4,29,25,4,31,Home League Table,2017/18,Eredivisie|Heracles Almelo|2017/18
+Eredivisie,7,FC Groningen,17,7,7,3,32,21,11,28,Home League Table,2017/18,Eredivisie|FC Groningen|2017/18
+Eredivisie,8,PEC Zwolle,17,8,4,5,27,20,7,28,Home League Table,2017/18,Eredivisie|PEC Zwolle|2017/18
+Eredivisie,9,Vitesse Arnhem,17,7,6,4,35,20,15,27,Home League Table,2017/18,Eredivisie|Vitesse Arnhem|2017/18
+Eredivisie,10,ADO Den Haag,17,7,4,6,26,27,-1,25,Home League Table,2017/18,Eredivisie|ADO Den Haag|2017/18
+Eredivisie,11,SC Heerenveen,17,6,5,6,21,24,-3,23,Home League Table,2017/18,Eredivisie|SC Heerenveen|2017/18
+Eredivisie,12,Willem II Tilburg,17,6,4,7,31,29,2,22,Home League Table,2017/18,Eredivisie|Willem II Tilburg|2017/18
+Eredivisie,13,NAC Breda,17,7,1,9,26,31,-5,22,Home League Table,2017/18,Eredivisie|NAC Breda|2017/18
+Eredivisie,14,Sparta Rotterdam,17,6,2,9,21,36,-15,20,Home League Table,2017/18,Eredivisie|Sparta Rotterdam|2017/18
+Eredivisie,15,FC Twente,17,4,6,7,25,31,-6,18,Home League Table,2017/18,Eredivisie|FC Twente|2017/18
+Eredivisie,16,Roda JC Kerkrade,17,4,4,9,21,34,-13,16,Home League Table,2017/18,Eredivisie|Roda JC Kerkrade|2017/18
+Eredivisie,17,VVV Venlo,17,3,6,8,19,29,-10,15,Home League Table,2017/18,Eredivisie|VVV Venlo|2017/18
+Eredivisie,18,SBV Excelsior,17,3,5,9,16,24,-8,14,Home League Table,2017/18,Eredivisie|SBV Excelsior|2017/18
+Eredivisie,1,AFC Ajax,17,11,3,3,44,21,23,36,Away League Table,2017/18,Eredivisie|AFC Ajax|2017/18
+Eredivisie,2,AZ Alkmaar,17,11,3,3,32,15,17,36,Away League Table,2017/18,Eredivisie|AZ Alkmaar|2017/18
+Eredivisie,3,PSV Eindhoven,17,11,3,3,43,30,13,36,Away League Table,2017/18,Eredivisie|PSV Eindhoven|2017/18
+Eredivisie,4,Feyenoord,17,9,3,5,39,22,17,30,Away League Table,2017/18,Eredivisie|Feyenoord|2017/18
+Eredivisie,5,SBV Excelsior,17,8,2,7,25,32,-7,26,Away League Table,2017/18,Eredivisie|SBV Excelsior|2017/18
+Eredivisie,6,SC Heerenveen,17,6,5,6,27,29,-2,23,Away League Table,2017/18,Eredivisie|SC Heerenveen|2017/18
+Eredivisie,7,Vitesse Arnhem,17,6,4,7,28,27,1,22,Away League Table,2017/18,Eredivisie|Vitesse Arnhem|2017/18
+Eredivisie,8,ADO Den Haag,17,6,4,7,19,26,-7,22,Away League Table,2017/18,Eredivisie|ADO Den Haag|2017/18
+Eredivisie,9,FC Utrecht,17,5,5,7,26,32,-6,20,Away League Table,2017/18,Eredivisie|FC Utrecht|2017/18
+Eredivisie,10,VVV Venlo,17,4,7,6,16,25,-9,19,Away League Table,2017/18,Eredivisie|VVV Venlo|2017/18
+Eredivisie,11,PEC Zwolle,17,4,4,9,15,34,-19,16,Away League Table,2017/18,Eredivisie|PEC Zwolle|2017/18
+Eredivisie,12,Willem II Tilburg,17,4,3,10,19,34,-15,15,Away League Table,2017/18,Eredivisie|Willem II Tilburg|2017/18
+Eredivisie,13,Roda JC Kerkrade,17,4,2,11,21,35,-14,14,Away League Table,2017/18,Eredivisie|Roda JC Kerkrade|2017/18
+Eredivisie,14,NAC Breda,17,2,6,9,15,26,-11,12,Away League Table,2017/18,Eredivisie|NAC Breda|2017/18
+Eredivisie,15,Heracles Almelo,17,2,5,10,21,39,-18,11,Away League Table,2017/18,Eredivisie|Heracles Almelo|2017/18
+Eredivisie,16,FC Groningen,17,1,7,9,18,29,-11,10,Away League Table,2017/18,Eredivisie|FC Groningen|2017/18
+Eredivisie,17,Sparta Rotterdam,17,1,4,12,13,39,-26,7,Away League Table,2017/18,Eredivisie|Sparta Rotterdam|2017/18
+Eredivisie,18,FC Twente,17,1,3,13,12,32,-20,6,Away League Table,2017/18,Eredivisie|FC Twente|2017/18
+Serie A,1,Juventus,38,30,5,3,86,24,62,95,League Table,2017/18,Serie A|Juventus|2017/18
+Serie A,2,Napoli,38,28,7,3,77,29,48,91,League Table,2017/18,Serie A|Napoli|2017/18
+Serie A,3,AS Roma,38,23,8,7,61,28,33,77,League Table,2017/18,Serie A|AS Roma|2017/18
+Serie A,4,SS Lazio,38,21,9,8,89,49,40,72,League Table,2017/18,Serie A|SS Lazio|2017/18
+Serie A,5,Internazionale,38,20,12,6,66,30,36,72,League Table,2017/18,Serie A|Internazionale|2017/18
+Serie A,6,AC Milan,38,18,10,10,56,42,14,64,League Table,2017/18,Serie A|AC Milan|2017/18
+Serie A,7,Atalanta,38,16,12,10,57,39,18,60,League Table,2017/18,Serie A|Atalanta|2017/18
+Serie A,8,Fiorentina,38,16,9,13,54,46,8,57,League Table,2017/18,Serie A|Fiorentina|2017/18
+Serie A,9,Torino,38,13,15,10,54,46,8,54,League Table,2017/18,Serie A|Torino|2017/18
+Serie A,10,Sampdoria,38,16,6,16,56,60,-4,54,League Table,2017/18,Serie A|Sampdoria|2017/18
+Serie A,11,Sassuolo,38,11,10,17,29,59,-30,43,League Table,2017/18,Serie A|Sassuolo|2017/18
+Serie A,12,Genoa,38,11,8,19,33,43,-10,41,League Table,2017/18,Serie A|Genoa|2017/18
+Serie A,13,Udinese,38,12,4,22,48,63,-15,40,League Table,2017/18,Serie A|Udinese|2017/18
+Serie A,14,Chievo,38,10,10,18,36,59,-23,40,League Table,2017/18,Serie A|Chievo|2017/18
+Serie A,15,Bologna,38,11,6,21,40,52,-12,39,League Table,2017/18,Serie A|Bologna|2017/18
+Serie A,16,Cagliari,38,11,6,21,33,61,-28,39,League Table,2017/18,Serie A|Cagliari|2017/18
+Serie A,17,SPAL,38,8,14,16,39,59,-20,38,League Table,2017/18,Serie A|SPAL|2017/18
+Serie A,18,FC Crotone,38,9,8,21,40,66,-26,35,League Table,2017/18,Serie A|FC Crotone|2017/18
+Serie A,19,Hellas Verona,38,7,4,27,30,78,-48,25,League Table,2017/18,Serie A|Hellas Verona|2017/18
+Serie A,20,Benevento,38,6,3,29,33,84,-51,21,League Table,2017/18,Serie A|Benevento|2017/18
+Serie A,1,Juventus,19,16,1,2,45,8,37,49,Home League Table,2017/18,Serie A|Juventus|2017/18
+Serie A,2,Napoli,19,14,3,2,43,18,25,45,Home League Table,2017/18,Serie A|Napoli|2017/18
+Serie A,3,Sampdoria,19,12,3,4,36,20,16,39,Home League Table,2017/18,Serie A|Sampdoria|2017/18
+Serie A,4,Internazionale,19,11,5,3,37,16,21,38,Home League Table,2017/18,Serie A|Internazionale|2017/18
+Serie A,5,AS Roma,19,11,2,6,31,19,12,35,Home League Table,2017/18,Serie A|AS Roma|2017/18
+Serie A,6,AC Milan,19,10,5,4,25,16,9,35,Home League Table,2017/18,Serie A|AC Milan|2017/18
+Serie A,7,Atalanta,19,9,6,4,30,18,12,33,Home League Table,2017/18,Serie A|Atalanta|2017/18
+Serie A,8,SS Lazio,19,9,5,5,45,21,24,32,Home League Table,2017/18,Serie A|SS Lazio|2017/18
+Serie A,9,Torino,19,8,6,5,29,18,11,30,Home League Table,2017/18,Serie A|Torino|2017/18
+Serie A,10,Fiorentina,19,8,5,6,27,22,5,29,Home League Table,2017/18,Serie A|Fiorentina|2017/18
+Serie A,11,Chievo,19,7,6,6,22,24,-2,27,Home League Table,2017/18,Serie A|Chievo|2017/18
+Serie A,12,FC Crotone,19,6,6,7,23,25,-2,24,Home League Table,2017/18,Serie A|FC Crotone|2017/18
+Serie A,13,SPAL,19,5,8,6,22,29,-7,23,Home League Table,2017/18,Serie A|SPAL|2017/18
+Serie A,14,Bologna,19,6,4,9,25,26,-1,22,Home League Table,2017/18,Serie A|Bologna|2017/18
+Serie A,15,Genoa,19,6,3,10,23,27,-4,21,Home League Table,2017/18,Serie A|Genoa|2017/18
+Serie A,16,Cagliari,19,6,3,10,18,30,-12,21,Home League Table,2017/18,Serie A|Cagliari|2017/18
+Serie A,17,Udinese,19,6,2,11,24,30,-6,20,Home League Table,2017/18,Serie A|Udinese|2017/18
+Serie A,18,Sassuolo,19,4,7,8,11,22,-11,19,Home League Table,2017/18,Serie A|Sassuolo|2017/18
+Serie A,19,Benevento,19,5,2,12,23,40,-17,17,Home League Table,2017/18,Serie A|Benevento|2017/18
+Serie A,20,Hellas Verona,19,5,1,13,14,35,-21,16,Home League Table,2017/18,Serie A|Hellas Verona|2017/18
+Serie A,1,Juventus,19,14,4,1,41,16,25,46,Away League Table,2017/18,Serie A|Juventus|2017/18
+Serie A,2,Napoli,19,14,4,1,34,11,23,46,Away League Table,2017/18,Serie A|Napoli|2017/18
+Serie A,3,AS Roma,19,12,6,1,30,9,21,42,Away League Table,2017/18,Serie A|AS Roma|2017/18
+Serie A,4,SS Lazio,19,12,4,3,44,28,16,40,Away League Table,2017/18,Serie A|SS Lazio|2017/18
+Serie A,5,Internazionale,19,9,7,3,29,14,15,34,Away League Table,2017/18,Serie A|Internazionale|2017/18
+Serie A,6,AC Milan,19,8,5,6,31,26,5,29,Away League Table,2017/18,Serie A|AC Milan|2017/18
+Serie A,7,Fiorentina,19,8,4,7,27,24,3,28,Away League Table,2017/18,Serie A|Fiorentina|2017/18
+Serie A,8,Atalanta,19,7,6,6,27,21,6,27,Away League Table,2017/18,Serie A|Atalanta|2017/18
+Serie A,9,Torino,19,5,9,5,25,28,-3,24,Away League Table,2017/18,Serie A|Torino|2017/18
+Serie A,10,Sassuolo,19,7,3,9,18,37,-19,24,Away League Table,2017/18,Serie A|Sassuolo|2017/18
+Serie A,11,Genoa,19,5,5,9,10,16,-6,20,Away League Table,2017/18,Serie A|Genoa|2017/18
+Serie A,12,Udinese,19,6,2,11,24,33,-9,20,Away League Table,2017/18,Serie A|Udinese|2017/18
+Serie A,13,Cagliari,19,5,3,11,15,31,-16,18,Away League Table,2017/18,Serie A|Cagliari|2017/18
+Serie A,14,Bologna,19,5,2,12,15,26,-11,17,Away League Table,2017/18,Serie A|Bologna|2017/18
+Serie A,15,SPAL,19,3,6,10,17,30,-13,15,Away League Table,2017/18,Serie A|SPAL|2017/18
+Serie A,16,Sampdoria,19,4,3,12,20,40,-20,15,Away League Table,2017/18,Serie A|Sampdoria|2017/18
+Serie A,17,Chievo,19,3,4,12,14,35,-21,13,Away League Table,2017/18,Serie A|Chievo|2017/18
+Serie A,18,FC Crotone,19,3,2,14,17,41,-24,11,Away League Table,2017/18,Serie A|FC Crotone|2017/18
+Serie A,19,Hellas Verona,19,2,3,14,16,43,-27,9,Away League Table,2017/18,Serie A|Hellas Verona|2017/18
+Serie A,20,Benevento,19,1,1,17,10,44,-34,4,Away League Table,2017/18,Serie A|Benevento|2017/18
+Scottish Premiership,1,Celtic,38,24,10,4,73,25,48,82,League Table,2017/18,Scottish Premiership|Celtic|2017/18
+Scottish Premiership,2,Aberdeen,38,22,7,9,56,37,19,73,League Table,2017/18,Scottish Premiership|Aberdeen|2017/18
+Scottish Premiership,3,Rangers,38,21,7,10,76,50,26,70,League Table,2017/18,Scottish Premiership|Rangers|2017/18
+Scottish Premiership,4,Hibernian,38,18,13,7,62,46,16,67,League Table,2017/18,Scottish Premiership|Hibernian|2017/18
+Scottish Premiership,5,Kilmarnock,38,16,11,11,49,47,2,59,League Table,2017/18,Scottish Premiership|Kilmarnock|2017/18
+Scottish Premiership,6,Heart of Midlothian,38,12,13,13,39,39,0,49,League Table,2017/18,Scottish Premiership|Heart of Midlothian|2017/18
+Scottish Premiership,7,Motherwell,38,13,9,16,43,49,-6,48,League Table,2017/18,Scottish Premiership|Motherwell|2017/18
+Scottish Premiership,8,St Johnstone,38,12,10,16,42,53,-11,46,League Table,2017/18,Scottish Premiership|St Johnstone|2017/18
+Scottish Premiership,9,Dundee,38,11,6,21,36,57,-21,39,League Table,2017/18,Scottish Premiership|Dundee|2017/18
+Scottish Premiership,10,Hamilton Academical,38,9,6,23,47,68,-21,33,League Table,2017/18,Scottish Premiership|Hamilton Academical|2017/18
+Scottish Premiership,11,Partick Thistle,38,8,9,21,31,61,-30,33,League Table,2017/18,Scottish Premiership|Partick Thistle|2017/18
+Scottish Premiership,12,Ross County,38,6,11,21,40,62,-22,29,League Table,2017/18,Scottish Premiership|Ross County|2017/18
+Scottish Premiership,1,Celtic,19,11,7,1,38,9,29,40,Home League Table,2017/18,Scottish Premiership|Celtic|2017/18
+Scottish Premiership,2,Aberdeen,19,11,4,4,30,16,14,37,Home League Table,2017/18,Scottish Premiership|Aberdeen|2017/18
+Scottish Premiership,3,Hibernian,19,11,4,4,39,27,12,37,Home League Table,2017/18,Scottish Premiership|Hibernian|2017/18
+Scottish Premiership,4,Rangers,19,10,2,7,32,20,12,32,Home League Table,2017/18,Scottish Premiership|Rangers|2017/18
+Scottish Premiership,5,Heart of Midlothian,18,8,7,3,23,13,10,31,Home League Table,2017/18,Scottish Premiership|Heart of Midlothian|2017/18
+Scottish Premiership,6,Kilmarnock,19,9,3,7,27,26,1,30,Home League Table,2017/18,Scottish Premiership|Kilmarnock|2017/18
+Scottish Premiership,7,Motherwell,20,8,5,7,26,22,4,29,Home League Table,2017/18,Scottish Premiership|Motherwell|2017/18
+Scottish Premiership,8,Partick Thistle,19,6,4,9,20,24,-4,22,Home League Table,2017/18,Scottish Premiership|Partick Thistle|2017/18
+Scottish Premiership,9,St Johnstone,19,5,7,7,17,27,-10,22,Home League Table,2017/18,Scottish Premiership|St Johnstone|2017/18
+Scottish Premiership,10,Dundee,19,6,3,10,18,27,-9,21,Home League Table,2017/18,Scottish Premiership|Dundee|2017/18
+Scottish Premiership,11,Hamilton Academical,19,5,3,11,26,35,-9,18,Home League Table,2017/18,Scottish Premiership|Hamilton Academical|2017/18
+Scottish Premiership,12,Ross County,19,3,7,9,23,29,-6,16,Home League Table,2017/18,Scottish Premiership|Ross County|2017/18
+Scottish Premiership,1,Celtic,19,13,3,3,35,16,19,42,Away League Table,2017/18,Scottish Premiership|Celtic|2017/18
+Scottish Premiership,2,Rangers,19,11,5,3,44,30,14,38,Away League Table,2017/18,Scottish Premiership|Rangers|2017/18
+Scottish Premiership,3,Aberdeen,19,11,3,5,26,21,5,36,Away League Table,2017/18,Scottish Premiership|Aberdeen|2017/18
+Scottish Premiership,4,Hibernian,19,7,9,3,23,19,4,30,Away League Table,2017/18,Scottish Premiership|Hibernian|2017/18
+Scottish Premiership,5,Kilmarnock,19,7,8,4,22,21,1,29,Away League Table,2017/18,Scottish Premiership|Kilmarnock|2017/18
+Scottish Premiership,6,St Johnstone,19,7,3,9,25,26,-1,24,Away League Table,2017/18,Scottish Premiership|St Johnstone|2017/18
+Scottish Premiership,7,Motherwell,18,5,4,9,17,27,-10,19,Away League Table,2017/18,Scottish Premiership|Motherwell|2017/18
+Scottish Premiership,8,Heart of Midlothian,20,4,6,10,16,26,-10,18,Away League Table,2017/18,Scottish Premiership|Heart of Midlothian|2017/18
+Scottish Premiership,9,Dundee,19,5,3,11,18,30,-12,18,Away League Table,2017/18,Scottish Premiership|Dundee|2017/18
+Scottish Premiership,10,Hamilton Academical,19,4,3,12,21,33,-12,15,Away League Table,2017/18,Scottish Premiership|Hamilton Academical|2017/18
+Scottish Premiership,11,Ross County,19,3,4,12,17,33,-16,13,Away League Table,2017/18,Scottish Premiership|Ross County|2017/18
+Scottish Premiership,12,Partick Thistle,19,2,5,12,11,37,-26,11,Away League Table,2017/18,Scottish Premiership|Partick Thistle|2017/18
